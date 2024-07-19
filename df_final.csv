@@ -1,0 +1,2174 @@
+user_id,device,country,timestamp,group,converted,session_duration,hour_of_day
+42,Smartphone,França,2024-06-01 06:02:00,Nível 0,1,18.6757654,6
+1650,Tablet,Reino Unido,2024-06-01 14:41:00,Nível 0,1,4.283270494,14
+1308,Tablet,Reino Unido,2024-06-01 08:19:00,Nível 1,1,17.94985294,8
+671,Smartphone,França,2024-06-01 15:29:00,Nível 0,1,18.844162057,15
+51,Smartphone,Brasil,2024-06-01 14:30:00,Nível 0,1,4.285243665,14
+579,Desktop,França,2024-06-01 11:25:00,Nível 1,0,0.0,11
+852,Desktop,Canadá,2024-06-01 18:08:00,Nível 0,0,0.0,18
+61,Desktop,Canadá,2024-06-01 08:13:00,Nível 0,0,0.0,8
+1537,Tablet,Brasil,2024-06-01 19:30:00,Nível 0,0,0.0,19
+1431,Smartphone,Índia,2024-06-01 13:29:00,Nível 1,0,0.0,13
+158,Smartphone,Brasil,2024-06-01 04:32:00,Nível 0,1,54.90040802,4
+108,Tablet,EUA,2024-06-01 19:11:00,Nível 0,1,19.169379081,19
+1427,Smartphone,Austrália,2024-06-01 18:25:00,Nível 1,0,0.0,18
+1450,Desktop,Índia,2024-06-01 12:40:00,Nível 0,1,45.28362456,12
+1807,Desktop,Alemanha,2024-06-01 13:18:00,Nível 0,0,0.0,13
+1366,Desktop,França,2024-06-01 22:05:00,Nível 1,0,0.0,22
+849,Tablet,Austrália,2024-06-01 16:29:00,Nível 1,0,0.0,16
+838,Smartphone,Austrália,2024-06-01 22:50:00,Nível 0,0,0.0,22
+25,Smartphone,Índia,2024-06-01 10:49:00,Nível 1,1,17.46682583,10
+1154,Smartphone,França,2024-06-01 03:20:00,Nível 0,0,0.0,3
+488,Smartphone,Reino Unido,2024-06-01 08:57:00,Nível 0,1,18.616823695,8
+742,Tablet,EUA,2024-06-01 11:50:00,Nível 0,1,19.424792266,11
+749,Smartphone,França,2024-06-01 15:24:00,Nível 0,0,0.0,15
+795,Desktop,Brasil,2024-06-01 07:47:00,Nível 1,0,0.0,7
+230,Desktop,EUA,2024-06-01 10:14:00,Nível 1,0,0.0,10
+17,Tablet,EUA,2024-06-01 01:43:00,Nível 1,0,0.0,1
+1265,Tablet,Canadá,2024-06-01 17:52:00,Nível 1,1,3.060815654,17
+976,Desktop,Brasil,2024-06-01 15:56:00,Nível 0,1,4.536810972,15
+1474,Tablet,Alemanha,2024-06-01 01:10:00,Nível 0,0,0.0,1
+1359,Tablet,Índia,2024-06-01 13:19:00,Nível 0,0,0.0,13
+1133,Desktop,Austrália,2024-06-01 12:44:00,Nível 0,1,18.828332412,12
+833,Smartphone,Canadá,2024-06-01 09:47:00,Nível 0,1,64.44639398000001,9
+667,Desktop,Alemanha,2024-06-01 01:50:00,Nível 1,0,0.0,1
+1169,Desktop,Alemanha,2024-06-01 08:46:00,Nível 1,0,0.0,8
+1944,Tablet,Índia,2024-06-01 12:37:00,Nível 0,1,19.009023626,12
+456,Tablet,Índia,2024-06-01 22:14:00,Nível 0,0,0.0,22
+502,Smartphone,Alemanha,2024-06-01 14:11:00,Nível 0,0,0.0,14
+1909,Desktop,Índia,2024-06-01 06:44:00,Nível 0,0,0.0,6
+1483,Desktop,EUA,2024-06-01 22:43:00,Nível 0,1,41.16047319,22
+1705,Desktop,Brasil,2024-06-01 06:23:00,Nível 0,0,0.0,6
+666,Desktop,Austrália,2024-06-01 17:11:00,Nível 1,0,0.0,17
+1219,Smartphone,Brasil,2024-06-01 03:07:00,Nível 0,0,0.0,3
+1640,Smartphone,Austrália,2024-06-01 10:45:00,Nível 1,0,0.0,10
+1967,Smartphone,Alemanha,2024-06-01 02:17:00,Nível 1,0,0.0,2
+1359,Smartphone,Alemanha,2024-06-01 14:24:00,Nível 0,0,0.0,14
+1855,Desktop,Austrália,2024-06-01 17:28:00,Nível 1,0,0.0,17
+929,Smartphone,Brasil,2024-06-01 09:18:00,Nível 0,0,0.0,9
+1268,Desktop,Alemanha,2024-06-01 16:16:00,Nível 0,0,0.0,16
+629,Desktop,Índia,2024-06-01 23:34:00,Nível 1,1,2.173698743,23
+710,Desktop,Índia,2024-06-01 16:24:00,Nível 0,1,3.746141615,16
+1892,Tablet,Reino Unido,2024-06-01 03:39:00,Nível 1,0,0.0,3
+1110,Desktop,Índia,2024-06-01 12:07:00,Nível 1,0,0.0,12
+767,Tablet,Índia,2024-06-01 06:35:00,Nível 1,0,0.0,6
+1087,Tablet,Alemanha,2024-06-01 21:31:00,Nível 1,0,0.0,21
+919,Desktop,Canadá,2024-06-01 22:40:00,Nível 0,1,18.898830547,22
+161,Smartphone,Reino Unido,2024-06-01 11:47:00,Nível 0,1,18.562900365,11
+96,Tablet,Austrália,2024-06-01 22:12:00,Nível 1,0,0.0,22
+1063,Desktop,Reino Unido,2024-06-01 06:06:00,Nível 0,0,0.0,6
+1465,Tablet,Brasil,2024-06-01 12:26:00,Nível 0,0,0.0,12
+1167,Tablet,Austrália,2024-06-01 02:14:00,Nível 1,0,0.0,2
+1143,Desktop,Austrália,2024-06-01 23:32:00,Nível 0,0,0.0,23
+1435,Desktop,Reino Unido,2024-06-01 10:40:00,Nível 1,1,2.667114597,10
+738,Desktop,EUA,2024-06-01 14:14:00,Nível 1,0,0.0,14
+714,Smartphone,França,2024-06-01 18:22:00,Nível 0,0,0.0,18
+1646,Smartphone,Brasil,2024-06-01 08:27:00,Nível 0,0,0.0,8
+769,Smartphone,Brasil,2024-06-01 18:49:00,Nível 1,0,0.0,18
+1864,Smartphone,Canadá,2024-06-01 18:35:00,Nível 0,1,3.941413998,18
+397,Desktop,Austrália,2024-06-01 12:50:00,Nível 1,0,0.0,12
+1215,Smartphone,França,2024-06-01 16:04:00,Nível 1,1,5.749849453,16
+1580,Desktop,Reino Unido,2024-06-01 22:18:00,Nível 1,0,0.0,22
+714,Smartphone,Canadá,2024-06-01 20:04:00,Nível 0,1,4.618416233,20
+1,Smartphone,Reino Unido,2024-06-01 06:22:00,Nível 1,0,0.0,6
+884,Tablet,Reino Unido,2024-06-01 05:44:00,Nível 0,0,0.0,5
+249,Smartphone,Índia,2024-06-01 07:55:00,Nível 0,0,0.0,7
+1824,Smartphone,Alemanha,2024-06-01 16:53:00,Nível 0,0,0.0,16
+1591,Tablet,Canadá,2024-06-01 05:50:00,Nível 1,0,0.0,5
+1344,Tablet,Canadá,2024-06-01 16:56:00,Nível 1,0,0.0,16
+1405,Smartphone,França,2024-06-01 11:37:00,Nível 0,1,19.637341925,11
+1574,Smartphone,França,2024-06-01 21:57:00,Nível 0,0,0.0,21
+114,Smartphone,França,2024-06-01 16:18:00,Nível 1,0,0.0,16
+823,Tablet,EUA,2024-06-01 11:32:00,Nível 1,0,0.0,11
+1208,Desktop,EUA,2024-06-01 03:06:00,Nível 0,0,0.0,3
+567,Desktop,Índia,2024-06-01 20:05:00,Nível 0,1,4.963142927,20
+111,Desktop,Reino Unido,2024-06-01 20:11:00,Nível 1,0,0.0,20
+1143,Desktop,Austrália,2024-06-01 12:44:00,Nível 0,1,18.828332412,12
+546,Desktop,EUA,2024-06-01 10:10:00,Nível 0,0,0.0,10
+156,Smartphone,França,2024-06-01 01:06:00,Nível 1,1,1.900970118,1
+485,Smartphone,Reino Unido,2024-06-01 10:17:00,Nível 0,0,0.0,10
+1953,Desktop,Alemanha,2024-06-01 06:37:00,Nível 0,0,0.0,6
+1347,Desktop,Austrália,2024-06-01 13:15:00,Nível 1,0,0.0,13
+1045,Smartphone,Brasil,2024-06-01 16:38:00,Nível 0,0,0.0,16
+488,Desktop,Austrália,2024-06-01 05:13:00,Nível 0,1,18.943218718,5
+1302,Smartphone,França,2024-06-01 12:56:00,Nível 0,1,18.993978224,12
+1827,Tablet,França,2024-06-01 14:58:00,Nível 0,0,0.0,14
+178,Desktop,Canadá,2024-06-01 09:56:00,Nível 0,1,2.992968363,9
+15,Smartphone,Austrália,2024-06-01 12:00:00,Nível 0,0,0.0,12
+699,Smartphone,Alemanha,2024-06-01 12:33:00,Nível 0,1,4.039957632,12
+1408,Tablet,EUA,2024-06-01 21:19:00,Nível 0,0,0.0,21
+824,Smartphone,Índia,2024-06-01 11:41:00,Nível 0,1,19.691597258,11
+1443,Smartphone,EUA,2024-06-01 09:48:00,Nível 0,1,18.005026865,9
+961,Desktop,Brasil,2024-06-01 08:38:00,Nível 0,0,0.0,8
+1804,Tablet,Brasil,2024-06-01 14:08:00,Nível 0,0,0.0,14
+967,Tablet,Alemanha,2024-06-01 08:40:00,Nível 1,0,0.0,8
+805,Tablet,Austrália,2024-06-01 05:39:00,Nível 1,0,0.0,5
+244,Tablet,Austrália,2024-06-01 09:01:00,Nível 0,0,0.0,9
+184,Desktop,Alemanha,2024-06-01 21:10:00,Nível 1,0,0.0,21
+218,Tablet,França,2024-06-01 09:29:00,Nível 1,0,0.0,9
+435,Desktop,França,2024-06-01 08:14:00,Nível 1,0,0.0,8
+412,Desktop,Canadá,2024-06-01 08:59:00,Nível 1,1,19.53562749,8
+509,Desktop,Alemanha,2024-06-01 11:48:00,Nível 0,1,3.421529301,11
+1888,Smartphone,Brasil,2024-06-01 18:29:00,Nível 1,0,0.0,18
+126,Smartphone,Reino Unido,2024-06-01 11:45:00,Nível 1,1,24.23059235,11
+866,Smartphone,Reino Unido,2024-06-01 04:00:00,Nível 1,0,0.0,4
+1758,Smartphone,Austrália,2024-06-01 15:44:00,Nível 0,1,35.61651457,15
+685,Tablet,Reino Unido,2024-06-01 23:10:00,Nível 1,0,0.0,23
+346,Tablet,Alemanha,2024-06-01 07:14:00,Nível 0,0,0.0,7
+1840,Desktop,Canadá,2024-06-01 09:59:00,Nível 0,1,19.615230024,9
+146,Desktop,Índia,2024-06-01 13:27:00,Nível 1,0,0.0,13
+1530,Desktop,Alemanha,2024-06-01 18:36:00,Nível 0,1,3.964581576,18
+18,Smartphone,Alemanha,2024-06-01 10:00:00,Nível 0,1,4.438913016,10
+693,Desktop,Alemanha,2024-06-01 16:00:00,Nível 1,0,0.0,16
+339,Tablet,Alemanha,2024-06-01 19:41:00,Nível 0,0,0.0,19
+1167,Desktop,Brasil,2024-06-01 06:07:00,Nível 0,0,0.0,6
+1440,Desktop,Índia,2024-06-01 12:40:00,Nível 0,1,60.28362456,12
+1246,Smartphone,Alemanha,2024-06-01 15:55:00,Nível 1,0,0.0,15
+821,Tablet,EUA,2024-06-01 21:32:00,Nível 0,0,0.0,21
+1161,Desktop,Índia,2024-06-01 04:14:00,Nível 1,0,0.0,4
+802,Tablet,Índia,2024-06-01 14:56:00,Nível 0,0,0.0,14
+823,Smartphone,Canadá,2024-06-01 09:47:00,Nível 0,1,64.44639398000001,9
+1027,Tablet,Brasil,2024-06-01 05:33:00,Nível 1,0,0.0,5
+900,Tablet,Alemanha,2024-06-01 12:10:00,Nível 0,0,0.0,12
+710,Desktop,França,2024-06-01 01:18:00,Nível 0,0,0.0,1
+952,Tablet,Brasil,2024-06-01 23:42:00,Nível 0,1,4.122557142,23
+1820,Desktop,França,2024-06-01 18:12:00,Nível 1,0,0.0,18
+432,Tablet,Alemanha,2024-06-01 20:40:00,Nível 0,0,0.0,20
+1616,Desktop,Índia,2024-06-01 09:13:00,Nível 0,0,0.0,9
+476,Tablet,Austrália,2024-06-01 00:26:00,Nível 0,0,0.0,0
+815,Tablet,Índia,2024-06-01 11:19:00,Nível 0,0,0.0,11
+1959,Smartphone,EUA,2024-06-01 13:57:00,Nível 1,0,0.0,13
+285,Tablet,Reino Unido,2024-06-01 21:50:00,Nível 1,1,17.57991438,21
+445,Smartphone,Índia,2024-06-01 20:56:00,Nível 0,0,0.0,20
+709,Smartphone,Austrália,2024-06-01 19:06:00,Nível 0,0,0.0,19
+1336,Desktop,Canadá,2024-06-01 11:33:00,Nível 0,0,0.0,11
+365,Smartphone,Alemanha,2024-06-01 08:18:00,Nível 0,1,4.235695631,8
+1459,Smartphone,Alemanha,2024-06-01 23:54:00,Nível 0,0,0.0,23
+1106,Smartphone,França,2024-06-01 14:27:00,Nível 0,1,18.665772545,14
+1052,Tablet,Brasil,2024-06-01 00:55:00,Nível 0,0,0.0,0
+1556,Desktop,EUA,2024-06-01 00:02:00,Nível 0,0,0.0,0
+1373,Desktop,Índia,2024-06-01 21:36:00,Nível 1,0,0.0,21
+920,Smartphone,França,2024-06-01 09:41:00,Nível 0,0,0.0,9
+1528,Smartphone,Reino Unido,2024-06-01 12:18:00,Nível 1,0,0.0,12
+1987,Smartphone,Austrália,2024-06-01 10:07:00,Nível 1,0,0.0,10
+471,Desktop,Índia,2024-06-01 03:02:00,Nível 0,0,0.0,3
+640,Desktop,Reino Unido,2024-06-01 10:20:00,Nível 0,1,54.27566622,10
+919,Smartphone,Alemanha,2024-06-01 05:47:00,Nível 0,0,0.0,5
+831,Tablet,Brasil,2024-06-01 22:20:00,Nível 1,0,0.0,22
+360,Smartphone,França,2024-06-01 16:26:00,Nível 1,1,25.53387259,16
+87,Smartphone,Brasil,2024-06-01 05:04:00,Nível 0,0,0.0,5
+761,Smartphone,Canadá,2024-06-01 02:13:00,Nível 0,1,19.222838954,2
+1036,Desktop,EUA,2024-06-01 09:32:00,Nível 0,1,2.857111378,9
+644,Smartphone,França,2024-06-01 14:17:00,Nível 0,1,4.570125276,14
+1050,Tablet,Canadá,2024-06-01 09:59:00,Nível 1,0,0.0,9
+398,Desktop,Brasil,2024-06-01 08:22:00,Nível 1,0,0.0,8
+486,Tablet,França,2024-06-01 10:52:00,Nível 0,1,4.876145955,10
+38,Smartphone,Alemanha,2024-06-01 02:18:00,Nível 0,1,19.416589716,2
+1849,Smartphone,Reino Unido,2024-06-01 19:46:00,Nível 1,0,0.0,19
+1228,Tablet,Brasil,2024-06-01 00:05:00,Nível 0,0,0.0,0
+1254,Tablet,Canadá,2024-06-01 10:17:00,Nível 0,1,19.329071518,10
+1403,Desktop,Alemanha,2024-06-01 06:59:00,Nível 0,0,0.0,6
+37,Tablet,França,2024-06-01 14:07:00,Nível 0,1,35.92045232,14
+435,Smartphone,Reino Unido,2024-06-01 21:50:00,Nível 0,1,4.052639312,21
+10,Desktop,Índia,2024-06-01 06:55:00,Nível 0,0,0.0,6
+918,Tablet,EUA,2024-06-01 05:26:00,Nível 1,0,0.0,5
+111,Tablet,Alemanha,2024-06-01 08:32:00,Nível 1,0,0.0,8
+69,Desktop,Reino Unido,2024-06-01 08:47:00,Nível 1,1,21.1756765,8
+1302,Desktop,Reino Unido,2024-06-01 20:59:00,Nível 1,0,0.0,20
+1992,Desktop,EUA,2024-06-01 14:30:00,Nível 0,0,0.0,14
+1244,Tablet,Alemanha,2024-06-01 21:02:00,Nível 1,0,0.0,21
+1092,Smartphone,Reino Unido,2024-06-01 11:13:00,Nível 0,1,48.87500056,11
+1839,Tablet,Austrália,2024-06-01 02:05:00,Nível 1,0,0.0,2
+685,Smartphone,Brasil,2024-06-01 04:39:00,Nível 0,1,55.50861604,4
+780,Desktop,Austrália,2024-06-01 19:33:00,Nível 1,0,0.0,19
+1649,Tablet,Brasil,2024-06-01 15:35:00,Nível 0,1,4.843774028,15
+986,Desktop,Brasil,2024-06-01 15:56:00,Nível 0,1,4.536810972,15
+729,Smartphone,Canadá,2024-06-01 10:19:00,Nível 1,0,0.0,10
+657,Tablet,França,2024-06-01 14:29:00,Nível 0,0,0.0,14
+764,Desktop,França,2024-06-01 21:00:00,Nível 0,0,0.0,21
+1793,Desktop,Austrália,2024-06-01 15:43:00,Nível 1,0,0.0,15
+1630,Smartphone,Índia,2024-06-01 22:52:00,Nível 0,0,0.0,22
+1864,Tablet,Alemanha,2024-06-01 14:35:00,Nível 0,0,0.0,14
+407,Smartphone,Índia,2024-06-01 16:25:00,Nível 1,0,0.0,16
+265,Tablet,Reino Unido,2024-06-01 02:04:00,Nível 1,0,0.0,2
+1283,Smartphone,Austrália,2024-06-01 06:23:00,Nível 1,0,0.0,6
+1216,Tablet,EUA,2024-06-01 19:32:00,Nível 1,0,0.0,19
+136,Smartphone,Reino Unido,2024-06-01 11:45:00,Nível 1,1,24.23059235,11
+127,Desktop,Alemanha,2024-06-01 14:50:00,Nível 0,1,18.893203379,14
+205,Desktop,Brasil,2024-06-01 02:08:00,Nível 0,0,0.0,2
+1257,Tablet,Austrália,2024-06-01 09:15:00,Nível 0,1,46.96871606,9
+1628,Smartphone,Índia,2024-06-01 23:26:00,Nível 0,0,0.0,23
+1018,Tablet,EUA,2024-06-01 10:28:00,Nível 0,1,19.001530058,10
+1168,Smartphone,Índia,2024-06-01 11:04:00,Nível 0,1,48.36100663,11
+682,Desktop,Alemanha,2024-06-01 16:23:00,Nível 0,0,0.0,16
+973,Tablet,Reino Unido,2024-06-01 06:22:00,Nível 0,0,0.0,6
+944,Tablet,Alemanha,2024-06-01 10:52:00,Nível 0,1,3.770561577,10
+337,Tablet,França,2024-06-01 00:45:00,Nível 0,1,34.82019036,0
+145,Desktop,França,2024-06-01 16:48:00,Nível 0,0,0.0,16
+1417,Tablet,Austrália,2024-06-01 15:19:00,Nível 1,0,0.0,15
+998,Smartphone,Alemanha,2024-06-01 04:50:00,Nível 1,0,0.0,4
+1572,Smartphone,Alemanha,2024-06-01 04:42:00,Nível 1,0,0.0,4
+1266,Tablet,Canadá,2024-06-01 10:55:00,Nível 0,0,0.0,10
+335,Smartphone,Reino Unido,2024-06-01 08:54:00,Nível 0,0,0.0,8
+1768,Smartphone,Austrália,2024-06-01 15:44:00,Nível 0,1,35.61651457,15
+505,Desktop,EUA,2024-06-01 19:29:00,Nível 0,1,35.57014633,19
+1136,Tablet,França,2024-06-01 13:00:00,Nível 0,0,0.0,13
+1119,Tablet,Austrália,2024-06-01 19:30:00,Nível 1,0,0.0,19
+794,Desktop,França,2024-06-01 08:32:00,Nível 0,1,3.80859126,8
+1281,Desktop,Alemanha,2024-06-01 21:32:00,Nível 1,0,0.0,21
+957,Tablet,Austrália,2024-06-01 10:10:00,Nível 1,0,0.0,10
+486,Smartphone,França,2024-06-01 08:41:00,Nível 0,1,50.79614055,8
+370,Smartphone,França,2024-06-01 16:26:00,Nível 1,1,25.53387259,16
+1820,Tablet,Austrália,2024-06-01 15:05:00,Nível 0,0,0.0,15
+861,Tablet,Canadá,2024-06-01 11:41:00,Nível 0,0,0.0,11
+1827,Desktop,França,2024-06-01 08:40:00,Nível 1,0,0.0,8
+8,Smartphone,Alemanha,2024-06-01 10:00:00,Nível 0,1,4.438913016,10
+1313,Tablet,EUA,2024-06-01 22:12:00,Nível 1,0,0.0,22
+1603,Smartphone,EUA,2024-06-01 16:28:00,Nível 0,1,4.107084471,16
+18,Tablet,Reino Unido,2024-06-01 03:29:00,Nível 0,0,0.0,3
+151,Smartphone,Reino Unido,2024-06-01 11:47:00,Nível 0,1,18.562900365,11
+1342,Smartphone,Reino Unido,2024-06-01 07:04:00,Nível 0,1,4.367053168,7
+1885,Tablet,Alemanha,2024-06-01 15:35:00,Nível 0,0,0.0,15
+1992,Smartphone,França,2024-06-01 08:14:00,Nível 0,0,0.0,8
+1844,Desktop,Austrália,2024-06-01 03:11:00,Nível 0,0,0.0,3
+1177,Desktop,Alemanha,2024-06-01 17:25:00,Nível 0,0,0.0,17
+1728,Tablet,Austrália,2024-06-01 01:48:00,Nível 0,0,0.0,1
+217,Smartphone,França,2024-06-01 18:07:00,Nível 1,0,0.0,18
+284,Tablet,França,2024-06-01 10:13:00,Nível 0,0,0.0,10
+390,Tablet,Alemanha,2024-06-01 19:54:00,Nível 0,1,47.78037226,19
+1073,Tablet,EUA,2024-06-01 18:58:00,Nível 0,1,4.200000003,18
+854,Tablet,EUA,2024-06-01 14:11:00,Nível 0,0,0.0,14
+1599,Desktop,Reino Unido,2024-06-01 20:30:00,Nível 0,0,0.0,20
+1007,Smartphone,Alemanha,2024-06-01 15:21:00,Nível 0,0,0.0,15
+1654,Desktop,EUA,2024-06-01 19:47:00,Nível 0,0,0.0,19
+137,Tablet,Índia,2024-06-01 22:30:00,Nível 1,0,0.0,22
+1004,Smartphone,Austrália,2024-06-01 08:49:00,Nível 1,0,0.0,8
+697,Desktop,Canadá,2024-06-01 12:53:00,Nível 1,0,0.0,12
+1102,Smartphone,Canadá,2024-06-01 07:06:00,Nível 0,0,0.0,7
+47,Desktop,Alemanha,2024-06-01 16:48:00,Nível 0,0,0.0,16
+854,Desktop,Brasil,2024-06-01 11:02:00,Nível 1,0,0.0,11
+607,Desktop,Brasil,2024-06-01 05:07:00,Nível 0,0,0.0,5
+27,Tablet,França,2024-06-01 14:07:00,Nível 0,1,35.92045232,14
+408,Smartphone,EUA,2024-06-01 20:18:00,Nível 0,0,0.0,20
+321,Desktop,Alemanha,2024-06-01 02:41:00,Nível 0,0,0.0,2
+723,Tablet,Índia,2024-06-01 12:14:00,Nível 0,0,0.0,12
+665,Tablet,Alemanha,2024-06-01 21:12:00,Nível 1,0,0.0,21
+128,Desktop,EUA,2024-06-01 04:06:00,Nível 0,1,3.671951382,4
+326,Smartphone,EUA,2024-06-01 06:03:00,Nível 0,1,0.390638634,6
+1043,Tablet,França,2024-06-01 14:30:00,Nível 1,1,27.57706908,14
+55,Smartphone,Índia,2024-06-01 14:33:00,Nível 0,0,0.0,14
+804,Desktop,França,2024-06-01 08:32:00,Nível 0,1,3.80859126,8
+1751,Smartphone,Austrália,2024-06-01 14:47:00,Nível 0,0,0.0,14
+460,Smartphone,Índia,2024-06-01 01:11:00,Nível 0,0,0.0,1
+1625,Smartphone,França,2024-06-01 12:40:00,Nível 0,0,0.0,12
+1800,Tablet,Índia,2024-06-01 08:25:00,Nível 1,1,0.020220313,8
+1971,Desktop,EUA,2024-06-01 14:09:00,Nível 1,1,1.710893951,14
+1831,Smartphone,Alemanha,2024-06-01 18:32:00,Nível 0,1,54.71301268,18
+1734,Smartphone,Austrália,2024-06-01 22:30:00,Nível 1,0,0.0,22
+1907,Desktop,Brasil,2024-06-01 18:55:00,Nível 1,0,0.0,18
+338,Smartphone,Índia,2024-06-01 20:03:00,Nível 1,1,1.404062648,20
+1130,Desktop,Brasil,2024-06-01 00:55:00,Nível 0,1,4.00593134,0
+1314,Tablet,Austrália,2024-06-01 11:57:00,Nível 0,1,3.86378655,11
+1921,Smartphone,Austrália,2024-06-01 02:51:00,Nível 1,0,0.0,2
+1306,Smartphone,Índia,2024-06-01 15:19:00,Nível 0,0,0.0,15
+1224,Tablet,Índia,2024-06-01 20:30:00,Nível 0,1,46.42410015,20
+590,Desktop,Austrália,2024-06-01 23:18:00,Nível 1,0,0.0,23
+1709,Desktop,Austrália,2024-06-01 07:27:00,Nível 0,0,0.0,7
+131,Smartphone,Canadá,2024-06-01 22:01:00,Nível 0,0,0.0,22
+285,Smartphone,EUA,2024-06-01 22:33:00,Nível 1,0,0.0,22
+41,Tablet,França,2024-06-01 23:53:00,Nível 1,0,0.0,23
+1410,Tablet,Alemanha,2024-06-01 12:28:00,Nível 0,1,18.424159445,12
+4,Smartphone,Índia,2024-06-01 00:32:00,Nível 0,0,0.0,0
+1932,Smartphone,França,2024-06-01 13:19:00,Nível 0,0,0.0,13
+934,Desktop,França,2024-06-01 01:55:00,Nível 0,0,0.0,1
+1484,Desktop,Índia,2024-06-01 20:00:00,Nível 0,1,35.80911759,20
+1418,Smartphone,Brasil,2024-06-01 06:20:00,Nível 0,0,0.0,6
+1681,Smartphone,Reino Unido,2024-06-01 18:06:00,Nível 0,0,0.0,18
+59,Desktop,Reino Unido,2024-06-01 09:21:00,Nível 1,0,0.0,9
+1131,Tablet,Brasil,2024-06-01 15:22:00,Nível 1,0,0.0,15
+1444,Desktop,Austrália,2024-06-01 00:12:00,Nível 1,0,0.0,0
+1684,Tablet,Alemanha,2024-06-01 08:10:00,Nível 0,1,4.956344067,8
+1140,Desktop,Alemanha,2024-06-01 20:51:00,Nível 0,0,0.0,20
+1546,Smartphone,Alemanha,2024-06-01 14:50:00,Nível 0,0,0.0,14
+1461,Desktop,Brasil,2024-06-01 13:27:00,Nível 0,1,2.932100076,13
+958,Smartphone,EUA,2024-06-01 07:59:00,Nível 0,0,0.0,7
+497,Smartphone,Alemanha,2024-06-01 22:02:00,Nível 1,0,0.0,22
+687,Smartphone,Austrália,2024-06-01 09:28:00,Nível 0,1,20.104927833,9
+598,Desktop,França,2024-06-01 21:52:00,Nível 0,0,0.0,21
+778,Desktop,EUA,2024-06-01 13:08:00,Nível 1,0,0.0,13
+17,Tablet,Brasil,2024-06-01 11:08:00,Nível 0,1,43.31798934,11
+1036,Desktop,EUA,2024-06-01 09:32:00,Nível 0,1,17.857111378,9
+1647,Smartphone,Brasil,2024-06-01 12:57:00,Nível 0,1,3.514864337,12
+1485,Smartphone,Alemanha,2024-06-01 13:44:00,Nível 0,1,19.017135907,13
+1254,Desktop,Reino Unido,2024-06-01 11:07:00,Nível 0,1,3.544191349,11
+666,Desktop,Alemanha,2024-06-01 08:57:00,Nível 0,0,0.0,8
+834,Smartphone,Reino Unido,2024-06-01 11:09:00,Nível 1,0,0.0,11
+775,Smartphone,EUA,2024-06-01 20:23:00,Nível 1,0,0.0,20
+636,Desktop,EUA,2024-06-01 09:08:00,Nível 0,0,0.0,9
+218,Desktop,Alemanha,2024-06-01 11:38:00,Nível 0,1,19.36224553,11
+350,Tablet,Índia,2024-06-01 04:27:00,Nível 0,0,0.0,4
+1094,Desktop,Alemanha,2024-06-01 11:59:00,Nível 1,0,0.0,11
+90,Tablet,EUA,2024-06-01 01:42:00,Nível 1,1,15.62092588,1
+1168,Tablet,França,2024-06-01 15:39:00,Nível 0,1,19.285570621,15
+1393,Desktop,Austrália,2024-06-01 17:33:00,Nível 1,1,30.27096921,17
+1349,Smartphone,França,2024-06-01 22:40:00,Nível 0,0,0.0,22
+836,Desktop,Reino Unido,2024-06-01 00:47:00,Nível 0,0,0.0,0
+774,Desktop,Brasil,2024-06-01 03:11:00,Nível 1,0,0.0,3
+348,Desktop,Alemanha,2024-06-01 03:43:00,Nível 1,0,0.0,3
+1301,Desktop,França,2024-06-01 06:29:00,Nível 0,0,0.0,6
+1268,Desktop,Austrália,2024-06-01 23:43:00,Nível 1,0,0.0,23
+149,Desktop,Canadá,2024-06-01 19:15:00,Nível 1,1,17.56661839,19
+1979,Tablet,Índia,2024-06-01 10:09:00,Nível 0,1,19.173156355,10
+1255,Tablet,Canadá,2024-06-01 17:52:00,Nível 1,1,3.060815654,17
+1977,Tablet,Reino Unido,2024-06-01 21:09:00,Nível 0,0,0.0,21
+511,Smartphone,Índia,2024-06-01 22:25:00,Nível 0,0,0.0,22
+1788,Desktop,Canadá,2024-06-01 06:22:00,Nível 1,0,0.0,6
+566,Tablet,Alemanha,2024-06-01 17:51:00,Nível 1,0,0.0,17
+61,Tablet,Alemanha,2024-06-01 20:23:00,Nível 0,0,0.0,20
+1803,Smartphone,França,2024-06-01 17:38:00,Nível 0,1,19.240031809,17
+1344,Tablet,Austrália,2024-06-01 04:51:00,Nível 1,0,0.0,4
+22,Desktop,França,2024-06-01 01:16:00,Nível 0,0,0.0,1
+1020,Desktop,Alemanha,2024-06-01 20:56:00,Nível 1,0,0.0,20
+1297,Smartphone,Reino Unido,2024-06-01 04:03:00,Nível 0,0,0.0,4
+715,Tablet,EUA,2024-06-01 12:49:00,Nível 0,0,0.0,12
+168,Desktop,Canadá,2024-06-01 09:56:00,Nível 0,1,17.992968363,9
+1444,Desktop,EUA,2024-06-01 08:13:00,Nível 1,0,0.0,8
+1438,Smartphone,EUA,2024-06-01 13:47:00,Nível 0,0,0.0,13
+1662,Tablet,França,2024-06-01 14:04:00,Nível 0,0,0.0,14
+1800,Smartphone,Alemanha,2024-06-01 01:51:00,Nível 1,0,0.0,1
+806,Smartphone,Alemanha,2024-06-01 19:03:00,Nível 1,0,0.0,19
+201,Tablet,EUA,2024-06-01 12:21:00,Nível 1,0,0.0,12
+656,Desktop,Índia,2024-06-01 02:42:00,Nível 0,1,33.29937552,2
+1649,Desktop,EUA,2024-06-01 21:49:00,Nível 1,0,0.0,21
+560,Desktop,Canadá,2024-06-01 06:24:00,Nível 0,1,33.0038587,6
+1571,Tablet,Reino Unido,2024-06-01 13:49:00,Nível 1,0,0.0,13
+940,Desktop,Brasil,2024-06-01 06:54:00,Nível 1,0,0.0,6
+22,Smartphone,Brasil,2024-06-01 12:37:00,Nível 1,1,0.197937017,12
+162,Tablet,Brasil,2024-06-01 14:29:00,Nível 0,0,0.0,14
+1207,Desktop,França,2024-06-01 11:48:00,Nível 0,0,0.0,11
+1663,Smartphone,Reino Unido,2024-06-01 07:51:00,Nível 1,0,0.0,7
+1312,Desktop,Canadá,2024-06-01 02:16:00,Nível 0,0,0.0,2
+58,Desktop,Alemanha,2024-06-01 08:53:00,Nível 0,1,19.405130022,8
+551,Desktop,Brasil,2024-06-01 17:08:00,Nível 1,0,0.0,17
+1932,Tablet,Austrália,2024-06-01 07:36:00,Nível 0,1,19.181502142,7
+1918,Smartphone,EUA,2024-06-01 02:23:00,Nível 0,0,0.0,2
+711,Smartphone,EUA,2024-06-01 01:00:00,Nível 0,0,0.0,1
+79,Desktop,Reino Unido,2024-06-01 08:47:00,Nível 1,1,21.1756765,8
+400,Smartphone,Brasil,2024-06-01 14:11:00,Nível 1,0,0.0,14
+1181,Desktop,Reino Unido,2024-06-01 08:59:00,Nível 0,0,0.0,8
+1829,Tablet,Reino Unido,2024-06-01 18:28:00,Nível 0,0,0.0,18
+541,Desktop,Austrália,2024-06-01 18:14:00,Nível 1,0,0.0,18
+759,Desktop,Canadá,2024-06-01 23:03:00,Nível 0,0,0.0,23
+214,Tablet,França,2024-06-01 00:51:00,Nível 0,0,0.0,0
+1525,Tablet,Brasil,2024-06-01 10:22:00,Nível 0,0,0.0,10
+703,Tablet,Austrália,2024-06-01 11:34:00,Nível 1,0,0.0,11
+832,Desktop,Alemanha,2024-06-01 04:12:00,Nível 1,0,0.0,4
+1411,Tablet,Austrália,2024-06-01 08:49:00,Nível 0,0,0.0,8
+1640,Smartphone,Reino Unido,2024-06-01 02:27:00,Nível 1,0,0.0,2
+1249,Tablet,Alemanha,2024-06-01 17:16:00,Nível 0,0,0.0,17
+1977,Desktop,França,2024-06-01 21:18:00,Nível 1,0,0.0,21
+1192,Smartphone,Austrália,2024-06-01 14:49:00,Nível 1,0,0.0,14
+581,Smartphone,Índia,2024-06-01 20:31:00,Nível 1,0,0.0,20
+1672,Desktop,EUA,2024-06-01 18:31:00,Nível 1,1,1.77139073,18
+1595,Desktop,Alemanha,2024-06-01 13:39:00,Nível 0,1,3.440738258,13
+320,Desktop,França,2024-06-01 08:22:00,Nível 1,0,0.0,8
+391,Tablet,Brasil,2024-06-01 02:54:00,Nível 1,0,0.0,2
+126,Desktop,França,2024-06-01 18:30:00,Nível 0,1,18.461139627,18
+588,Smartphone,Alemanha,2024-06-01 10:33:00,Nível 0,0,0.0,10
+1754,Tablet,Canadá,2024-06-01 21:38:00,Nível 1,0,0.0,21
+56,Desktop,Alemanha,2024-06-01 06:05:00,Nível 0,0,0.0,6
+1500,Smartphone,Reino Unido,2024-06-01 01:50:00,Nível 1,0,0.0,1
+1399,Tablet,Alemanha,2024-06-01 01:46:00,Nível 1,0,0.0,1
+493,Tablet,Canadá,2024-06-01 10:15:00,Nível 0,0,0.0,10
+574,Desktop,EUA,2024-06-01 19:44:00,Nível 0,1,3.488122026,19
+798,Desktop,Brasil,2024-06-01 00:42:00,Nível 0,0,0.0,0
+1902,Tablet,Reino Unido,2024-06-01 22:43:00,Nível 1,0,0.0,22
+1730,Tablet,Austrália,2024-06-01 11:53:00,Nível 0,0,0.0,11
+1837,Tablet,Austrália,2024-06-01 01:32:00,Nível 1,0,0.0,1
+1316,Desktop,Alemanha,2024-06-01 14:54:00,Nível 0,0,0.0,14
+588,Desktop,Brasil,2024-06-01 20:18:00,Nível 0,0,0.0,20
+709,Tablet,Reino Unido,2024-06-01 08:24:00,Nível 0,1,19.110315402,8
+1910,Tablet,Canadá,2024-06-01 19:42:00,Nível 1,0,0.0,19
+104,Tablet,França,2024-06-01 08:17:00,Nível 0,0,0.0,8
+683,Smartphone,Brasil,2024-06-01 01:51:00,Nível 1,0,0.0,1
+1901,Tablet,EUA,2024-06-01 05:20:00,Nível 0,1,15.038499356,5
+1806,Desktop,França,2024-06-01 21:36:00,Nível 0,0,0.0,21
+1967,Desktop,Alemanha,2024-06-01 15:54:00,Nível 0,0,0.0,15
+1214,Tablet,Reino Unido,2024-06-01 18:39:00,Nível 0,1,53.50242481,18
+18,Smartphone,Alemanha,2024-06-01 10:00:00,Nível 0,1,19.438913016,10
+55,Tablet,Índia,2024-06-01 19:27:00,Nível 1,0,0.0,19
+1905,Smartphone,Brasil,2024-06-01 12:58:00,Nível 0,0,0.0,12
+258,Tablet,Canadá,2024-06-01 06:20:00,Nível 1,0,0.0,6
+958,Tablet,Índia,2024-06-01 22:50:00,Nível 1,0,0.0,22
+1841,Smartphone,EUA,2024-06-01 18:10:00,Nível 1,0,0.0,18
+661,Desktop,Reino Unido,2024-06-01 06:41:00,Nível 1,0,0.0,6
+450,Smartphone,EUA,2024-06-01 13:14:00,Nível 1,0,0.0,13
+313,Tablet,França,2024-06-01 17:10:00,Nível 0,0,0.0,17
+1670,Desktop,Austrália,2024-06-01 13:32:00,Nível 1,1,1.725037584,13
+1680,Desktop,Austrália,2024-06-01 13:32:00,Nível 1,1,1.725037584,13
+475,Smartphone,EUA,2024-06-01 20:05:00,Nível 1,0,0.0,20
+1398,Tablet,EUA,2024-06-01 22:46:00,Nível 0,0,0.0,22
+537,Desktop,Austrália,2024-06-01 12:35:00,Nível 0,1,41.04245985,12
+48,Desktop,Reino Unido,2024-06-01 22:27:00,Nível 0,0,0.0,22
+925,Tablet,Austrália,2024-06-01 18:51:00,Nível 1,1,3.20938889,18
+461,Smartphone,Índia,2024-06-01 10:17:00,Nível 1,0,0.0,10
+1897,Tablet,Austrália,2024-06-01 13:07:00,Nível 0,1,0.382395613,13
+1155,Tablet,Brasil,2024-06-01 13:00:00,Nível 1,0,0.0,13
+1530,Tablet,EUA,2024-06-01 18:03:00,Nível 0,0,0.0,18
+1216,Desktop,EUA,2024-06-01 15:25:00,Nível 1,1,1.903195244,15
+814,Smartphone,Austrália,2024-06-01 11:27:00,Nível 0,0,0.0,11
+777,Smartphone,Reino Unido,2024-06-01 07:41:00,Nível 1,0,0.0,7
+1022,Tablet,Austrália,2024-06-01 20:53:00,Nível 1,0,0.0,20
+827,Tablet,Alemanha,2024-06-01 03:04:00,Nível 0,0,0.0,3
+1053,Desktop,Canadá,2024-06-01 12:50:00,Nível 1,0,0.0,12
+316,Desktop,Reino Unido,2024-06-01 09:57:00,Nível 1,0,0.0,9
+1412,Desktop,Austrália,2024-06-01 01:13:00,Nível 0,0,0.0,1
+1334,Tablet,Reino Unido,2024-06-01 05:17:00,Nível 0,0,0.0,5
+1450,Desktop,Índia,2024-06-01 12:40:00,Nível 0,1,60.28362456,12
+647,Desktop,Reino Unido,2024-06-01 15:16:00,Nível 1,0,0.0,15
+51,Tablet,Brasil,2024-06-01 10:27:00,Nível 1,0,0.0,10
+1187,Smartphone,Austrália,2024-06-01 07:58:00,Nível 0,0,0.0,7
+1696,Desktop,Índia,2024-06-01 08:53:00,Nível 0,1,3.970784941,8
+61,Smartphone,Brasil,2024-06-01 14:30:00,Nível 0,1,4.285243665,14
+596,Desktop,EUA,2024-06-01 12:42:00,Nível 1,0,0.0,12
+1278,Desktop,Brasil,2024-06-01 07:18:00,Nível 0,0,0.0,7
+873,Smartphone,Brasil,2024-06-01 00:00:00,Nível 1,0,0.0,0
+784,Tablet,Índia,2024-06-01 03:06:00,Nível 0,0,0.0,3
+1261,Tablet,EUA,2024-06-01 11:33:00,Nível 0,1,18.719034943,11
+1018,Tablet,EUA,2024-06-01 10:28:00,Nível 0,1,4.001530058,10
+1043,Tablet,Canadá,2024-06-01 21:33:00,Nível 0,0,0.0,21
+1480,Smartphone,França,2024-06-01 00:10:00,Nível 0,1,0.403251232,0
+1667,Desktop,Canadá,2024-06-01 03:36:00,Nível 0,0,0.0,3
+35,Tablet,Canadá,2024-06-01 09:42:00,Nível 0,0,0.0,9
+680,Tablet,França,2024-06-01 13:07:00,Nível 0,1,19.510981388,13
+1046,Tablet,Índia,2024-06-01 20:55:00,Nível 0,1,18.841958519,20
+770,Tablet,Índia,2024-06-01 14:52:00,Nível 0,0,0.0,14
+75,Smartphone,EUA,2024-06-01 15:55:00,Nível 0,0,0.0,15
+794,Desktop,Canadá,2024-06-01 15:38:00,Nível 0,0,0.0,15
+1157,Desktop,Reino Unido,2024-06-01 14:03:00,Nível 0,1,18.806943612,14
+1816,Tablet,Canadá,2024-06-01 14:59:00,Nível 0,0,0.0,14
+1192,Smartphone,Brasil,2024-06-01 05:03:00,Nível 0,0,0.0,5
+1102,Tablet,Alemanha,2024-06-01 20:12:00,Nível 0,0,0.0,20
+435,Tablet,França,2024-06-01 20:29:00,Nível 0,0,0.0,20
+1410,Smartphone,Canadá,2024-06-01 11:27:00,Nível 0,1,54.74599606,11
+143,Tablet,Índia,2024-06-01 18:11:00,Nível 0,0,0.0,18
+653,Tablet,Reino Unido,2024-06-01 15:51:00,Nível 0,1,19.312451797,15
+139,Tablet,EUA,2024-06-01 23:55:00,Nível 1,0,0.0,23
+663,Tablet,Canadá,2024-06-01 23:44:00,Nível 0,0,0.0,23
+471,Desktop,Reino Unido,2024-06-01 07:20:00,Nível 1,0,0.0,7
+1500,Smartphone,Canadá,2024-06-01 21:39:00,Nível 1,0,0.0,21
+510,Smartphone,Reino Unido,2024-06-01 19:54:00,Nível 0,0,0.0,19
+478,Smartphone,Reino Unido,2024-06-01 08:57:00,Nível 0,1,3.616823695,8
+1066,Tablet,Austrália,2024-06-01 20:37:00,Nível 1,0,0.0,20
+754,Smartphone,Reino Unido,2024-06-01 07:40:00,Nível 0,0,0.0,7
+759,Desktop,Alemanha,2024-06-01 04:50:00,Nível 1,0,0.0,4
+1907,Desktop,Austrália,2024-06-01 10:21:00,Nível 0,0,0.0,10
+605,Smartphone,EUA,2024-06-01 19:08:00,Nível 1,0,0.0,19
+1977,Desktop,Reino Unido,2024-06-01 20:12:00,Nível 0,0,0.0,20
+1593,Smartphone,EUA,2024-06-01 16:28:00,Nível 0,1,19.107084471,16
+228,Desktop,Alemanha,2024-06-01 04:53:00,Nível 1,0,0.0,4
+698,Tablet,Brasil,2024-06-01 02:08:00,Nível 1,0,0.0,2
+457,Desktop,Canadá,2024-06-01 19:39:00,Nível 1,0,0.0,19
+872,Tablet,Canadá,2024-06-01 20:00:00,Nível 0,0,0.0,20
+1793,Smartphone,França,2024-06-01 17:38:00,Nível 0,1,4.240031809,17
+1722,Desktop,Índia,2024-06-01 14:43:00,Nível 0,0,0.0,14
+731,Desktop,França,2024-06-01 19:15:00,Nível 0,0,0.0,19
+1231,Tablet,Canadá,2024-06-01 16:44:00,Nível 0,1,18.908377378,16
+452,Smartphone,Brasil,2024-06-01 20:07:00,Nível 0,0,0.0,20
+526,Smartphone,Reino Unido,2024-06-01 15:20:00,Nível 0,0,0.0,15
+1253,Tablet,Canadá,2024-06-01 21:51:00,Nível 1,0,0.0,21
+401,Tablet,Brasil,2024-06-01 16:13:00,Nível 1,0,0.0,16
+1015,Desktop,Austrália,2024-06-01 22:31:00,Nível 0,0,0.0,22
+819,Smartphone,Índia,2024-06-01 05:26:00,Nível 0,0,0.0,5
+1120,Smartphone,Índia,2024-06-01 04:37:00,Nível 0,0,0.0,4
+1453,Smartphone,EUA,2024-06-01 09:48:00,Nível 0,1,18.005026865,9
+1632,Tablet,Austrália,2024-06-01 12:30:00,Nível 0,0,0.0,12
+170,Smartphone,Canadá,2024-06-01 04:57:00,Nível 1,0,0.0,4
+735,Tablet,Alemanha,2024-06-01 18:02:00,Nível 1,0,0.0,18
+1071,Desktop,Reino Unido,2024-06-01 10:54:00,Nível 0,0,0.0,10
+634,Tablet,Austrália,2024-06-01 22:45:00,Nível 1,0,0.0,22
+1946,Smartphone,Reino Unido,2024-06-01 13:52:00,Nível 1,0,0.0,13
+1431,Tablet,EUA,2024-06-01 05:43:00,Nível 1,0,0.0,5
+1483,Tablet,Alemanha,2024-06-01 19:19:00,Nível 0,1,39.71605702,19
+981,Tablet,França,2024-06-01 11:48:00,Nível 0,1,4.03286883,11
+356,Smartphone,Brasil,2024-06-01 01:40:00,Nível 0,0,0.0,1
+1806,Smartphone,Reino Unido,2024-06-01 14:14:00,Nível 0,1,3.238832841,14
+634,Tablet,Alemanha,2024-06-01 04:17:00,Nível 0,0,0.0,4
+1871,Desktop,Austrália,2024-06-01 20:52:00,Nível 0,0,0.0,20
+518,Smartphone,Brasil,2024-06-01 17:31:00,Nível 0,1,34.32914427,17
+1254,Desktop,Reino Unido,2024-06-01 11:07:00,Nível 0,1,18.544191349,11
+1697,Desktop,Canadá,2024-06-01 04:24:00,Nível 0,0,0.0,4
+740,Tablet,EUA,2024-06-01 05:05:00,Nível 0,1,4.300366508,5
+1893,Smartphone,EUA,2024-06-01 19:29:00,Nível 0,0,0.0,19
+1880,Tablet,Austrália,2024-06-01 08:44:00,Nível 1,0,0.0,8
+365,Tablet,Canadá,2024-06-01 05:12:00,Nível 1,0,0.0,5
+521,Tablet,Brasil,2024-06-01 11:27:00,Nível 0,1,39.71024729,11
+1752,Smartphone,Canadá,2024-06-01 10:39:00,Nível 1,1,17.83305217,10
+371,Smartphone,Alemanha,2024-06-01 14:00:00,Nível 1,0,0.0,14
+1348,Tablet,Alemanha,2024-06-01 23:44:00,Nível 1,0,0.0,23
+1010,Desktop,França,2024-06-01 09:53:00,Nível 1,0,0.0,9
+1063,Desktop,Brasil,2024-06-01 07:53:00,Nível 0,0,0.0,7
+1153,Smartphone,Austrália,2024-06-01 06:14:00,Nível 0,0,0.0,6
+261,Tablet,Índia,2024-06-01 12:06:00,Nível 0,1,19.831465724,12
+1244,Desktop,Reino Unido,2024-06-01 11:07:00,Nível 0,1,3.544191349,11
+1531,Tablet,Austrália,2024-06-01 20:05:00,Nível 0,1,3.171428207,20
+202,Smartphone,Índia,2024-06-01 12:59:00,Nível 0,1,19.199496079,12
+122,Tablet,Canadá,2024-06-01 20:30:00,Nível 1,1,2.903044559,20
+1535,Tablet,Brasil,2024-06-01 04:29:00,Nível 1,0,0.0,4
+565,Tablet,Reino Unido,2024-06-01 01:53:00,Nível 0,0,0.0,1
+1529,Tablet,Brasil,2024-06-01 13:00:00,Nível 0,0,0.0,13
+1793,Tablet,Brasil,2024-06-01 03:18:00,Nível 0,0,0.0,3
+1758,Tablet,Austrália,2024-06-01 11:38:00,Nível 1,0,0.0,11
+277,Desktop,Austrália,2024-06-01 04:19:00,Nível 1,0,0.0,4
+954,Desktop,Reino Unido,2024-06-01 03:06:00,Nível 1,0,0.0,3
+1402,Smartphone,EUA,2024-06-01 05:05:00,Nível 0,1,34.20698368,5
+690,Smartphone,Canadá,2024-06-01 19:47:00,Nível 0,0,0.0,19
+1109,Smartphone,Austrália,2024-06-01 17:38:00,Nível 1,0,0.0,17
+218,Desktop,Alemanha,2024-06-01 11:38:00,Nível 0,1,4.36224553,11
+1228,Tablet,Reino Unido,2024-06-01 13:46:00,Nível 0,1,3.722356949,13
+131,Smartphone,Austrália,2024-06-01 09:34:00,Nível 1,0,0.0,9
+358,Smartphone,EUA,2024-06-01 02:09:00,Nível 0,1,18.860813516,2
+1846,Desktop,Reino Unido,2024-06-01 04:10:00,Nível 0,0,0.0,4
+1896,Smartphone,Reino Unido,2024-06-01 07:51:00,Nível 0,1,19.237667463,7
+887,Desktop,França,2024-06-01 11:33:00,Nível 0,1,20.04970376,11
+1143,Desktop,Austrália,2024-06-01 12:44:00,Nível 0,1,3.828332412,12
+1181,Desktop,Brasil,2024-06-01 15:42:00,Nível 1,1,19.21761312,15
+900,Smartphone,Brasil,2024-06-01 11:24:00,Nível 0,1,19.207392231,11
+1532,Smartphone,Reino Unido,2024-06-01 15:49:00,Nível 0,0,0.0,15
+1697,Tablet,EUA,2024-06-01 22:15:00,Nível 1,0,0.0,22
+613,Desktop,França,2024-06-01 18:55:00,Nível 0,1,4.088242092,18
+145,Tablet,Alemanha,2024-06-01 16:33:00,Nível 0,1,2.817572314,16
+1298,Tablet,Reino Unido,2024-06-01 08:19:00,Nível 1,1,17.94985294,8
+985,Tablet,Brasil,2024-06-01 04:04:00,Nível 0,0,0.0,4
+1109,Smartphone,Brasil,2024-06-01 11:02:00,Nível 1,1,2.72780024,11
+406,Desktop,Canadá,2024-06-01 00:12:00,Nível 0,0,0.0,0
+957,Smartphone,Brasil,2024-06-01 07:50:00,Nível 1,0,0.0,7
+1156,Smartphone,Reino Unido,2024-06-01 08:39:00,Nível 0,0,0.0,8
+824,Desktop,Reino Unido,2024-06-01 03:01:00,Nível 0,0,0.0,3
+817,Smartphone,Austrália,2024-06-01 15:50:00,Nível 1,0,0.0,15
+1142,Desktop,Austrália,2024-06-01 01:50:00,Nível 0,0,0.0,1
+566,Tablet,Reino Unido,2024-06-01 07:26:00,Nível 0,0,0.0,7
+270,Tablet,Reino Unido,2024-06-01 17:17:00,Nível 1,0,0.0,17
+1124,Tablet,Índia,2024-06-01 00:12:00,Nível 1,0,0.0,0
+1882,Tablet,Alemanha,2024-06-01 07:44:00,Nível 1,0,0.0,7
+1016,Desktop,EUA,2024-06-01 23:24:00,Nível 1,0,0.0,23
+379,Smartphone,Austrália,2024-06-01 19:39:00,Nível 0,1,18.561257989,19
+1637,Smartphone,Brasil,2024-06-01 12:57:00,Nível 0,1,18.514864337,12
+1072,Desktop,Brasil,2024-06-01 17:32:00,Nível 0,0,0.0,17
+881,Smartphone,Austrália,2024-06-01 15:04:00,Nível 1,0,0.0,15
+1857,Tablet,Canadá,2024-06-01 00:11:00,Nível 0,0,0.0,0
+1143,Smartphone,França,2024-06-01 18:39:00,Nível 0,0,0.0,18
+692,Desktop,Canadá,2024-06-01 04:50:00,Nível 1,0,0.0,4
+406,Tablet,EUA,2024-06-01 11:57:00,Nível 0,1,43.56633125,11
+1020,Desktop,Reino Unido,2024-06-01 02:36:00,Nível 1,0,0.0,2
+997,Desktop,Alemanha,2024-06-01 15:22:00,Nível 0,0,0.0,15
+1489,Desktop,Alemanha,2024-06-01 08:34:00,Nível 0,1,4.155236377,8
+1320,Tablet,Reino Unido,2024-06-01 22:36:00,Nível 1,0,0.0,22
+1102,Desktop,EUA,2024-06-01 10:12:00,Nível 0,0,0.0,10
+1025,Tablet,França,2024-06-01 12:02:00,Nível 0,0,0.0,12
+624,Tablet,Reino Unido,2024-06-01 11:49:00,Nível 1,0,0.0,11
+1486,Tablet,Reino Unido,2024-06-01 22:58:00,Nível 1,0,0.0,22
+1496,Tablet,Alemanha,2024-06-01 17:46:00,Nível 1,0,0.0,17
+12,Smartphone,Brasil,2024-06-01 12:37:00,Nível 1,1,0.197937017,12
+140,Tablet,Brasil,2024-06-01 00:21:00,Nível 0,1,19.955803034,0
+99,Tablet,França,2024-06-01 11:00:00,Nível 0,0,0.0,11
+1139,Tablet,Índia,2024-06-01 16:12:00,Nível 1,1,2.08166734,16
+1012,Desktop,EUA,2024-06-01 11:14:00,Nível 1,0,0.0,11
+1309,Tablet,França,2024-06-01 00:00:00,Nível 0,0,0.0,0
+161,Smartphone,Brasil,2024-06-01 15:25:00,Nível 0,0,0.0,15
+1340,Tablet,EUA,2024-06-01 15:06:00,Nível 1,0,0.0,15
+418,Tablet,Alemanha,2024-06-01 10:57:00,Nível 0,0,0.0,10
+777,Desktop,Canadá,2024-06-01 16:14:00,Nível 0,0,0.0,16
+597,Tablet,EUA,2024-06-01 15:12:00,Nível 0,1,3.700180003,15
+346,Desktop,França,2024-06-01 06:27:00,Nível 1,0,0.0,6
+1051,Desktop,Índia,2024-06-01 09:33:00,Nível 0,1,4.31167115,9
+15,Tablet,EUA,2024-06-01 08:47:00,Nível 0,0,0.0,8
+845,Tablet,Alemanha,2024-06-01 02:58:00,Nível 1,0,0.0,2
+1589,Tablet,Índia,2024-06-01 17:28:00,Nível 1,0,0.0,17
+1953,Tablet,Reino Unido,2024-06-01 21:13:00,Nível 1,0,0.0,21
+859,Desktop,Reino Unido,2024-06-01 21:08:00,Nível 1,0,0.0,21
+1145,Desktop,Alemanha,2024-06-01 05:27:00,Nível 1,0,0.0,5
+522,Smartphone,EUA,2024-06-01 13:04:00,Nível 0,1,50.98444583,13
+1401,Tablet,Austrália,2024-06-01 22:58:00,Nível 0,1,55.09997743,22
+277,Desktop,Canadá,2024-06-01 00:55:00,Nível 1,0,0.0,0
+1683,Desktop,Alemanha,2024-06-01 05:14:00,Nível 1,0,0.0,5
+1771,Smartphone,Alemanha,2024-06-01 14:11:00,Nível 1,0,0.0,14
+257,Smartphone,Índia,2024-06-01 08:48:00,Nível 0,1,4.198183478,8
+1947,Tablet,Reino Unido,2024-06-01 10:06:00,Nível 0,1,40.70989957,10
+1631,Tablet,Austrália,2024-06-01 03:41:00,Nível 0,1,63.59181998,3
+1434,Desktop,Canadá,2024-06-01 02:50:00,Nível 1,0,0.0,2
+313,Smartphone,Brasil,2024-06-01 14:32:00,Nível 1,0,0.0,14
+1543,Tablet,Reino Unido,2024-06-01 08:10:00,Nível 1,0,0.0,8
+1203,Tablet,Canadá,2024-06-01 09:47:00,Nível 1,0,0.0,9
+898,Tablet,Brasil,2024-06-01 16:31:00,Nível 0,0,0.0,16
+514,Smartphone,Brasil,2024-06-01 16:06:00,Nível 1,0,0.0,16
+736,Smartphone,EUA,2024-06-01 04:47:00,Nível 1,0,0.0,4
+1307,Desktop,França,2024-06-01 18:29:00,Nível 0,1,54.5905281,18
+402,Desktop,Brasil,2024-06-01 08:51:00,Nível 1,1,23.37568528,8
+443,Smartphone,Canadá,2024-06-01 09:07:00,Nível 0,0,0.0,9
+1666,Desktop,França,2024-06-01 15:24:00,Nível 0,1,4.075067827,15
+1219,Tablet,França,2024-06-01 21:00:00,Nível 0,0,0.0,21
+739,Tablet,Alemanha,2024-06-01 01:18:00,Nível 0,0,0.0,1
+460,Tablet,Brasil,2024-06-01 07:34:00,Nível 1,1,1.342279346,7
+1891,Tablet,Brasil,2024-06-01 20:34:00,Nível 1,0,0.0,20
+823,Tablet,França,2024-06-01 22:30:00,Nível 0,1,4.319093499,22
+1603,Smartphone,EUA,2024-06-01 16:28:00,Nível 0,1,19.107084471,16
+250,Desktop,Austrália,2024-06-01 22:59:00,Nível 0,0,0.0,22
+499,Desktop,Austrália,2024-06-01 03:20:00,Nível 0,0,0.0,3
+714,Desktop,Canadá,2024-06-01 18:21:00,Nível 0,0,0.0,18
+903,Tablet,Austrália,2024-06-01 04:30:00,Nível 1,0,0.0,4
+1748,Desktop,Brasil,2024-06-01 20:04:00,Nível 1,0,0.0,20
+1970,Smartphone,França,2024-06-01 03:30:00,Nível 0,1,18.883863249,3
+39,Tablet,Índia,2024-06-01 23:24:00,Nível 0,1,43.51746074,23
+1530,Tablet,Austrália,2024-06-01 15:23:00,Nível 0,0,0.0,15
+1033,Smartphone,Alemanha,2024-06-01 08:02:00,Nível 0,0,0.0,8
+385,Desktop,Índia,2024-06-01 16:20:00,Nível 0,1,3.678408329,16
+1097,Tablet,Brasil,2024-06-01 12:21:00,Nível 0,0,0.0,12
+1181,Smartphone,Brasil,2024-06-01 11:24:00,Nível 0,0,0.0,11
+645,Tablet,Reino Unido,2024-06-01 20:30:00,Nível 0,1,49.1628062,20
+1550,Smartphone,França,2024-06-01 14:15:00,Nível 0,1,60.26105578,14
+1854,Desktop,França,2024-06-01 01:45:00,Nível 0,0,0.0,1
+454,Desktop,Canadá,2024-06-01 14:34:00,Nível 0,1,3.20707718,14
+1100,Tablet,Reino Unido,2024-06-01 10:56:00,Nível 0,0,0.0,10
+1882,Desktop,Canadá,2024-06-01 20:03:00,Nível 1,0,0.0,20
+1931,Smartphone,Índia,2024-06-01 03:07:00,Nível 0,0,0.0,3
+1990,Smartphone,Índia,2024-06-01 23:56:00,Nível 0,1,15.364744474,23
+1439,Desktop,EUA,2024-06-01 04:46:00,Nível 0,1,19.510817607,4
+563,Tablet,EUA,2024-06-01 04:32:00,Nível 0,1,15.334611172,4
+1891,Smartphone,EUA,2024-06-01 01:57:00,Nível 1,1,19.88984964,1
+1523,Smartphone,Austrália,2024-06-01 21:59:00,Nível 1,0,0.0,21
+1051,Desktop,Índia,2024-06-01 09:33:00,Nível 0,1,19.31167115,9
+1106,Smartphone,França,2024-06-01 14:27:00,Nível 0,1,3.665772545,14
+1130,Smartphone,Reino Unido,2024-06-01 22:34:00,Nível 0,1,19.644216811,22
+1490,Smartphone,França,2024-06-01 15:23:00,Nível 0,1,15.444262816,15
+1121,Tablet,EUA,2024-06-01 09:22:00,Nível 0,1,4.097477546,9
+1688,Tablet,Brasil,2024-06-01 12:48:00,Nível 1,0,0.0,12
+547,Desktop,Austrália,2024-06-01 12:35:00,Nível 0,1,41.04245985,12
+649,Tablet,Reino Unido,2024-06-01 01:35:00,Nível 0,0,0.0,1
+1276,Smartphone,EUA,2024-06-01 13:23:00,Nível 0,1,4.582797448,13
+554,Desktop,França,2024-06-01 16:12:00,Nível 0,0,0.0,16
+1167,Desktop,Reino Unido,2024-06-01 14:03:00,Nível 0,1,18.806943612,14
+761,Desktop,Alemanha,2024-06-01 02:10:00,Nível 1,0,0.0,2
+264,Smartphone,Austrália,2024-06-01 22:06:00,Nível 0,1,39.63446349,22
+1398,Smartphone,Austrália,2024-06-01 04:35:00,Nível 0,0,0.0,4
+1980,Smartphone,Índia,2024-06-01 02:01:00,Nível 0,0,0.0,2
+1683,Tablet,Alemanha,2024-06-01 21:00:00,Nível 1,0,0.0,21
+697,Smartphone,Alemanha,2024-06-01 09:32:00,Nível 0,1,0.373630547,9
+719,Desktop,Reino Unido,2024-06-01 18:18:00,Nível 0,0,0.0,18
+1598,Tablet,França,2024-06-01 15:25:00,Nível 1,0,0.0,15
+891,Tablet,Índia,2024-06-01 10:05:00,Nível 0,1,19.733925222,10
+709,Desktop,Austrália,2024-06-01 00:11:00,Nível 1,0,0.0,0
+867,Tablet,Canadá,2024-06-01 21:54:00,Nível 0,1,3.192076765,21
+1940,Tablet,Índia,2024-06-01 14:46:00,Nível 0,1,19.197478985,14
+1249,Tablet,Reino Unido,2024-06-01 03:11:00,Nível 0,0,0.0,3
+147,Tablet,Índia,2024-06-01 06:18:00,Nível 0,0,0.0,6
+47,Desktop,Reino Unido,2024-06-01 13:59:00,Nível 1,0,0.0,13
+725,Tablet,Reino Unido,2024-06-01 00:11:00,Nível 0,0,0.0,0
+764,Desktop,Índia,2024-06-01 13:58:00,Nível 1,0,0.0,13
+1031,Tablet,EUA,2024-06-01 15:38:00,Nível 1,1,1.987935445,15
+804,Desktop,Alemanha,2024-06-01 11:59:00,Nível 0,1,18.619029381,11
+363,Desktop,Austrália,2024-06-01 16:02:00,Nível 0,0,0.0,16
+1501,Tablet,Alemanha,2024-06-01 08:12:00,Nível 0,1,4.323452262,8
+776,Tablet,Canadá,2024-06-01 19:08:00,Nível 0,0,0.0,19
+82,Desktop,Alemanha,2024-06-01 20:53:00,Nível 0,0,0.0,20
+666,Desktop,Brasil,2024-06-01 18:41:00,Nível 1,1,2.328464533,18
+730,Smartphone,Alemanha,2024-06-01 20:34:00,Nível 0,0,0.0,20
+1827,Tablet,Austrália,2024-06-01 16:41:00,Nível 1,0,0.0,16
+561,Desktop,Austrália,2024-06-01 01:12:00,Nível 0,0,0.0,1
+118,Tablet,Canadá,2024-06-01 02:34:00,Nível 1,0,0.0,2
+674,Smartphone,Brasil,2024-06-01 07:19:00,Nível 0,0,0.0,7
+993,Desktop,EUA,2024-06-01 18:48:00,Nível 1,1,2.146974694,18
+1997,Tablet,Canadá,2024-06-01 15:17:00,Nível 0,0,0.0,15
+1041,Tablet,EUA,2024-06-01 09:56:00,Nível 1,0,0.0,9
+1333,Tablet,Reino Unido,2024-06-01 05:44:00,Nível 1,0,0.0,5
+1052,Smartphone,Reino Unido,2024-06-01 13:24:00,Nível 0,0,0.0,13
+1070,Desktop,Austrália,2024-06-01 06:50:00,Nível 1,0,0.0,6
+29,Smartphone,França,2024-06-01 09:50:00,Nível 0,0,0.0,9
+687,Smartphone,Austrália,2024-06-01 09:28:00,Nível 0,1,5.104927833,9
+1397,Smartphone,Reino Unido,2024-06-01 03:23:00,Nível 0,0,0.0,3
+1751,Smartphone,Reino Unido,2024-06-01 09:09:00,Nível 0,1,4.578622274,9
+1716,Tablet,EUA,2024-06-01 13:08:00,Nível 1,0,0.0,13
+42,Tablet,Austrália,2024-06-01 23:00:00,Nível 0,0,0.0,23
+929,Desktop,Canadá,2024-06-01 20:29:00,Nível 0,1,19.061121502,20
+2,Smartphone,França,2024-06-01 11:18:00,Nível 1,0,0.0,11
+1636,Desktop,Reino Unido,2024-06-01 01:52:00,Nível 1,0,0.0,1
+154,Smartphone,França,2024-06-01 13:45:00,Nível 0,0,0.0,13
+785,Desktop,França,2024-06-01 10:07:00,Nível 1,0,0.0,10
+1540,Desktop,Reino Unido,2024-06-01 17:27:00,Nível 0,1,5.025623472,17
+1532,Desktop,EUA,2024-06-01 09:25:00,Nível 0,0,0.0,9
+1089,Desktop,Austrália,2024-06-01 04:57:00,Nível 0,0,0.0,4
+102,Desktop,França,2024-06-01 18:08:00,Nível 1,0,0.0,18
+1151,Desktop,EUA,2024-06-01 13:49:00,Nível 0,1,18.491207611,13
+958,Desktop,Canadá,2024-06-01 16:55:00,Nível 0,0,0.0,16
+471,Tablet,França,2024-06-01 03:28:00,Nível 1,0,0.0,3
+1026,Desktop,EUA,2024-06-01 09:32:00,Nível 0,1,2.857111378,9
+1715,Smartphone,EUA,2024-06-01 21:27:00,Nível 0,1,0.315956477,21
+898,Desktop,França,2024-06-01 22:33:00,Nível 1,0,0.0,22
+1896,Tablet,França,2024-06-01 19:27:00,Nível 1,1,2.343619225,19
+128,Desktop,Reino Unido,2024-06-01 06:25:00,Nível 0,1,49.17668326,6
+1750,Tablet,Canadá,2024-06-01 21:04:00,Nível 1,0,0.0,21
+1825,Tablet,Alemanha,2024-06-01 12:57:00,Nível 0,0,0.0,12
+117,Desktop,Brasil,2024-06-01 00:47:00,Nível 1,0,0.0,0
+23,Desktop,Reino Unido,2024-06-01 22:06:00,Nível 0,0,0.0,22
+1560,Smartphone,Brasil,2024-06-01 10:17:00,Nível 1,1,20.83318948,10
+459,Desktop,Canadá,2024-06-01 11:13:00,Nível 0,1,3.855968601,11
+518,Desktop,EUA,2024-06-01 03:20:00,Nível 0,1,4.119085653,3
+516,Tablet,Índia,2024-06-01 09:01:00,Nível 0,1,4.713664326,9
+75,Tablet,Alemanha,2024-06-01 23:00:00,Nível 0,1,18.567857369,23
+1688,Tablet,Austrália,2024-06-01 05:54:00,Nível 1,0,0.0,5
+719,Tablet,Reino Unido,2024-06-01 08:24:00,Nível 0,1,4.110315402,8
+1082,Smartphone,Reino Unido,2024-06-01 11:13:00,Nível 0,1,33.87500056,11
+888,Desktop,Austrália,2024-06-01 15:36:00,Nível 1,0,0.0,15
+396,Desktop,Reino Unido,2024-06-01 11:29:00,Nível 0,1,4.01221592,11
+289,Tablet,França,2024-06-01 01:15:00,Nível 1,0,0.0,1
+1380,Desktop,Índia,2024-06-01 16:13:00,Nível 0,0,0.0,16
+1032,Desktop,EUA,2024-06-01 02:52:00,Nível 1,0,0.0,2
+1661,Tablet,Brasil,2024-06-01 03:51:00,Nível 1,0,0.0,3
+848,Smartphone,Brasil,2024-06-01 23:07:00,Nível 1,0,0.0,23
+120,Desktop,Canadá,2024-06-01 20:20:00,Nível 0,0,0.0,20
+1405,Smartphone,França,2024-06-01 11:37:00,Nível 0,1,4.637341925,11
+879,Desktop,EUA,2024-06-01 20:05:00,Nível 0,1,17.959629737,20
+1864,Smartphone,Reino Unido,2024-06-01 23:51:00,Nível 0,1,15.481321537,23
+1067,Tablet,Canadá,2024-06-01 03:56:00,Nível 0,1,19.320947061,3
+476,Smartphone,França,2024-06-01 08:41:00,Nível 0,1,35.79614055,8
+339,Smartphone,EUA,2024-06-01 11:42:00,Nível 0,1,57.88536092,11
+1329,Desktop,Alemanha,2024-06-01 10:48:00,Nível 0,0,0.0,10
+453,Desktop,Índia,2024-06-01 18:03:00,Nível 0,1,51.81256283,18
+865,Smartphone,França,2024-06-01 20:00:00,Nível 0,0,0.0,20
+1759,Tablet,Brasil,2024-06-01 10:08:00,Nível 0,0,0.0,10
+503,Smartphone,Índia,2024-06-01 15:03:00,Nível 1,0,0.0,15
+1669,Desktop,Brasil,2024-06-01 17:42:00,Nível 0,1,4.16237912,17
+1063,Desktop,EUA,2024-06-01 18:16:00,Nível 0,1,18.847022784,18
+769,Desktop,Brasil,2024-06-01 16:43:00,Nível 0,0,0.0,16
+992,Desktop,Índia,2024-06-01 02:17:00,Nível 0,1,37.35500793,2
+1945,Desktop,Canadá,2024-06-01 08:09:00,Nível 1,0,0.0,8
+1326,Tablet,EUA,2024-06-01 13:11:00,Nível 0,1,2.992549384,13
+239,Smartphone,Austrália,2024-06-01 06:15:00,Nível 0,1,19.233626108,6
+1999,Tablet,Índia,2024-06-01 22:58:00,Nível 0,1,53.11117556,22
+1050,Tablet,Austrália,2024-06-01 04:33:00,Nível 1,0,0.0,4
+1247,Smartphone,Brasil,2024-06-01 14:53:00,Nível 0,1,18.88611451,14
+1257,Tablet,Reino Unido,2024-06-01 21:42:00,Nível 1,0,0.0,21
+570,Smartphone,Reino Unido,2024-06-01 07:39:00,Nível 1,0,0.0,7
+764,Desktop,França,2024-06-01 06:11:00,Nível 1,0,0.0,6
+1278,Desktop,Reino Unido,2024-06-01 05:12:00,Nível 1,1,2.991852068,5
+1146,Tablet,Reino Unido,2024-06-01 07:02:00,Nível 1,0,0.0,7
+761,Desktop,Brasil,2024-06-01 15:18:00,Nível 1,0,0.0,15
+925,Smartphone,EUA,2024-06-01 23:04:00,Nível 1,1,22.80736315,23
+634,Tablet,EUA,2024-06-01 10:41:00,Nível 1,1,1.919720195,10
+1064,Desktop,Austrália,2024-06-01 09:58:00,Nível 1,0,0.0,9
+779,Smartphone,EUA,2024-06-01 14:52:00,Nível 0,0,0.0,14
+1982,Desktop,Brasil,2024-06-01 18:36:00,Nível 1,0,0.0,18
+575,Smartphone,Alemanha,2024-06-01 17:13:00,Nível 0,1,43.5479974,17
+1313,Desktop,Canadá,2024-06-01 06:29:00,Nível 0,1,19.081398309,6
+969,Tablet,França,2024-06-01 23:45:00,Nível 0,0,0.0,23
+1561,Tablet,Canadá,2024-06-01 18:53:00,Nível 0,0,0.0,18
+1435,Tablet,França,2024-06-01 01:24:00,Nível 0,0,0.0,1
+23,Desktop,Índia,2024-06-01 02:25:00,Nível 0,0,0.0,2
+1124,Smartphone,Austrália,2024-06-01 02:40:00,Nível 0,1,19.097538463,2
+422,Desktop,EUA,2024-06-01 16:31:00,Nível 0,1,4.338178524,16
+1173,Desktop,Austrália,2024-06-01 18:59:00,Nível 1,0,0.0,18
+1525,Smartphone,Alemanha,2024-06-01 02:50:00,Nível 1,0,0.0,2
+5,Desktop,Austrália,2024-06-01 23:11:00,Nível 0,1,19.404828765,23
+559,Tablet,Brasil,2024-06-01 19:55:00,Nível 0,1,18.679417535,19
+1448,Smartphone,Brasil,2024-06-01 17:16:00,Nível 1,0,0.0,17
+525,Tablet,França,2024-06-01 21:46:00,Nível 0,1,18.887253288,21
+1800,Desktop,Canadá,2024-06-01 05:50:00,Nível 1,0,0.0,5
+1418,Tablet,Brasil,2024-06-01 04:47:00,Nível 1,0,0.0,4
+754,Desktop,França,2024-06-01 16:01:00,Nível 0,0,0.0,16
+1453,Smartphone,EUA,2024-06-01 09:48:00,Nível 0,1,3.005026865,9
+1185,Tablet,Austrália,2024-06-01 12:51:00,Nível 1,0,0.0,12
+1524,Tablet,Brasil,2024-06-01 14:51:00,Nível 0,1,0.444242129,14
+1907,Tablet,EUA,2024-06-01 21:31:00,Nível 0,1,3.602005545,21
+560,Desktop,Brasil,2024-06-01 13:32:00,Nível 0,1,35.07683156,13
+1388,Tablet,Reino Unido,2024-06-01 17:53:00,Nível 0,0,0.0,17
+1840,Desktop,Canadá,2024-06-01 09:59:00,Nível 0,1,4.615230024,9
+271,Tablet,Índia,2024-06-01 12:06:00,Nível 0,1,4.831465724,12
+1634,Smartphone,França,2024-06-01 05:35:00,Nível 1,0,0.0,5
+700,Tablet,Alemanha,2024-06-01 16:16:00,Nível 1,0,0.0,16
+1986,Desktop,Brasil,2024-06-01 20:45:00,Nível 0,0,0.0,20
+1426,Tablet,EUA,2024-06-01 16:28:00,Nível 1,0,0.0,16
+474,Tablet,Canadá,2024-06-01 06:46:00,Nível 1,0,0.0,6
+14,Tablet,França,2024-06-01 02:45:00,Nível 0,0,0.0,2
+511,Tablet,Brasil,2024-06-01 11:27:00,Nível 0,1,39.71024729,11
+1676,Desktop,Austrália,2024-06-01 08:00:00,Nível 1,0,0.0,8
+1689,Tablet,Austrália,2024-06-01 07:25:00,Nível 0,1,28.79042033,7
+771,Tablet,França,2024-06-01 09:37:00,Nível 1,0,0.0,9
+879,Smartphone,Canadá,2024-06-01 08:12:00,Nível 0,0,0.0,8
+500,Tablet,Austrália,2024-06-01 00:16:00,Nível 0,1,52.10524121,0
+1846,Tablet,Reino Unido,2024-06-01 10:50:00,Nível 1,0,0.0,10
+1374,Desktop,EUA,2024-06-01 21:41:00,Nível 0,0,0.0,21
+1985,Desktop,Alemanha,2024-06-01 03:14:00,Nível 0,1,31.87439371,3
+1828,Desktop,Austrália,2024-06-01 01:29:00,Nível 0,0,0.0,1
+1063,Tablet,Alemanha,2024-06-01 09:35:00,Nível 0,0,0.0,9
+1061,Desktop,EUA,2024-06-01 21:36:00,Nível 0,0,0.0,21
+1442,Smartphone,Índia,2024-06-01 21:47:00,Nível 0,1,18.439432994,21
+1876,Desktop,EUA,2024-06-01 22:47:00,Nível 0,0,0.0,22
+1803,Tablet,Reino Unido,2024-06-01 21:23:00,Nível 0,0,0.0,21
+778,Smartphone,Índia,2024-06-01 03:02:00,Nível 0,0,0.0,3
+1470,Desktop,Alemanha,2024-06-01 14:05:00,Nível 1,0,0.0,14
+1600,Desktop,EUA,2024-06-01 21:41:00,Nível 0,0,0.0,21
+613,Smartphone,Brasil,2024-06-01 07:36:00,Nível 0,0,0.0,7
+1351,Tablet,EUA,2024-06-01 07:44:00,Nível 0,0,0.0,7
+1057,Smartphone,França,2024-06-01 15:52:00,Nível 0,0,0.0,15
+939,Desktop,Austrália,2024-06-01 00:51:00,Nível 0,1,18.387798896,0
+907,Smartphone,Índia,2024-06-01 11:56:00,Nível 1,1,21.77669098,11
+1485,Tablet,Reino Unido,2024-06-01 06:02:00,Nível 0,1,4.160465031,6
+1301,Tablet,Austrália,2024-06-01 23:10:00,Nível 1,0,0.0,23
+1534,Smartphone,Brasil,2024-06-01 13:09:00,Nível 0,0,0.0,13
+167,Tablet,Alemanha,2024-06-01 06:39:00,Nível 0,1,4.372293199,6
+457,Tablet,Reino Unido,2024-06-01 10:07:00,Nível 0,0,0.0,10
+196,Tablet,Austrália,2024-06-01 11:38:00,Nível 1,0,0.0,11
+928,Smartphone,Canadá,2024-06-01 20:09:00,Nível 0,1,19.882456903,20
+1009,Smartphone,Brasil,2024-06-01 04:28:00,Nível 0,0,0.0,4
+1795,Desktop,França,2024-06-01 00:52:00,Nível 1,0,0.0,0
+717,Desktop,França,2024-06-01 15:16:00,Nível 1,0,0.0,15
+1210,Desktop,Reino Unido,2024-06-01 11:24:00,Nível 0,0,0.0,11
+1700,Tablet,Brasil,2024-06-01 06:27:00,Nível 0,0,0.0,6
+1662,Tablet,Alemanha,2024-06-01 17:24:00,Nível 0,0,0.0,17
+886,Desktop,Canadá,2024-06-01 22:38:00,Nível 0,1,18.703767272,22
+1039,Desktop,Reino Unido,2024-06-01 19:30:00,Nível 1,0,0.0,19
+187,Smartphone,Reino Unido,2024-06-01 04:43:00,Nível 1,0,0.0,4
+935,Smartphone,Canadá,2024-06-01 15:02:00,Nível 1,1,25.20028945,15
+1762,Tablet,Reino Unido,2024-06-01 12:35:00,Nível 0,0,0.0,12
+958,Smartphone,Canadá,2024-06-01 07:37:00,Nível 0,0,0.0,7
+795,Smartphone,Brasil,2024-06-01 15:30:00,Nível 0,1,57.5807202,15
+404,Smartphone,França,2024-06-01 20:52:00,Nível 0,0,0.0,20
+1199,Tablet,Austrália,2024-06-01 18:42:00,Nível 1,0,0.0,18
+971,Smartphone,Brasil,2024-06-01 06:54:00,Nível 0,1,3.437406949,6
+1515,Smartphone,Brasil,2024-06-01 18:22:00,Nível 0,0,0.0,18
+1830,Desktop,Canadá,2024-06-01 09:59:00,Nível 0,1,4.615230024,9
+63,Desktop,Canadá,2024-06-01 07:00:00,Nível 0,0,0.0,7
+1263,Desktop,França,2024-06-01 16:55:00,Nível 1,0,0.0,16
+1578,Smartphone,Índia,2024-06-01 20:46:00,Nível 0,0,0.0,20
+466,Tablet,EUA,2024-06-01 21:41:00,Nível 0,0,0.0,21
+1976,Desktop,Reino Unido,2024-06-01 06:16:00,Nível 1,0,0.0,6
+700,Smartphone,Canadá,2024-06-01 04:58:00,Nível 0,1,0.447294408,4
+1686,Desktop,Índia,2024-06-01 08:53:00,Nível 0,1,3.970784941,8
+1482,Smartphone,EUA,2024-06-01 20:17:00,Nível 0,1,18.582437748,20
+1149,Tablet,Índia,2024-06-01 16:12:00,Nível 1,1,2.08166734,16
+1588,Desktop,Austrália,2024-06-01 00:29:00,Nível 0,0,0.0,0
+1410,Desktop,EUA,2024-06-01 02:44:00,Nível 0,1,4.453393636,2
+1127,Tablet,Índia,2024-06-01 16:29:00,Nível 0,0,0.0,16
+216,Tablet,Alemanha,2024-06-01 16:59:00,Nível 0,0,0.0,16
+1556,Desktop,França,2024-06-01 10:37:00,Nível 0,0,0.0,10
+1864,Tablet,Austrália,2024-06-01 04:56:00,Nível 0,1,4.115865471,4
+849,Desktop,Canadá,2024-06-01 06:10:00,Nível 1,0,0.0,6
+699,Tablet,Austrália,2024-06-01 17:57:00,Nível 1,0,0.0,17
+1175,Desktop,Reino Unido,2024-06-01 22:37:00,Nível 0,0,0.0,22
+1399,Tablet,Índia,2024-06-01 14:22:00,Nível 0,1,4.039003709,14
+1137,Tablet,França,2024-06-01 02:40:00,Nível 1,0,0.0,2
+1077,Desktop,Canadá,2024-06-01 07:37:00,Nível 1,0,0.0,7
+1953,Desktop,Alemanha,2024-06-01 21:46:00,Nível 0,0,0.0,21
+238,Smartphone,França,2024-06-01 15:48:00,Nível 0,1,19.272312287,15
+1650,Smartphone,Canadá,2024-06-01 23:25:00,Nível 1,1,19.1993493,23
+1306,Desktop,EUA,2024-06-01 05:02:00,Nível 0,1,18.79760231,5
+511,Desktop,Austrália,2024-06-01 04:12:00,Nível 1,0,0.0,4
+280,Desktop,Canadá,2024-06-01 14:36:00,Nível 1,0,0.0,14
+1047,Tablet,Reino Unido,2024-06-01 23:51:00,Nível 1,0,0.0,23
+268,Desktop,EUA,2024-06-01 04:53:00,Nível 0,1,19.029952628,4
+1032,Smartphone,Austrália,2024-06-01 22:05:00,Nível 0,0,0.0,22
+1296,Tablet,Austrália,2024-06-01 20:32:00,Nível 0,0,0.0,20
+1372,Desktop,Alemanha,2024-06-01 10:49:00,Nível 0,0,0.0,10
+93,Desktop,EUA,2024-06-01 14:36:00,Nível 0,0,0.0,14
+73,Desktop,Canadá,2024-06-01 02:25:00,Nível 0,0,0.0,2
+1894,Tablet,Reino Unido,2024-06-01 00:59:00,Nível 0,0,0.0,0
+1354,Desktop,França,2024-06-01 15:39:00,Nível 0,0,0.0,15
+1909,Desktop,Brasil,2024-06-01 07:30:00,Nível 1,0,0.0,7
+1895,Desktop,Índia,2024-06-01 17:18:00,Nível 1,0,0.0,17
+387,Tablet,Austrália,2024-06-01 19:47:00,Nível 0,0,0.0,19
+1185,Desktop,Brasil,2024-06-01 04:11:00,Nível 0,0,0.0,4
+1130,Desktop,Alemanha,2024-06-01 20:24:00,Nível 0,1,0.433734749,20
+1522,Tablet,Índia,2024-06-01 11:30:00,Nível 1,0,0.0,11
+475,Tablet,Reino Unido,2024-06-01 00:14:00,Nível 0,1,51.39772465,0
+1947,Desktop,Reino Unido,2024-06-01 15:41:00,Nível 0,0,0.0,15
+1393,Smartphone,EUA,2024-06-01 12:09:00,Nível 1,1,23.67566057,12
+653,Tablet,Brasil,2024-06-01 03:47:00,Nível 1,1,1.968553067,3
+1847,Desktop,Canadá,2024-06-01 07:38:00,Nível 1,0,0.0,7
+1009,Desktop,Reino Unido,2024-06-01 04:08:00,Nível 1,0,0.0,4
+1327,Smartphone,França,2024-06-01 15:11:00,Nível 0,1,15.512701905,15
+816,Smartphone,Reino Unido,2024-06-01 03:08:00,Nível 0,0,0.0,3
+661,Smartphone,França,2024-06-01 15:29:00,Nível 0,1,3.844162057,15
+155,Desktop,Brasil,2024-06-01 23:18:00,Nível 1,0,0.0,23
+1924,Smartphone,Brasil,2024-06-01 21:31:00,Nível 0,0,0.0,21
+1482,Smartphone,Índia,2024-06-01 04:29:00,Nível 1,1,2.823938803,4
+1077,Smartphone,EUA,2024-06-01 07:50:00,Nível 1,0,0.0,7
+1631,Desktop,Austrália,2024-06-01 02:15:00,Nível 1,0,0.0,2
+1435,Desktop,Austrália,2024-06-01 13:38:00,Nível 0,1,19.342809687,13
+1866,Tablet,Reino Unido,2024-06-01 21:47:00,Nível 0,0,0.0,21
+853,Smartphone,França,2024-06-01 09:13:00,Nível 0,0,0.0,9
+302,Tablet,Reino Unido,2024-06-01 11:21:00,Nível 0,0,0.0,11
+133,Tablet,Índia,2024-06-01 13:56:00,Nível 1,0,0.0,13
+1906,Desktop,Índia,2024-06-01 03:10:00,Nível 1,0,0.0,3
+1749,Desktop,Austrália,2024-06-01 22:46:00,Nível 1,0,0.0,22
+1954,Smartphone,Índia,2024-06-01 22:36:00,Nível 0,0,0.0,22
+1717,Smartphone,Canadá,2024-06-01 06:44:00,Nível 1,0,0.0,6
+1782,Desktop,Brasil,2024-06-01 01:18:00,Nível 0,1,19.026228693,1
+243,Desktop,Canadá,2024-06-01 06:22:00,Nível 0,0,0.0,6
+115,Tablet,Alemanha,2024-06-01 14:41:00,Nível 1,0,0.0,14
+1277,Tablet,Canadá,2024-06-01 02:38:00,Nível 0,1,15.385500932,2
+1105,Desktop,Brasil,2024-06-01 02:01:00,Nível 1,0,0.0,2
+609,Desktop,Reino Unido,2024-06-01 18:15:00,Nível 1,0,0.0,18
+1854,Tablet,Reino Unido,2024-06-01 01:47:00,Nível 0,0,0.0,1
+1701,Tablet,Brasil,2024-06-01 07:32:00,Nível 0,0,0.0,7
+844,Desktop,EUA,2024-06-01 03:33:00,Nível 1,0,0.0,3
+883,Tablet,Alemanha,2024-06-01 08:12:00,Nível 1,0,0.0,8
+1013,Desktop,Brasil,2024-06-01 09:43:00,Nível 0,1,19.301822869,9
+1465,Tablet,Brasil,2024-06-01 14:31:00,Nível 0,1,48.35496181,14
+1342,Desktop,Austrália,2024-06-01 01:28:00,Nível 0,0,0.0,1
+1395,Desktop,Reino Unido,2024-06-01 01:36:00,Nível 0,1,48.77474388,1
+1060,Smartphone,EUA,2024-06-01 06:03:00,Nível 0,0,0.0,6
+1265,Smartphone,Alemanha,2024-06-01 12:29:00,Nível 0,1,15.39606058,12
+207,Desktop,Canadá,2024-06-01 03:31:00,Nível 1,0,0.0,3
+1983,Smartphone,Austrália,2024-06-01 16:24:00,Nível 0,0,0.0,16
+18,Tablet,Índia,2024-06-01 12:11:00,Nível 1,0,0.0,12
+1241,Tablet,Canadá,2024-06-01 16:44:00,Nível 0,1,3.908377378,16
+1456,Tablet,Austrália,2024-06-01 10:09:00,Nível 1,1,20.41936251,10
+1355,Desktop,Reino Unido,2024-06-01 14:21:00,Nível 0,0,0.0,14
+1298,Smartphone,EUA,2024-06-01 22:07:00,Nível 0,1,19.436408542,22
+806,Desktop,Brasil,2024-06-01 06:49:00,Nível 0,0,0.0,6
+226,Desktop,Alemanha,2024-06-01 23:50:00,Nível 0,0,0.0,23
+1247,Tablet,Austrália,2024-06-01 09:15:00,Nível 0,1,46.96871606,9
+1803,Tablet,EUA,2024-06-01 05:48:00,Nível 1,0,0.0,5
+1415,Smartphone,Reino Unido,2024-06-01 09:54:00,Nível 0,0,0.0,9
+113,Desktop,Reino Unido,2024-06-01 13:50:00,Nível 1,0,0.0,13
+1402,Tablet,EUA,2024-06-01 15:01:00,Nível 0,0,0.0,15
+28,Smartphone,Reino Unido,2024-06-01 08:26:00,Nível 0,0,0.0,8
+1998,Desktop,Canadá,2024-06-01 06:05:00,Nível 0,0,0.0,6
+1168,Tablet,Índia,2024-06-01 22:58:00,Nível 0,1,19.583264168,22
+1322,Desktop,Índia,2024-06-01 12:45:00,Nível 1,0,0.0,12
+1582,Tablet,Austrália,2024-06-01 06:49:00,Nível 0,0,0.0,6
+1253,Smartphone,Austrália,2024-06-01 20:21:00,Nível 0,0,0.0,20
+380,Smartphone,EUA,2024-06-01 03:12:00,Nível 0,0,0.0,3
+123,Tablet,Canadá,2024-06-01 10:04:00,Nível 0,1,32.879162,10
+347,Tablet,França,2024-06-01 03:10:00,Nível 1,0,0.0,3
+453,Desktop,Alemanha,2024-06-01 15:10:00,Nível 1,0,0.0,15
+1258,Tablet,Brasil,2024-06-01 21:29:00,Nível 1,0,0.0,21
+1112,Tablet,Canadá,2024-06-01 19:49:00,Nível 0,0,0.0,19
+718,Tablet,Alemanha,2024-06-01 17:50:00,Nível 0,0,0.0,17
+601,Desktop,Reino Unido,2024-06-01 13:22:00,Nível 0,1,53.45466882,13
+1975,Tablet,Canadá,2024-06-01 00:29:00,Nível 1,0,0.0,0
+1701,Desktop,Reino Unido,2024-06-01 12:36:00,Nível 1,0,0.0,12
+881,Tablet,Alemanha,2024-06-01 04:35:00,Nível 0,0,0.0,4
+1463,Desktop,Índia,2024-06-01 17:21:00,Nível 1,0,0.0,17
+1553,Smartphone,Canadá,2024-06-01 19:51:00,Nível 0,0,0.0,19
+268,Tablet,Brasil,2024-06-01 23:33:00,Nível 0,0,0.0,23
+34,Desktop,Alemanha,2024-06-01 15:12:00,Nível 1,0,0.0,15
+7,Tablet,Brasil,2024-06-01 11:08:00,Nível 0,1,43.31798934,11
+944,Smartphone,EUA,2024-06-01 15:04:00,Nível 0,0,0.0,15
+385,Smartphone,Brasil,2024-06-01 00:11:00,Nível 1,0,0.0,0
+1696,Smartphone,Canadá,2024-06-01 19:28:00,Nível 0,0,0.0,19
+587,Tablet,EUA,2024-06-01 15:12:00,Nível 0,1,3.700180003,15
+1384,Smartphone,Brasil,2024-06-01 18:17:00,Nível 0,0,0.0,18
+1896,Tablet,Brasil,2024-06-01 11:22:00,Nível 1,0,0.0,11
+639,Smartphone,Reino Unido,2024-06-01 00:06:00,Nível 0,1,18.623398109,0
+1470,Desktop,Brasil,2024-06-01 18:09:00,Nível 0,0,0.0,18
+1435,Desktop,Austrália,2024-06-01 13:38:00,Nível 0,1,4.342809687,13
+654,Desktop,Canadá,2024-06-01 02:19:00,Nível 1,0,0.0,2
+1123,Tablet,Canadá,2024-06-01 19:43:00,Nível 1,0,0.0,19
+1196,Desktop,França,2024-06-01 14:30:00,Nível 0,0,0.0,14
+1998,Tablet,EUA,2024-06-01 07:08:00,Nível 0,0,0.0,7
+215,Tablet,Reino Unido,2024-06-01 19:34:00,Nível 0,1,15.436325581,19
+34,Smartphone,França,2024-06-01 19:33:00,Nível 1,0,0.0,19
+982,Tablet,Alemanha,2024-06-01 16:56:00,Nível 0,1,4.039219623,16
+236,Desktop,França,2024-06-01 07:59:00,Nível 0,1,37.92541861,7
+876,Desktop,Austrália,2024-06-01 01:15:00,Nível 0,0,0.0,1
+34,Smartphone,Alemanha,2024-06-01 05:39:00,Nível 1,0,0.0,5
+1921,Smartphone,Alemanha,2024-06-01 06:23:00,Nível 0,0,0.0,6
+47,Desktop,Canadá,2024-06-01 14:56:00,Nível 0,0,0.0,14
+1508,Smartphone,França,2024-06-01 10:38:00,Nível 0,0,0.0,10
+900,Desktop,Brasil,2024-06-01 18:45:00,Nível 0,1,19.409382985,18
+397,Tablet,Austrália,2024-06-01 01:15:00,Nível 1,0,0.0,1
+1644,Desktop,Índia,2024-06-01 05:59:00,Nível 1,0,0.0,5
+1659,Desktop,França,2024-06-01 04:12:00,Nível 0,0,0.0,4
+1874,Desktop,Austrália,2024-06-01 14:06:00,Nível 0,0,0.0,14
+1346,Tablet,Índia,2024-06-01 00:18:00,Nível 1,0,0.0,0
+764,Tablet,EUA,2024-06-01 17:12:00,Nível 1,0,0.0,17
+1725,Tablet,Brasil,2024-06-01 09:08:00,Nível 0,0,0.0,9
+191,Tablet,Brasil,2024-06-01 21:10:00,Nível 1,0,0.0,21
+1293,Desktop,Índia,2024-06-01 13:09:00,Nível 0,1,4.887745425,13
+1004,Tablet,Austrália,2024-06-01 05:42:00,Nível 0,0,0.0,5
+1662,Tablet,EUA,2024-06-01 09:11:00,Nível 1,0,0.0,9
+1029,Smartphone,França,2024-06-01 00:29:00,Nível 1,0,0.0,0
+1541,Desktop,França,2024-06-01 04:42:00,Nível 0,0,0.0,4
+542,Smartphone,França,2024-06-01 04:10:00,Nível 1,0,0.0,4
+1853,Smartphone,EUA,2024-06-01 03:46:00,Nível 0,1,4.349732123,3
+691,Desktop,Alemanha,2024-06-01 07:42:00,Nível 0,1,47.59976003,7
+127,Tablet,EUA,2024-06-01 02:13:00,Nível 0,0,0.0,2
+1664,Tablet,Brasil,2024-06-01 06:26:00,Nível 0,0,0.0,6
+1527,Smartphone,Reino Unido,2024-06-01 15:41:00,Nível 0,0,0.0,15
+632,Smartphone,Austrália,2024-06-01 04:30:00,Nível 0,0,0.0,4
+6,Smartphone,França,2024-06-01 09:57:00,Nível 1,0,0.0,9
+721,Smartphone,Alemanha,2024-06-01 11:41:00,Nível 0,0,0.0,11
+1007,Smartphone,França,2024-06-01 18:58:00,Nível 1,0,0.0,18
+194,Smartphone,Brasil,2024-06-01 19:00:00,Nível 0,1,0.304688169,19
+157,Smartphone,Reino Unido,2024-06-01 09:16:00,Nível 0,0,0.0,9
+1093,Desktop,Austrália,2024-06-01 01:11:00,Nível 0,0,0.0,1
+1628,Smartphone,Canadá,2024-06-01 05:59:00,Nível 0,0,0.0,5
+1009,Smartphone,Canadá,2024-06-01 13:54:00,Nível 1,0,0.0,13
+767,Smartphone,Austrália,2024-06-01 13:49:00,Nível 1,0,0.0,13
+1653,Desktop,Índia,2024-06-01 10:24:00,Nível 1,0,0.0,10
+1446,Tablet,Austrália,2024-06-01 10:09:00,Nível 1,1,20.41936251,10
+1842,Tablet,Alemanha,2024-06-01 02:31:00,Nível 1,1,0.209770161,2
+1930,Tablet,Índia,2024-06-01 14:46:00,Nível 0,1,4.197478985,14
+155,Tablet,Alemanha,2024-06-01 16:33:00,Nível 0,1,17.817572314,16
+1039,Desktop,EUA,2024-06-01 20:57:00,Nível 0,1,37.36002989,20
+1309,Smartphone,Índia,2024-06-01 02:42:00,Nível 0,1,18.473726404,2
+1728,Tablet,Reino Unido,2024-06-01 15:07:00,Nível 0,1,50.46892334,15
+1709,Desktop,Índia,2024-06-01 01:24:00,Nível 0,1,18.962164464,1
+1774,Tablet,EUA,2024-06-01 21:08:00,Nível 1,0,0.0,21
+36,Tablet,Austrália,2024-06-01 07:39:00,Nível 0,0,0.0,7
+902,Smartphone,Alemanha,2024-06-01 15:53:00,Nível 0,0,0.0,15
+521,Smartphone,Alemanha,2024-06-01 05:51:00,Nível 0,0,0.0,5
+1672,Smartphone,Índia,2024-06-01 06:58:00,Nível 0,0,0.0,6
+1378,Smartphone,Canadá,2024-06-01 21:09:00,Nível 0,1,2.61309253,21
+911,Desktop,Canadá,2024-06-01 23:39:00,Nível 1,0,0.0,23
+684,Tablet,Reino Unido,2024-06-01 19:11:00,Nível 0,0,0.0,19
+1354,Tablet,Reino Unido,2024-06-01 20:04:00,Nível 0,0,0.0,20
+1184,Tablet,Austrália,2024-06-01 18:01:00,Nível 0,0,0.0,18
+1110,Tablet,Índia,2024-06-01 01:04:00,Nível 0,0,0.0,1
+144,Desktop,Índia,2024-06-01 21:11:00,Nível 0,0,0.0,21
+1395,Smartphone,França,2024-06-01 11:37:00,Nível 0,1,19.637341925,11
+785,Tablet,Canadá,2024-06-01 00:28:00,Nível 0,1,4.074390317,0
+1179,Tablet,Austrália,2024-06-01 16:31:00,Nível 0,1,4.304133583,16
+1014,Smartphone,Canadá,2024-06-01 13:53:00,Nível 0,0,0.0,13
+1936,Tablet,França,2024-06-01 09:25:00,Nível 0,1,4.4528588,9
+628,Desktop,Canadá,2024-06-01 12:01:00,Nível 1,0,0.0,12
+233,Smartphone,Brasil,2024-06-01 07:18:00,Nível 1,0,0.0,7
+719,Tablet,Reino Unido,2024-06-01 08:24:00,Nível 0,1,19.110315402,8
+489,Smartphone,Austrália,2024-06-01 00:05:00,Nível 0,0,0.0,0
+1288,Smartphone,Austrália,2024-06-01 03:35:00,Nível 0,0,0.0,3
+13,Tablet,Reino Unido,2024-06-01 21:14:00,Nível 0,0,0.0,21
+1719,Tablet,Canadá,2024-06-01 16:18:00,Nível 1,1,20.06260932,16
+1933,Desktop,Índia,2024-06-01 02:06:00,Nível 0,0,0.0,2
+805,Smartphone,Reino Unido,2024-06-01 10:10:00,Nível 1,0,0.0,10
+1940,Smartphone,Austrália,2024-06-01 14:02:00,Nível 0,0,0.0,14
+1366,Tablet,EUA,2024-06-01 22:19:00,Nível 0,0,0.0,22
+177,Tablet,EUA,2024-06-01 23:04:00,Nível 1,0,0.0,23
+490,Smartphone,Índia,2024-06-01 10:53:00,Nível 0,1,49.09513758,10
+550,Smartphone,Brasil,2024-06-01 03:52:00,Nível 1,0,0.0,3
+993,Tablet,EUA,2024-06-01 13:33:00,Nível 0,0,0.0,13
+610,Smartphone,Canadá,2024-06-01 14:21:00,Nível 1,1,1.566557708,14
+1292,Smartphone,França,2024-06-01 12:56:00,Nível 0,1,3.993978224,12
+710,Tablet,França,2024-06-01 23:18:00,Nível 1,0,0.0,23
+1141,Desktop,EUA,2024-06-01 13:49:00,Nível 0,1,3.491207611,13
+1389,Tablet,Índia,2024-06-01 14:22:00,Nível 0,1,4.039003709,14
+47,Desktop,Reino Unido,2024-06-01 22:03:00,Nível 1,1,11.72387644,22
+218,Smartphone,Brasil,2024-06-01 05:39:00,Nível 1,0,0.0,5
+1277,Tablet,Brasil,2024-06-01 01:55:00,Nível 0,0,0.0,1
+212,Smartphone,Índia,2024-06-01 12:59:00,Nível 0,1,19.199496079,12
+1853,Smartphone,Reino Unido,2024-06-01 16:50:00,Nível 1,0,0.0,16
+341,Smartphone,França,2024-06-01 00:25:00,Nível 1,0,0.0,0
+952,Tablet,Brasil,2024-06-01 03:16:00,Nível 1,0,0.0,3
+627,Desktop,EUA,2024-06-01 11:02:00,Nível 0,0,0.0,11
+1320,Desktop,Canadá,2024-06-01 02:04:00,Nível 1,1,23.53252732,2
+970,Smartphone,Brasil,2024-06-01 16:15:00,Nível 1,0,0.0,16
+1702,Desktop,França,2024-06-01 14:53:00,Nível 0,0,0.0,14
+1157,Smartphone,Reino Unido,2024-06-01 00:27:00,Nível 0,0,0.0,0
+1082,Tablet,Índia,2024-06-01 13:38:00,Nível 1,0,0.0,13
+570,Smartphone,Reino Unido,2024-06-01 16:14:00,Nível 0,1,56.08603969,16
+63,Smartphone,Canadá,2024-06-01 20:12:00,Nível 0,1,3.18179849,20
+95,Smartphone,Austrália,2024-06-01 17:25:00,Nível 1,0,0.0,17
+235,Tablet,França,2024-06-01 00:53:00,Nível 1,0,0.0,0
+727,Tablet,Canadá,2024-06-01 02:28:00,Nível 1,1,2.060922232,2
+646,Tablet,Alemanha,2024-06-01 14:21:00,Nível 0,1,15.468724249,14
+1373,Desktop,Alemanha,2024-06-01 03:39:00,Nível 1,0,0.0,3
+474,Tablet,Brasil,2024-06-01 20:38:00,Nível 0,0,0.0,20
+29,Tablet,Índia,2024-06-01 03:35:00,Nível 1,0,0.0,3
+216,Smartphone,Alemanha,2024-06-01 10:09:00,Nível 0,0,0.0,10
+1414,Smartphone,Índia,2024-06-01 21:39:00,Nível 0,1,15.043831942,21
+1813,Smartphone,Brasil,2024-06-01 04:58:00,Nível 1,0,0.0,4
+55,Tablet,Austrália,2024-06-01 05:23:00,Nível 0,0,0.0,5
+743,Smartphone,França,2024-06-01 14:44:00,Nível 1,0,0.0,14
+1372,Desktop,EUA,2024-06-01 04:04:00,Nível 1,1,18.31061112,4
+578,Desktop,França,2024-06-01 11:20:00,Nível 0,0,0.0,11
+1916,Desktop,Brasil,2024-06-01 04:52:00,Nível 0,0,0.0,4
+1439,Desktop,França,2024-06-01 09:39:00,Nível 0,1,3.402906674,9
+96,Tablet,França,2024-06-01 18:49:00,Nível 1,1,2.33377404,18
+906,Tablet,EUA,2024-06-01 18:12:00,Nível 0,0,0.0,18
+1586,Smartphone,Canadá,2024-06-01 00:18:00,Nível 0,0,0.0,0
+1637,Tablet,EUA,2024-06-01 23:27:00,Nível 1,0,0.0,23
+1325,Desktop,Reino Unido,2024-06-01 16:20:00,Nível 0,0,0.0,16
+68,Desktop,Alemanha,2024-06-01 08:53:00,Nível 0,1,4.405130022,8
+936,Tablet,Canadá,2024-06-01 09:32:00,Nível 0,0,0.0,9
+1547,Tablet,França,2024-06-01 22:01:00,Nível 1,0,0.0,22
+524,Desktop,Austrália,2024-06-01 11:05:00,Nível 0,1,18.938782005,11
+672,Desktop,Índia,2024-06-01 15:31:00,Nível 0,0,0.0,15
+173,Smartphone,Austrália,2024-06-01 14:00:00,Nível 1,0,0.0,14
+767,Tablet,Canadá,2024-06-01 01:27:00,Nível 1,0,0.0,1
+1986,Tablet,Brasil,2024-06-01 10:05:00,Nível 1,0,0.0,10
+1374,Desktop,Índia,2024-06-01 20:03:00,Nível 1,0,0.0,20
+103,Desktop,Brasil,2024-06-01 09:15:00,Nível 0,1,33.53438875,9
+1785,Desktop,Brasil,2024-06-01 11:59:00,Nível 0,1,4.473288502,11
+1105,Desktop,Brasil,2024-06-01 01:07:00,Nível 0,0,0.0,1
+78,Desktop,Índia,2024-06-01 14:48:00,Nível 0,0,0.0,14
+947,Desktop,Austrália,2024-06-01 23:10:00,Nível 0,0,0.0,23
+593,Desktop,Austrália,2024-06-01 19:01:00,Nível 1,0,0.0,19
+816,Desktop,Canadá,2024-06-01 23:14:00,Nível 0,1,3.062496306,23
+897,Smartphone,Austrália,2024-06-01 22:38:00,Nível 1,0,0.0,22
+1240,Tablet,Austrália,2024-06-01 12:26:00,Nível 1,0,0.0,12
+130,Desktop,Austrália,2024-06-01 11:13:00,Nível 1,0,0.0,11
+429,Smartphone,França,2024-06-01 03:28:00,Nível 0,0,0.0,3
+1843,Desktop,EUA,2024-06-01 08:05:00,Nível 0,0,0.0,8
+579,Smartphone,França,2024-06-01 23:13:00,Nível 0,1,18.744968025,23
+165,Smartphone,Brasil,2024-06-01 13:46:00,Nível 0,1,3.948093758,13
+714,Smartphone,Alemanha,2024-06-01 18:14:00,Nível 0,0,0.0,18
+687,Smartphone,Alemanha,2024-06-01 09:32:00,Nível 0,1,15.373630547,9
+660,Desktop,Índia,2024-06-01 23:55:00,Nível 1,0,0.0,23
+1601,Smartphone,Alemanha,2024-06-01 23:31:00,Nível 0,0,0.0,23
+1108,Tablet,Canadá,2024-06-01 19:00:00,Nível 1,0,0.0,19
+668,Tablet,Austrália,2024-06-01 02:23:00,Nível 0,0,0.0,2
+1437,Smartphone,Índia,2024-06-01 17:29:00,Nível 0,1,19.209352289,17
+389,Tablet,Índia,2024-06-01 02:02:00,Nível 1,0,0.0,2
+659,Smartphone,França,2024-06-01 02:18:00,Nível 1,0,0.0,2
+744,Desktop,Reino Unido,2024-06-01 18:48:00,Nível 0,0,0.0,18
+729,Desktop,Brasil,2024-06-01 23:36:00,Nível 0,1,31.64119363,23
+1242,Desktop,EUA,2024-06-01 20:04:00,Nível 1,0,0.0,20
+1075,Tablet,França,2024-06-01 19:35:00,Nível 1,1,2.05127072,19
+1409,Smartphone,Índia,2024-06-01 00:35:00,Nível 1,1,2.079046949,0
+1330,Tablet,Índia,2024-06-01 12:47:00,Nível 1,0,0.0,12
+130,Tablet,Alemanha,2024-06-01 13:13:00,Nível 0,0,0.0,13
+1694,Smartphone,Alemanha,2024-06-01 07:22:00,Nível 0,0,0.0,7
+1901,Desktop,EUA,2024-06-01 22:46:00,Nível 0,0,0.0,22
+934,Tablet,Alemanha,2024-06-01 10:52:00,Nível 0,1,3.770561577,10
+1861,Smartphone,EUA,2024-06-01 14:08:00,Nível 0,0,0.0,14
+1142,Tablet,Canadá,2024-06-01 09:39:00,Nível 0,0,0.0,9
+1206,Desktop,EUA,2024-06-01 15:25:00,Nível 1,1,1.903195244,15
+1078,Tablet,França,2024-06-01 11:02:00,Nível 0,0,0.0,11
+1218,Tablet,Reino Unido,2024-06-01 13:46:00,Nível 0,1,3.722356949,13
+1633,Smartphone,Índia,2024-06-01 15:45:00,Nível 0,0,0.0,15
+1131,Tablet,EUA,2024-06-01 09:22:00,Nível 0,1,4.097477546,9
+548,Smartphone,Índia,2024-06-01 06:29:00,Nível 0,1,19.528900504,6
+920,Tablet,Austrália,2024-06-01 07:36:00,Nível 0,0,0.0,7
+231,Desktop,Reino Unido,2024-06-01 22:53:00,Nível 0,1,17.96431141,22
+1623,Tablet,Alemanha,2024-06-01 19:11:00,Nível 0,0,0.0,19
+1202,Tablet,EUA,2024-06-01 14:46:00,Nível 0,0,0.0,14
+374,Smartphone,Reino Unido,2024-06-01 06:37:00,Nível 0,0,0.0,6
+92,Tablet,Índia,2024-06-01 03:26:00,Nível 0,1,4.016319418,3
+1555,Tablet,França,2024-06-01 19:07:00,Nível 1,0,0.0,19
+1580,Tablet,Alemanha,2024-06-01 20:17:00,Nível 0,1,0.348515188,20
+972,Desktop,França,2024-06-01 19:15:00,Nível 0,0,0.0,19
+1420,Tablet,Alemanha,2024-06-01 12:28:00,Nível 0,1,18.424159445,12
+1751,Tablet,Alemanha,2024-06-01 04:32:00,Nível 1,0,0.0,4
+492,Tablet,Canadá,2024-06-01 10:55:00,Nível 1,0,0.0,10
+236,Desktop,França,2024-06-01 05:39:00,Nível 1,0,0.0,5
+1022,Desktop,Austrália,2024-06-01 15:38:00,Nível 0,1,3.608704319,15
+95,Desktop,Reino Unido,2024-06-01 20:27:00,Nível 0,0,0.0,20
+455,Tablet,EUA,2024-06-01 19:58:00,Nível 1,0,0.0,19
+574,Tablet,EUA,2024-06-01 02:13:00,Nível 1,0,0.0,2
+1751,Tablet,Alemanha,2024-06-01 13:23:00,Nível 1,0,0.0,13
+755,Smartphone,Índia,2024-06-01 10:26:00,Nível 1,0,0.0,10
+1257,Tablet,Brasil,2024-06-01 09:48:00,Nível 1,0,0.0,9
+648,Smartphone,Alemanha,2024-06-01 18:02:00,Nível 0,0,0.0,18
+611,Desktop,Reino Unido,2024-06-01 13:22:00,Nível 0,1,53.45466882,13
+1520,Tablet,Índia,2024-06-01 16:39:00,Nível 0,0,0.0,16
+1170,Smartphone,França,2024-06-01 05:09:00,Nível 0,0,0.0,5
+1680,Tablet,Reino Unido,2024-06-01 14:08:00,Nível 1,0,0.0,14
+1312,Tablet,Reino Unido,2024-06-01 03:38:00,Nível 0,0,0.0,3
+1233,Tablet,Canadá,2024-06-01 23:04:00,Nível 0,0,0.0,23
+960,Smartphone,Austrália,2024-06-01 03:11:00,Nível 0,1,0.390795657,3
+86,Tablet,Brasil,2024-06-01 07:01:00,Nível 0,0,0.0,7
+851,Desktop,Reino Unido,2024-06-01 15:36:00,Nível 0,0,0.0,15
+684,Desktop,Reino Unido,2024-06-01 07:18:00,Nível 0,1,3.579753507,7
+1943,Smartphone,EUA,2024-06-01 03:16:00,Nível 1,0,0.0,3
+425,Smartphone,Canadá,2024-06-01 20:01:00,Nível 0,0,0.0,20
+128,Tablet,Canadá,2024-06-01 14:56:00,Nível 0,0,0.0,14
+1479,Desktop,Alemanha,2024-06-01 08:34:00,Nível 0,1,4.155236377,8
+148,Desktop,Brasil,2024-06-01 22:01:00,Nível 0,0,0.0,22
+1063,Tablet,Austrália,2024-06-01 00:47:00,Nível 0,0,0.0,0
+1694,Smartphone,Canadá,2024-06-01 14:42:00,Nível 0,0,0.0,14
+1241,Desktop,Alemanha,2024-06-01 18:11:00,Nível 0,1,3.83347619,18
+61,Smartphone,Brasil,2024-06-01 14:30:00,Nível 0,1,19.285243665,14
+107,Tablet,Brasil,2024-06-01 05:58:00,Nível 0,1,18.2400536,5
+595,Desktop,Alemanha,2024-06-01 01:10:00,Nível 0,0,0.0,1
+1234,Smartphone,Reino Unido,2024-06-01 10:48:00,Nível 0,0,0.0,10
+1683,Desktop,Alemanha,2024-06-01 15:15:00,Nível 0,0,0.0,15
+1549,Smartphone,Índia,2024-06-01 06:55:00,Nível 1,0,0.0,6
+1915,Tablet,Austrália,2024-06-01 02:43:00,Nível 0,0,0.0,2
+1148,Tablet,EUA,2024-06-01 20:10:00,Nível 1,0,0.0,20
+1474,Tablet,Brasil,2024-06-01 18:54:00,Nível 1,0,0.0,18
+857,Tablet,Alemanha,2024-06-01 21:27:00,Nível 1,0,0.0,21
+132,Desktop,Índia,2024-06-01 16:04:00,Nível 1,0,0.0,16
+1142,Smartphone,Brasil,2024-06-01 17:40:00,Nível 1,0,0.0,17
+338,Tablet,Austrália,2024-06-01 16:40:00,Nível 1,0,0.0,16
+1773,Tablet,Austrália,2024-06-01 20:13:00,Nível 0,1,19.815064982,20
+1021,Smartphone,EUA,2024-06-01 18:36:00,Nível 0,1,34.43352583,18
+1902,Smartphone,Índia,2024-06-01 15:44:00,Nível 1,0,0.0,15
+117,Desktop,Alemanha,2024-06-01 14:50:00,Nível 0,1,18.893203379,14
+237,Desktop,Austrália,2024-06-01 12:32:00,Nível 0,0,0.0,12
+1417,Desktop,Reino Unido,2024-06-01 01:15:00,Nível 0,0,0.0,1
+253,Tablet,Alemanha,2024-06-01 03:49:00,Nível 1,0,0.0,3
+1811,Desktop,França,2024-06-01 10:29:00,Nível 0,0,0.0,10
+752,Desktop,Índia,2024-06-01 05:09:00,Nível 0,0,0.0,5
+1315,Tablet,Índia,2024-06-01 05:05:00,Nível 0,0,0.0,5
+500,Smartphone,Índia,2024-06-01 10:53:00,Nível 0,1,49.09513758,10
+1693,Smartphone,Reino Unido,2024-06-01 16:38:00,Nível 0,0,0.0,16
+634,Smartphone,França,2024-06-01 14:17:00,Nível 0,1,4.570125276,14
+47,Desktop,Canadá,2024-06-01 20:55:00,Nível 1,0,0.0,20
+386,Desktop,Reino Unido,2024-06-01 11:29:00,Nível 0,1,4.01221592,11
+1366,Tablet,Reino Unido,2024-06-01 02:20:00,Nível 1,0,0.0,2
+1451,Desktop,Brasil,2024-06-01 13:27:00,Nível 0,1,17.932100076,13
+1694,Tablet,Alemanha,2024-06-01 08:10:00,Nível 0,1,19.956344067,8
+1257,Smartphone,Brasil,2024-06-01 14:53:00,Nível 0,1,18.88611451,14
+1029,Smartphone,França,2024-06-01 18:20:00,Nível 0,0,0.0,18
+1283,Desktop,Índia,2024-06-01 13:09:00,Nível 0,1,19.887745425,13
+616,Desktop,Brasil,2024-06-01 17:59:00,Nível 0,0,0.0,17
+1679,Desktop,França,2024-06-01 14:56:00,Nível 0,0,0.0,14
+1974,Desktop,Reino Unido,2024-06-01 08:47:00,Nível 1,0,0.0,8
+1202,Desktop,EUA,2024-06-01 03:51:00,Nível 1,0,0.0,3
+1096,Desktop,Índia,2024-06-01 03:25:00,Nível 0,1,3.629883874,3
+1859,Tablet,Alemanha,2024-06-01 20:13:00,Nível 0,0,0.0,20
+1971,Tablet,Canadá,2024-06-01 14:09:00,Nível 0,0,0.0,14
+315,Smartphone,Canadá,2024-06-01 19:39:00,Nível 1,0,0.0,19
+815,Tablet,Brasil,2024-06-01 09:41:00,Nível 1,0,0.0,9
+1472,Desktop,Canadá,2024-06-01 18:57:00,Nível 1,1,23.06730083,18
+1159,Tablet,Índia,2024-06-01 02:19:00,Nível 0,0,0.0,2
+1130,Smartphone,Alemanha,2024-06-01 03:30:00,Nível 0,0,0.0,3
+1887,Tablet,Austrália,2024-06-01 13:07:00,Nível 0,1,15.382395613,13
+346,Smartphone,Brasil,2024-06-01 17:45:00,Nível 1,0,0.0,17
+1596,Tablet,Austrália,2024-06-01 01:30:00,Nível 0,1,4.507968612,1
+1574,Smartphone,Reino Unido,2024-06-01 20:08:00,Nível 0,0,0.0,20
+254,Smartphone,Austrália,2024-06-01 15:31:00,Nível 0,0,0.0,15
+1605,Tablet,Índia,2024-06-01 15:03:00,Nível 0,1,42.91941511,15
+444,Desktop,Canadá,2024-06-01 14:34:00,Nível 0,1,3.20707718,14
+396,Desktop,EUA,2024-06-01 17:53:00,Nível 1,0,0.0,17
+334,Desktop,EUA,2024-06-01 09:56:00,Nível 1,0,0.0,9
+1597,Smartphone,EUA,2024-06-01 10:51:00,Nível 1,0,0.0,10
+983,Smartphone,Índia,2024-06-01 05:44:00,Nível 0,1,53.39608069,5
+1313,Desktop,EUA,2024-06-01 16:12:00,Nível 0,0,0.0,16
+41,Desktop,Reino Unido,2024-06-01 16:12:00,Nível 0,0,0.0,16
+123,Smartphone,Alemanha,2024-06-01 05:44:00,Nível 0,0,0.0,5
+1172,Desktop,Austrália,2024-06-01 11:51:00,Nível 0,0,0.0,11
+285,Tablet,Alemanha,2024-06-01 08:55:00,Nível 0,1,0.346205309,8
+173,Desktop,Brasil,2024-06-01 19:18:00,Nível 0,1,19.513739672,19
+797,Desktop,Austrália,2024-06-01 08:27:00,Nível 1,0,0.0,8
+247,Tablet,Reino Unido,2024-06-01 03:46:00,Nível 0,1,19.483403552,3
+1665,Desktop,Reino Unido,2024-06-01 03:12:00,Nível 1,0,0.0,3
+664,Tablet,Brasil,2024-06-01 17:59:00,Nível 0,0,0.0,17
+512,Tablet,Reino Unido,2024-06-01 07:13:00,Nível 0,1,3.867822083,7
+194,Desktop,Austrália,2024-06-01 14:45:00,Nível 1,0,0.0,14
+1220,Tablet,Alemanha,2024-06-01 14:31:00,Nível 1,0,0.0,14
+1776,Smartphone,Índia,2024-06-01 00:07:00,Nível 1,0,0.0,0
+1502,Smartphone,França,2024-06-01 13:59:00,Nível 0,0,0.0,13
+256,Desktop,Reino Unido,2024-06-01 20:18:00,Nível 0,0,0.0,20
+831,Tablet,EUA,2024-06-01 09:44:00,Nível 0,0,0.0,9
+1995,Desktop,Reino Unido,2024-06-01 00:34:00,Nível 1,0,0.0,0
+871,Tablet,Austrália,2024-06-01 18:16:00,Nível 0,1,18.804795631,18
+877,Smartphone,Brasil,2024-06-01 21:05:00,Nível 0,0,0.0,21
+1494,Desktop,EUA,2024-06-01 15:29:00,Nível 0,0,0.0,15
+202,Tablet,Índia,2024-06-01 00:20:00,Nível 0,0,0.0,0
+968,Tablet,Brasil,2024-06-01 19:21:00,Nível 1,0,0.0,19
+81,Tablet,Austrália,2024-06-01 23:52:00,Nível 0,0,0.0,23
+1277,Desktop,Alemanha,2024-06-01 15:52:00,Nível 0,0,0.0,15
+1644,Desktop,Canadá,2024-06-01 11:00:00,Nível 1,0,0.0,11
+1172,Smartphone,Alemanha,2024-06-01 04:54:00,Nível 0,1,56.03930251,4
+1929,Desktop,Alemanha,2024-06-01 18:18:00,Nível 0,0,0.0,18
+1123,Desktop,Índia,2024-06-01 17:28:00,Nível 0,0,0.0,17
+824,Tablet,EUA,2024-06-01 07:50:00,Nível 1,0,0.0,7
+646,Smartphone,Canadá,2024-06-01 02:09:00,Nível 0,0,0.0,2
+80,Desktop,Reino Unido,2024-06-01 03:58:00,Nível 1,0,0.0,3
+776,Desktop,Canadá,2024-06-01 16:41:00,Nível 1,0,0.0,16
+150,Desktop,Alemanha,2024-06-01 14:37:00,Nível 1,0,0.0,14
+363,Smartphone,Índia,2024-06-01 19:18:00,Nível 0,0,0.0,19
+261,Tablet,Brasil,2024-06-01 06:11:00,Nível 0,1,3.059782228,6
+796,Smartphone,Canadá,2024-06-01 03:55:00,Nível 0,0,0.0,3
+1511,Tablet,Alemanha,2024-06-01 08:12:00,Nível 0,1,4.323452262,8
+1639,Smartphone,Índia,2024-06-01 16:14:00,Nível 1,0,0.0,16
+152,Tablet,EUA,2024-06-01 02:35:00,Nível 1,1,21.20901036,2
+1441,Smartphone,Austrália,2024-06-01 07:08:00,Nível 0,0,0.0,7
+881,Smartphone,França,2024-06-01 19:11:00,Nível 0,0,0.0,19
+370,Desktop,Austrália,2024-06-01 05:10:00,Nível 0,1,60.29085047,5
+713,Smartphone,Brasil,2024-06-01 21:59:00,Nível 1,1,20.40922167,21
+1758,Desktop,Brasil,2024-06-01 07:26:00,Nível 1,0,0.0,7
+872,Desktop,Índia,2024-06-01 15:18:00,Nível 0,0,0.0,15
+689,Smartphone,Alemanha,2024-06-01 12:33:00,Nível 0,1,19.039957632,12
+1113,Smartphone,Canadá,2024-06-01 09:28:00,Nível 0,0,0.0,9
+411,Tablet,Índia,2024-06-01 17:57:00,Nível 0,1,19.313438532,17
+746,Tablet,Alemanha,2024-06-01 11:29:00,Nível 0,0,0.0,11
+1596,Desktop,Austrália,2024-06-01 00:14:00,Nível 1,0,0.0,0
+1460,Smartphone,EUA,2024-06-01 18:13:00,Nível 0,1,4.090626974,18
+91,Desktop,Índia,2024-06-01 16:09:00,Nível 1,0,0.0,16
+78,Desktop,EUA,2024-06-01 13:10:00,Nível 1,0,0.0,13
+1047,Desktop,Brasil,2024-06-01 12:11:00,Nível 0,0,0.0,12
+1582,Desktop,Reino Unido,2024-06-01 13:51:00,Nível 1,1,21.33737694,13
+948,Desktop,EUA,2024-06-01 22:17:00,Nível 1,0,0.0,22
+1956,Desktop,França,2024-06-01 06:22:00,Nível 1,0,0.0,6
+727,Desktop,França,2024-06-01 14:35:00,Nível 0,0,0.0,14
+1370,Tablet,Brasil,2024-06-01 06:45:00,Nível 0,0,0.0,6
+815,Desktop,Reino Unido,2024-06-01 09:51:00,Nível 0,0,0.0,9
+1927,Smartphone,EUA,2024-06-01 12:12:00,Nível 0,0,0.0,12
+456,Tablet,Índia,2024-06-01 19:38:00,Nível 1,0,0.0,19
+664,Smartphone,Canadá,2024-06-01 18:12:00,Nível 0,1,3.690912479,18
+1881,Tablet,França,2024-06-01 10:53:00,Nível 1,0,0.0,10
+1696,Desktop,Índia,2024-06-01 08:53:00,Nível 0,1,18.970784941,8
+1163,Desktop,Canadá,2024-06-01 12:59:00,Nível 0,1,4.838557935,12
+438,Smartphone,Canadá,2024-06-01 06:55:00,Nível 0,0,0.0,6
+99,Desktop,França,2024-06-01 19:02:00,Nível 1,0,0.0,19
+1239,Tablet,Índia,2024-06-01 14:46:00,Nível 0,0,0.0,14
+324,Desktop,Alemanha,2024-06-01 03:55:00,Nível 1,0,0.0,3
+981,Desktop,Austrália,2024-06-01 01:22:00,Nível 1,0,0.0,1
+513,Desktop,Brasil,2024-06-01 09:02:00,Nível 1,0,0.0,9
+546,Desktop,Índia,2024-06-01 13:25:00,Nível 1,0,0.0,13
+1957,Tablet,Reino Unido,2024-06-01 10:06:00,Nível 0,1,55.70989957,10
+88,Tablet,Canadá,2024-06-01 05:39:00,Nível 0,0,0.0,5
+1837,Smartphone,Austrália,2024-06-01 15:01:00,Nível 0,0,0.0,15
+1066,Tablet,Canadá,2024-06-01 19:24:00,Nível 1,0,0.0,19
+109,Smartphone,França,2024-06-01 13:39:00,Nível 0,0,0.0,13
+1073,Tablet,França,2024-06-01 12:47:00,Nível 1,0,0.0,12
+1927,Desktop,EUA,2024-06-01 22:32:00,Nível 1,0,0.0,22
+98,Tablet,EUA,2024-06-01 13:21:00,Nível 0,0,0.0,13
+1637,Smartphone,França,2024-06-01 03:06:00,Nível 1,0,0.0,3
+198,Tablet,Reino Unido,2024-06-01 16:18:00,Nível 0,0,0.0,16
+804,Desktop,França,2024-06-01 08:32:00,Nível 0,1,18.80859126,8
+1225,Smartphone,França,2024-06-01 16:04:00,Nível 1,1,5.749849453,16
+1773,Smartphone,Austrália,2024-06-01 14:16:00,Nível 0,0,0.0,14
+623,Tablet,Alemanha,2024-06-01 07:51:00,Nível 1,0,0.0,7
+1618,Desktop,Reino Unido,2024-06-01 22:34:00,Nível 0,0,0.0,22
+1580,Tablet,EUA,2024-06-01 01:49:00,Nível 0,0,0.0,1
+864,Desktop,Austrália,2024-06-01 10:06:00,Nível 1,0,0.0,10
+1861,Smartphone,França,2024-06-01 08:45:00,Nível 0,1,5.360956074,8
+1236,Smartphone,Alemanha,2024-06-01 05:29:00,Nível 0,0,0.0,5
+1839,Tablet,Reino Unido,2024-06-01 03:14:00,Nível 0,0,0.0,3
+1276,Tablet,França,2024-06-01 07:50:00,Nível 0,0,0.0,7
+21,Tablet,Austrália,2024-06-01 08:18:00,Nível 0,0,0.0,8
+190,Desktop,Canadá,2024-06-01 13:03:00,Nível 1,0,0.0,13
+172,Smartphone,França,2024-06-01 07:59:00,Nível 1,0,0.0,7
+32,Tablet,EUA,2024-06-01 13:18:00,Nível 0,0,0.0,13
+1373,Desktop,Brasil,2024-06-01 03:45:00,Nível 0,0,0.0,3
+537,Tablet,Canadá,2024-06-01 21:41:00,Nível 0,0,0.0,21
+1946,Tablet,França,2024-06-01 09:25:00,Nível 0,1,4.4528588,9
+1987,Tablet,EUA,2024-06-01 10:01:00,Nível 0,0,0.0,10
+1292,Tablet,Reino Unido,2024-06-01 18:57:00,Nível 1,0,0.0,18
+1756,Desktop,Reino Unido,2024-06-01 10:06:00,Nível 0,0,0.0,10
+1041,Desktop,Índia,2024-06-01 09:33:00,Nível 0,1,4.31167115,9
+1763,Desktop,Canadá,2024-06-01 16:15:00,Nível 0,0,0.0,16
+113,Tablet,Canadá,2024-06-01 10:04:00,Nível 0,1,32.879162,10
+569,Smartphone,Índia,2024-06-01 01:55:00,Nível 0,1,19.445671951,1
+83,Smartphone,Austrália,2024-06-01 21:48:00,Nível 1,0,0.0,21
+408,Desktop,Austrália,2024-06-01 10:48:00,Nível 0,1,33.57067991,10
+1786,Desktop,Austrália,2024-06-01 23:31:00,Nível 0,1,3.747683129,23
+402,Desktop,Canadá,2024-06-01 08:59:00,Nível 1,1,19.53562749,8
+1684,Smartphone,Índia,2024-06-01 02:44:00,Nível 0,0,0.0,2
+113,Desktop,Brasil,2024-06-01 09:15:00,Nível 0,1,48.53438875,9
+1319,Desktop,França,2024-06-01 02:58:00,Nível 1,0,0.0,2
+1866,Tablet,EUA,2024-06-01 10:14:00,Nível 1,0,0.0,10
+641,Desktop,Reino Unido,2024-06-01 13:46:00,Nível 0,1,3.669487473,13
+177,Desktop,Brasil,2024-06-01 03:44:00,Nível 0,1,43.5470549,3
+1697,Tablet,Alemanha,2024-06-01 17:05:00,Nível 0,1,0.313109769,17
+993,Smartphone,França,2024-06-01 01:48:00,Nível 1,0,0.0,1
+1796,Smartphone,Austrália,2024-06-01 10:21:00,Nível 0,0,0.0,10
+1087,Desktop,Índia,2024-06-01 03:26:00,Nível 0,1,3.76156177,3
+547,Tablet,Índia,2024-06-01 13:36:00,Nível 1,0,0.0,13
+955,Smartphone,Reino Unido,2024-06-01 12:37:00,Nível 0,0,0.0,12
+208,Desktop,Alemanha,2024-06-01 11:38:00,Nível 0,1,4.36224553,11
+690,Smartphone,EUA,2024-06-01 07:08:00,Nível 1,0,0.0,7
+1760,Desktop,Reino Unido,2024-06-01 23:31:00,Nível 1,0,0.0,23
+795,Smartphone,Brasil,2024-06-01 16:38:00,Nível 0,0,0.0,16
+815,Desktop,Alemanha,2024-06-01 18:30:00,Nível 0,0,0.0,18
+1496,Tablet,Reino Unido,2024-06-01 11:33:00,Nível 0,1,4.343478316,11
+201,Desktop,Índia,2024-06-01 14:25:00,Nível 0,0,0.0,14
+1496,Smartphone,França,2024-06-01 21:10:00,Nível 0,1,52.04302635,21
+502,Smartphone,Brasil,2024-06-01 20:48:00,Nível 0,0,0.0,20
+1391,Tablet,Alemanha,2024-06-01 20:58:00,Nível 0,0,0.0,20
+1307,Tablet,Canadá,2024-06-01 12:12:00,Nível 0,0,0.0,12
+557,Tablet,França,2024-06-01 13:02:00,Nível 1,0,0.0,13
+1835,Tablet,Reino Unido,2024-06-01 15:18:00,Nível 0,0,0.0,15
+62,Smartphone,Índia,2024-06-01 16:12:00,Nível 1,0,0.0,16
+959,Smartphone,Brasil,2024-06-01 22:51:00,Nível 1,0,0.0,22
+328,Smartphone,Brasil,2024-06-01 15:13:00,Nível 0,1,19.451045656,15
+1571,Smartphone,Reino Unido,2024-06-01 00:08:00,Nível 0,1,0.432761681,0
+1213,Smartphone,Índia,2024-06-01 00:21:00,Nível 0,0,0.0,0
+617,Smartphone,Canadá,2024-06-01 20:20:00,Nível 0,1,3.8830511,20
+1516,Smartphone,Canadá,2024-06-01 10:07:00,Nível 1,0,0.0,10
+1336,Tablet,EUA,2024-06-01 13:11:00,Nível 0,1,17.992549384,13
+826,Desktop,França,2024-06-01 09:31:00,Nível 0,0,0.0,9
+1786,Desktop,Austrália,2024-06-01 01:52:00,Nível 0,1,2.999129916,1
+1078,Smartphone,Canadá,2024-06-01 01:09:00,Nível 0,0,0.0,1
+1569,Desktop,Brasil,2024-06-01 19:11:00,Nível 0,0,0.0,19
+563,Tablet,Austrália,2024-06-01 06:04:00,Nível 0,0,0.0,6
+1017,Desktop,Austrália,2024-06-01 18:18:00,Nível 1,0,0.0,18
+802,Desktop,Brasil,2024-06-01 15:02:00,Nível 0,0,0.0,15
+822,Tablet,França,2024-06-01 23:07:00,Nível 0,0,0.0,23
+758,Desktop,Brasil,2024-06-01 10:24:00,Nível 1,0,0.0,10
+1184,Smartphone,Índia,2024-06-01 12:42:00,Nível 1,0,0.0,12
+812,Tablet,Canadá,2024-06-01 03:36:00,Nível 0,1,19.171579277,3
+1871,Smartphone,França,2024-06-01 08:45:00,Nível 0,1,20.360956074,8
+1665,Tablet,Reino Unido,2024-06-01 11:37:00,Nível 0,0,0.0,11
+1435,Desktop,Austrália,2024-06-01 12:05:00,Nível 0,0,0.0,12
+503,Smartphone,Austrália,2024-06-01 04:55:00,Nível 1,0,0.0,4
+1459,Desktop,EUA,2024-06-01 04:18:00,Nível 0,0,0.0,4
+1253,Smartphone,Canadá,2024-06-01 19:25:00,Nível 1,0,0.0,19
+477,Smartphone,Canadá,2024-06-01 17:09:00,Nível 0,0,0.0,17
+242,Desktop,França,2024-06-01 23:58:00,Nível 0,1,3.573033546,23
+10,Tablet,Reino Unido,2024-06-01 14:40:00,Nível 0,0,0.0,14
+1137,Smartphone,Canadá,2024-06-01 05:24:00,Nível 1,0,0.0,5
+1982,Desktop,Reino Unido,2024-06-01 18:56:00,Nível 0,0,0.0,18
+1800,Smartphone,Reino Unido,2024-06-01 07:06:00,Nível 1,0,0.0,7
+1109,Smartphone,Alemanha,2024-06-01 08:43:00,Nível 0,0,0.0,8
+1713,Tablet,Austrália,2024-06-01 17:09:00,Nível 0,0,0.0,17
+785,Tablet,Alemanha,2024-06-01 08:56:00,Nível 1,0,0.0,8
+1313,Smartphone,Brasil,2024-06-01 09:18:00,Nível 0,0,0.0,9
+151,Tablet,Brasil,2024-06-01 19:10:00,Nível 1,0,0.0,19
+1427,Smartphone,Índia,2024-06-01 17:29:00,Nível 0,1,19.209352289,17
+338,Smartphone,Brasil,2024-06-01 15:13:00,Nível 0,1,4.451045656,15
+597,Tablet,EUA,2024-06-01 15:12:00,Nível 0,1,18.700180003,15
+575,Desktop,Austrália,2024-06-01 08:00:00,Nível 1,0,0.0,8
+420,Smartphone,Austrália,2024-06-01 19:09:00,Nível 1,0,0.0,19
+1720,Smartphone,Austrália,2024-06-01 11:01:00,Nível 1,0,0.0,11
+899,Tablet,França,2024-06-01 04:16:00,Nível 0,1,59.18242069,4
+280,Smartphone,EUA,2024-06-01 20:41:00,Nível 0,0,0.0,20
+420,Smartphone,Brasil,2024-06-01 06:13:00,Nível 0,0,0.0,6
+1237,Tablet,Austrália,2024-06-01 07:20:00,Nível 1,0,0.0,7
+1498,Desktop,Canadá,2024-06-01 11:56:00,Nível 1,0,0.0,11
+1803,Desktop,Canadá,2024-06-01 23:17:00,Nível 0,0,0.0,23
+1249,Desktop,França,2024-06-01 20:41:00,Nível 0,0,0.0,20
+1330,Smartphone,Brasil,2024-06-01 02:27:00,Nível 1,0,0.0,2
+246,Tablet,EUA,2024-06-01 10:29:00,Nível 0,0,0.0,10
+1906,Smartphone,Brasil,2024-06-01 09:18:00,Nível 0,1,4.147041019,9
+929,Tablet,Canadá,2024-06-01 00:33:00,Nível 0,1,18.678611809,0
+229,Desktop,Canadá,2024-06-01 18:33:00,Nível 1,0,0.0,18
+1493,Desktop,Alemanha,2024-06-01 23:09:00,Nível 1,0,0.0,23
+1640,Smartphone,Canadá,2024-06-01 18:33:00,Nível 1,0,0.0,18
+798,Tablet,Austrália,2024-06-01 16:01:00,Nível 1,0,0.0,16
+1417,Smartphone,Canadá,2024-06-01 10:05:00,Nível 1,0,0.0,10
+432,Desktop,EUA,2024-06-01 16:31:00,Nível 0,1,19.338178524,16
+1288,Smartphone,Reino Unido,2024-06-01 14:53:00,Nível 1,0,0.0,14
+1851,Tablet,Reino Unido,2024-06-01 18:55:00,Nível 1,0,0.0,18
+419,Desktop,Austrália,2024-06-01 02:45:00,Nível 0,1,5.35539715,2
+1876,Desktop,França,2024-06-01 03:57:00,Nível 0,0,0.0,3
+138,Desktop,Brasil,2024-06-01 01:11:00,Nível 0,1,19.568095687,1
+109,Desktop,Alemanha,2024-06-01 01:38:00,Nível 0,0,0.0,1
+94,Smartphone,Canadá,2024-06-01 06:54:00,Nível 1,1,15.75447575,6
+1225,Desktop,Alemanha,2024-06-01 09:05:00,Nível 1,0,0.0,9
+1716,Smartphone,Reino Unido,2024-06-01 04:19:00,Nível 1,0,0.0,4
+406,Tablet,EUA,2024-06-01 11:57:00,Nível 0,1,58.56633125,11
+1589,Smartphone,França,2024-06-01 23:29:00,Nível 1,0,0.0,23
+1803,Desktop,EUA,2024-06-01 01:52:00,Nível 1,0,0.0,1
+1604,Tablet,Reino Unido,2024-06-01 06:30:00,Nível 0,0,0.0,6
+1216,Desktop,Reino Unido,2024-06-01 15:01:00,Nível 1,0,0.0,15
+111,Smartphone,Canadá,2024-06-01 15:46:00,Nível 0,0,0.0,15
+1818,Desktop,Brasil,2024-06-01 14:07:00,Nível 1,0,0.0,14
+1251,Tablet,EUA,2024-06-01 22:41:00,Nível 0,1,35.49775769,22
+1204,Tablet,EUA,2024-06-01 13:07:00,Nível 0,0,0.0,13
+633,Smartphone,Canadá,2024-06-01 22:41:00,Nível 1,0,0.0,22
+1041,Desktop,Austrália,2024-06-01 07:49:00,Nível 0,1,18.84966282,7
+344,Smartphone,Canadá,2024-06-01 06:44:00,Nível 0,1,54.74228896,6
+28,Tablet,Índia,2024-06-01 07:08:00,Nível 0,1,3.607918071,7
+413,Desktop,Brasil,2024-06-01 07:32:00,Nível 1,0,0.0,7
+1416,Tablet,Índia,2024-06-01 02:51:00,Nível 0,1,19.402466695,2
+1397,Smartphone,França,2024-06-01 03:03:00,Nível 0,0,0.0,3
+798,Smartphone,Reino Unido,2024-06-01 23:12:00,Nível 1,0,0.0,23
+805,Tablet,EUA,2024-06-01 00:13:00,Nível 0,0,0.0,0
+1856,Tablet,Canadá,2024-06-01 13:58:00,Nível 1,0,0.0,13
+578,Smartphone,Índia,2024-06-01 15:27:00,Nível 0,0,0.0,15
+1761,Smartphone,Reino Unido,2024-06-01 09:09:00,Nível 0,1,4.578622274,9
+1267,Smartphone,Canadá,2024-06-01 23:01:00,Nível 1,0,0.0,23
+1500,Smartphone,França,2024-06-01 15:23:00,Nível 0,1,15.444262816,15
+43,Tablet,EUA,2024-06-01 22:29:00,Nível 0,1,3.755214676,22
+118,Smartphone,Índia,2024-06-01 18:39:00,Nível 0,0,0.0,18
+225,Smartphone,EUA,2024-06-01 14:40:00,Nível 0,1,4.415749433,14
+1368,Desktop,Brasil,2024-06-01 18:55:00,Nível 0,0,0.0,18
+588,Smartphone,Brasil,2024-06-01 04:00:00,Nível 1,0,0.0,4
+1387,Smartphone,Reino Unido,2024-06-01 14:37:00,Nível 1,0,0.0,14
+732,Tablet,EUA,2024-06-01 11:50:00,Nível 0,1,19.424792266,11
+1029,Tablet,França,2024-06-01 02:34:00,Nível 0,0,0.0,2
+473,Smartphone,Alemanha,2024-06-01 05:07:00,Nível 0,1,15.416949676,5
+1953,Tablet,Alemanha,2024-06-01 08:57:00,Nível 0,1,3.975617174,8
+1535,Smartphone,Brasil,2024-06-01 17:00:00,Nível 0,0,0.0,17
+997,Tablet,Índia,2024-06-01 09:49:00,Nível 1,0,0.0,9
+1225,Desktop,Reino Unido,2024-06-01 14:04:00,Nível 1,0,0.0,14
+9,Smartphone,Reino Unido,2024-06-01 01:48:00,Nível 0,0,0.0,1
+135,Desktop,EUA,2024-06-01 15:44:00,Nível 0,1,38.06185084,15
+1093,Tablet,Índia,2024-06-01 08:14:00,Nível 0,0,0.0,8
+1083,Tablet,Reino Unido,2024-06-01 14:52:00,Nível 0,0,0.0,14
+285,Desktop,Brasil,2024-06-01 12:27:00,Nível 1,0,0.0,12
+626,Tablet,Canadá,2024-06-01 15:22:00,Nível 0,1,49.72005094,15
+676,Desktop,EUA,2024-06-01 00:05:00,Nível 1,0,0.0,0
+650,Desktop,Reino Unido,2024-06-01 10:20:00,Nível 0,1,39.27566622,10
+1572,Desktop,Alemanha,2024-06-01 03:48:00,Nível 1,0,0.0,3
+1615,Tablet,Índia,2024-06-01 15:03:00,Nível 0,1,57.91941511,15
+285,Tablet,Alemanha,2024-06-01 08:55:00,Nível 0,1,15.346205309,8
+398,Smartphone,Reino Unido,2024-06-01 21:19:00,Nível 1,1,2.049656907,21
+939,Smartphone,Reino Unido,2024-06-01 19:20:00,Nível 0,0,0.0,19
+1532,Smartphone,Austrália,2024-06-01 23:57:00,Nível 0,0,0.0,23
+763,Desktop,Brasil,2024-06-01 20:32:00,Nível 0,0,0.0,20
+442,Desktop,Reino Unido,2024-06-01 03:03:00,Nível 1,0,0.0,3
+1521,Desktop,EUA,2024-06-01 20:35:00,Nível 0,1,40.80134429,20
+392,Desktop,Brasil,2024-06-01 08:51:00,Nível 1,1,23.37568528,8
+228,Smartphone,França,2024-06-01 15:48:00,Nível 0,1,4.272312287,15
+996,Smartphone,Alemanha,2024-06-01 02:49:00,Nível 0,0,0.0,2
+1035,Tablet,Canadá,2024-06-01 13:50:00,Nível 0,1,4.180113019,13
+1020,Tablet,Canadá,2024-06-01 15:35:00,Nível 0,0,0.0,15
+1907,Smartphone,Brasil,2024-06-01 01:26:00,Nível 1,0,0.0,1
+1849,Tablet,Brasil,2024-06-01 07:21:00,Nível 1,0,0.0,7
+1254,Desktop,Alemanha,2024-06-01 23:07:00,Nível 1,0,0.0,23
+838,Smartphone,Índia,2024-06-01 14:48:00,Nível 0,1,53.76329806,14
+923,Tablet,Canadá,2024-06-01 17:17:00,Nível 0,1,3.681577393,17
+1257,Smartphone,França,2024-06-01 12:14:00,Nível 0,0,0.0,12
+401,Desktop,Alemanha,2024-06-01 18:47:00,Nível 0,0,0.0,18
+217,Desktop,Brasil,2024-06-01 06:15:00,Nível 1,0,0.0,6
+305,Desktop,Alemanha,2024-06-01 17:28:00,Nível 0,1,18.411386791,17
+314,Desktop,Brasil,2024-06-01 15:47:00,Nível 0,0,0.0,15
+1383,Desktop,Índia,2024-06-01 17:04:00,Nível 1,0,0.0,17
+948,Desktop,Reino Unido,2024-06-01 05:09:00,Nível 0,0,0.0,5
+1647,Smartphone,Brasil,2024-06-01 08:52:00,Nível 1,0,0.0,8
+1475,Tablet,Reino Unido,2024-06-01 13:16:00,Nível 0,1,18.862024274,13
+1562,Smartphone,EUA,2024-06-01 02:58:00,Nível 0,0,0.0,2
+972,Tablet,Austrália,2024-06-01 03:13:00,Nível 0,0,0.0,3
+75,Desktop,Canadá,2024-06-01 22:13:00,Nível 0,0,0.0,22
+1247,Smartphone,França,2024-06-01 17:47:00,Nível 0,0,0.0,17
+1370,Desktop,Índia,2024-06-01 15:19:00,Nível 0,0,0.0,15
+1110,Smartphone,Brasil,2024-06-01 07:08:00,Nível 0,0,0.0,7
+534,Desktop,Índia,2024-06-01 03:30:00,Nível 1,0,0.0,3
+331,Smartphone,Reino Unido,2024-06-01 13:57:00,Nível 0,0,0.0,13
+1637,Desktop,Alemanha,2024-06-01 00:00:00,Nível 0,0,0.0,0
+759,Tablet,Canadá,2024-06-01 19:38:00,Nível 0,0,0.0,19
+1843,Smartphone,Canadá,2024-06-01 07:38:00,Nível 0,1,46.76726824,7
+321,Smartphone,Canadá,2024-06-01 23:30:00,Nível 0,0,0.0,23
+1098,Tablet,Canadá,2024-06-01 16:52:00,Nível 1,0,0.0,16
+791,Smartphone,Índia,2024-06-01 14:52:00,Nível 1,0,0.0,14
+1889,Smartphone,Canadá,2024-06-01 07:47:00,Nível 0,0,0.0,7
+1598,Tablet,Canadá,2024-06-01 08:04:00,Nível 1,0,0.0,8
+166,Desktop,Alemanha,2024-06-01 01:22:00,Nível 0,0,0.0,1
+1995,Tablet,Brasil,2024-06-01 00:28:00,Nível 1,1,3.318334571,0
+805,Smartphone,Brasil,2024-06-01 15:30:00,Nível 0,1,57.5807202,15
+1723,Tablet,França,2024-06-01 00:49:00,Nível 1,0,0.0,0
+912,Tablet,Canadá,2024-06-01 16:21:00,Nível 1,0,0.0,16
+1198,Desktop,EUA,2024-06-01 07:10:00,Nível 0,0,0.0,7
+29,Desktop,Índia,2024-06-01 08:21:00,Nível 1,0,0.0,8
+914,Tablet,Índia,2024-06-01 10:27:00,Nível 0,0,0.0,10
+905,Smartphone,França,2024-06-01 23:11:00,Nível 0,0,0.0,23
+67,Smartphone,Austrália,2024-06-01 22:09:00,Nível 1,0,0.0,22
+249,Desktop,Brasil,2024-06-01 20:43:00,Nível 0,0,0.0,20
+1385,Desktop,Índia,2024-06-01 04:26:00,Nível 0,1,20.292987588,4
+1416,Tablet,Brasil,2024-06-01 21:28:00,Nível 0,1,42.35241498,21
+1255,Smartphone,Alemanha,2024-06-01 12:29:00,Nível 0,1,0.39606058,12
+1471,Desktop,EUA,2024-06-01 10:10:00,Nível 1,0,0.0,10
+521,Tablet,Brasil,2024-06-01 11:27:00,Nível 0,1,54.71024729,11
+1295,Desktop,França,2024-06-01 23:21:00,Nível 0,0,0.0,23
+1275,Tablet,França,2024-06-01 22:19:00,Nível 0,0,0.0,22
+281,Desktop,Canadá,2024-06-01 10:52:00,Nível 0,0,0.0,10
+1580,Smartphone,Alemanha,2024-06-01 11:31:00,Nível 1,0,0.0,11
+750,Smartphone,Reino Unido,2024-06-01 04:32:00,Nível 0,1,4.316108157,4
+532,Tablet,EUA,2024-06-01 18:41:00,Nível 0,1,19.399045524,18
+1278,Desktop,EUA,2024-06-01 11:49:00,Nível 1,0,0.0,11
+1439,Tablet,EUA,2024-06-01 13:15:00,Nível 0,0,0.0,13
+876,Smartphone,Austrália,2024-06-01 23:31:00,Nível 1,0,0.0,23
+181,Tablet,Índia,2024-06-01 21:32:00,Nível 0,0,0.0,21
+551,Smartphone,França,2024-06-01 11:38:00,Nível 0,0,0.0,11
+1307,Tablet,França,2024-06-01 22:55:00,Nível 1,0,0.0,22
+1077,Tablet,Brasil,2024-06-01 22:20:00,Nível 0,1,18.624327265,22
+814,Smartphone,Índia,2024-06-01 11:41:00,Nível 0,1,19.691597258,11
+1970,Tablet,Reino Unido,2024-06-01 02:54:00,Nível 0,0,0.0,2
+1486,Desktop,Austrália,2024-06-01 21:02:00,Nível 0,1,40.11540329,21
+1540,Smartphone,França,2024-06-01 14:15:00,Nível 0,1,60.26105578,14
+517,Tablet,Canadá,2024-06-01 11:31:00,Nível 0,1,3.606713954,11
+1039,Tablet,Alemanha,2024-06-01 20:40:00,Nível 1,0,0.0,20
+20,Smartphone,Brasil,2024-06-01 21:45:00,Nível 0,0,0.0,21
+640,Smartphone,França,2024-06-01 16:56:00,Nível 1,0,0.0,16
+269,Smartphone,Austrália,2024-06-01 21:00:00,Nível 0,1,4.674567553,21
+867,Smartphone,Índia,2024-06-01 08:22:00,Nível 1,0,0.0,8
+1372,Tablet,Índia,2024-06-01 00:35:00,Nível 0,0,0.0,0
+1514,Smartphone,Austrália,2024-06-01 01:29:00,Nível 0,0,0.0,1
+220,Desktop,Reino Unido,2024-06-01 17:35:00,Nível 1,0,0.0,17
+5,Tablet,França,2024-06-01 12:18:00,Nível 0,0,0.0,12
+1798,Tablet,França,2024-06-01 03:12:00,Nível 1,0,0.0,3
+1312,Desktop,Alemanha,2024-06-01 01:17:00,Nível 0,0,0.0,1
+1775,Tablet,Brasil,2024-06-01 14:16:00,Nível 0,0,0.0,14
+1995,Desktop,Austrália,2024-06-01 03:31:00,Nível 0,0,0.0,3
+1497,Tablet,Alemanha,2024-06-01 10:05:00,Nível 0,0,0.0,10
+342,Tablet,Canadá,2024-06-01 21:36:00,Nível 0,1,4.593856692,21
+503,Smartphone,Reino Unido,2024-06-01 20:38:00,Nível 0,0,0.0,20
+1040,Tablet,França,2024-06-01 08:11:00,Nível 1,0,0.0,8
+1123,Smartphone,Índia,2024-06-01 05:27:00,Nível 1,0,0.0,5
+1706,Tablet,Índia,2024-06-01 00:26:00,Nível 0,0,0.0,0
+872,Desktop,França,2024-06-01 06:31:00,Nível 0,0,0.0,6
+1920,Desktop,Brasil,2024-06-01 18:41:00,Nível 1,0,0.0,18
+302,Desktop,Índia,2024-06-01 00:57:00,Nível 0,1,4.019856911,0
+955,Smartphone,EUA,2024-06-01 20:13:00,Nível 0,1,18.843661415,20
+1280,Smartphone,EUA,2024-06-01 21:33:00,Nível 1,0,0.0,21
+25,Tablet,Canadá,2024-06-01 15:16:00,Nível 0,0,0.0,15
+1537,Tablet,EUA,2024-06-01 12:59:00,Nível 0,0,0.0,12
+1824,Tablet,Austrália,2024-06-01 05:31:00,Nível 1,0,0.0,5
+1578,Tablet,Alemanha,2024-06-01 07:57:00,Nível 0,1,2.977685498,7
+741,Tablet,Austrália,2024-06-01 14:03:00,Nível 0,0,0.0,14
+1324,Desktop,EUA,2024-06-01 07:01:00,Nível 0,0,0.0,7
+658,Smartphone,Canadá,2024-06-01 22:34:00,Nível 0,1,19.05309146,22
+1852,Tablet,França,2024-06-01 15:51:00,Nível 1,0,0.0,15
+357,Desktop,Reino Unido,2024-06-01 12:33:00,Nível 0,0,0.0,12
+1314,Tablet,Austrália,2024-06-01 11:57:00,Nível 0,1,18.86378655,11
+1189,Smartphone,Alemanha,2024-06-01 22:48:00,Nível 0,0,0.0,22
+1239,Desktop,EUA,2024-06-01 13:29:00,Nível 1,0,0.0,13
+1249,Smartphone,Índia,2024-06-01 05:22:00,Nível 1,0,0.0,5
+1734,Tablet,Índia,2024-06-01 07:00:00,Nível 1,1,14.71944215,7
+1898,Smartphone,Índia,2024-06-01 15:38:00,Nível 0,0,0.0,15
+1887,Desktop,EUA,2024-06-01 04:47:00,Nível 1,0,0.0,4
+643,Tablet,Reino Unido,2024-06-01 15:51:00,Nível 0,1,19.312451797,15
+1669,Smartphone,Índia,2024-06-01 20:09:00,Nível 1,0,0.0,20
+873,Smartphone,Brasil,2024-06-01 20:16:00,Nível 0,0,0.0,20
+177,Smartphone,França,2024-06-01 15:37:00,Nível 0,0,0.0,15
+1536,Smartphone,Alemanha,2024-06-01 18:06:00,Nível 0,0,0.0,18
+396,Tablet,Alemanha,2024-06-01 04:10:00,Nível 1,0,0.0,4
+1495,Smartphone,Alemanha,2024-06-01 13:44:00,Nível 0,1,19.017135907,13
+944,Tablet,Alemanha,2024-06-01 10:52:00,Nível 0,1,18.770561577,10
+1373,Desktop,EUA,2024-06-01 02:56:00,Nível 1,0,0.0,2
+877,Desktop,França,2024-06-01 11:33:00,Nível 0,1,20.04970376,11
+1822,Desktop,França,2024-06-01 02:29:00,Nível 1,0,0.0,2
+1023,Desktop,Alemanha,2024-06-01 09:34:00,Nível 0,0,0.0,9
+54,Tablet,EUA,2024-06-01 21:35:00,Nível 0,0,0.0,21
+828,Smartphone,França,2024-06-01 07:43:00,Nível 0,0,0.0,7
+178,Desktop,Canadá,2024-06-01 09:56:00,Nível 0,1,17.992968363,9
+984,Tablet,Alemanha,2024-06-01 00:53:00,Nível 1,0,0.0,0
+1640,Tablet,Reino Unido,2024-06-01 14:41:00,Nível 0,1,19.283270494,14
+733,Desktop,Reino Unido,2024-06-01 16:17:00,Nível 1,0,0.0,16
+75,Tablet,Brasil,2024-06-01 06:31:00,Nível 0,0,0.0,6
+1696,Smartphone,Índia,2024-06-01 07:23:00,Nível 1,0,0.0,7
+759,Tablet,França,2024-06-01 04:12:00,Nível 1,0,0.0,4
+1149,Desktop,Canadá,2024-06-01 04:09:00,Nível 0,0,0.0,4
+1575,Smartphone,Brasil,2024-06-01 10:38:00,Nível 0,0,0.0,10
+1505,Tablet,Reino Unido,2024-06-01 18:53:00,Nível 0,0,0.0,18
+892,Desktop,Brasil,2024-06-01 10:30:00,Nível 0,0,0.0,10
+1018,Desktop,França,2024-06-01 00:12:00,Nível 0,0,0.0,0
+464,Tablet,Brasil,2024-06-01 01:59:00,Nível 0,1,54.66384846,1
+402,Smartphone,Brasil,2024-06-01 22:18:00,Nível 1,1,13.73299141,22
+455,Desktop,EUA,2024-06-01 05:24:00,Nível 1,0,0.0,5
+1744,Desktop,França,2024-06-01 09:24:00,Nível 1,0,0.0,9
+1,Tablet,EUA,2024-06-01 02:04:00,Nível 0,0,0.0,2
+1003,Desktop,Brasil,2024-06-01 10:24:00,Nível 1,0,0.0,10
+1049,Smartphone,Índia,2024-06-01 16:56:00,Nível 0,0,0.0,16
+688,Desktop,Brasil,2024-06-01 19:45:00,Nível 0,0,0.0,19
+488,Desktop,Austrália,2024-06-01 20:14:00,Nível 0,0,0.0,20
+613,Desktop,França,2024-06-01 17:48:00,Nível 1,0,0.0,17
+51,Tablet,EUA,2024-06-01 19:51:00,Nível 0,0,0.0,19
+1811,Desktop,Brasil,2024-06-01 12:01:00,Nível 0,1,51.39215459,12
+877,Desktop,Brasil,2024-06-01 08:27:00,Nível 1,0,0.0,8
+1333,Smartphone,EUA,2024-06-01 18:13:00,Nível 0,1,4.413201659,18
+1128,Smartphone,Canadá,2024-06-01 13:21:00,Nível 0,0,0.0,13
+147,Desktop,França,2024-06-01 07:01:00,Nível 0,0,0.0,7
+1859,Desktop,Reino Unido,2024-06-01 09:05:00,Nível 0,0,0.0,9
+1061,Smartphone,Austrália,2024-06-01 21:07:00,Nível 1,0,0.0,21
+1904,Tablet,EUA,2024-06-01 16:41:00,Nível 0,0,0.0,16
+1393,Desktop,França,2024-06-01 13:28:00,Nível 0,1,19.082620025,13
+1679,Desktop,Alemanha,2024-06-01 08:13:00,Nível 0,1,15.361247752,8
+1683,Tablet,Alemanha,2024-06-01 00:18:00,Nível 0,0,0.0,0
+69,Desktop,França,2024-06-01 17:21:00,Nível 0,0,0.0,17
+491,Smartphone,Brasil,2024-06-01 00:20:00,Nível 0,0,0.0,0
+95,Smartphone,EUA,2024-06-01 01:04:00,Nível 1,1,17.02748152,1
+1626,Smartphone,França,2024-06-01 13:17:00,Nível 0,0,0.0,13
+1946,Smartphone,Alemanha,2024-06-01 22:16:00,Nível 0,1,18.8924431,22
+1858,Smartphone,França,2024-06-01 15:14:00,Nível 1,0,0.0,15
+1807,Desktop,Reino Unido,2024-06-01 14:49:00,Nível 1,0,0.0,14
+1170,Desktop,Índia,2024-06-01 11:12:00,Nível 0,0,0.0,11
+53,Tablet,Índia,2024-06-01 00:57:00,Nível 0,1,4.220176997,0
+1863,Tablet,Índia,2024-06-01 23:47:00,Nível 0,0,0.0,23
+109,Smartphone,Canadá,2024-06-01 10:27:00,Nível 0,1,18.817423693,10
+1960,Tablet,Reino Unido,2024-06-01 08:21:00,Nível 0,0,0.0,8
+807,Desktop,Alemanha,2024-06-01 01:45:00,Nível 1,0,0.0,1
+1626,Desktop,Brasil,2024-06-01 04:33:00,Nível 0,0,0.0,4
+1321,Desktop,França,2024-06-01 02:25:00,Nível 0,0,0.0,2
+1690,Smartphone,Índia,2024-06-01 09:10:00,Nível 1,1,19.53048216,9
+1206,Desktop,Canadá,2024-06-01 02:22:00,Nível 1,0,0.0,2
+628,Smartphone,Índia,2024-06-01 02:45:00,Nível 0,1,41.48938096,2
+504,Desktop,EUA,2024-06-01 06:44:00,Nível 1,0,0.0,6
+1455,Tablet,Brasil,2024-06-01 14:31:00,Nível 0,1,48.35496181,14
+1465,Tablet,Reino Unido,2024-06-01 04:37:00,Nível 0,1,4.237629302,4
+1509,Desktop,França,2024-06-01 16:51:00,Nível 0,0,0.0,16
+806,Desktop,Índia,2024-06-01 11:24:00,Nível 0,0,0.0,11
+350,Smartphone,Alemanha,2024-06-01 04:26:00,Nível 1,0,0.0,4
+1521,Smartphone,Austrália,2024-06-01 03:00:00,Nível 0,0,0.0,3
+955,Tablet,Canadá,2024-06-01 02:33:00,Nível 1,0,0.0,2
+1969,Tablet,Índia,2024-06-01 10:09:00,Nível 0,1,19.173156355,10
+1655,Tablet,Índia,2024-06-01 05:57:00,Nível 0,0,0.0,5
+1511,Tablet,Alemanha,2024-06-01 08:12:00,Nível 0,1,19.323452262,8
+1251,Smartphone,Índia,2024-06-01 17:53:00,Nível 1,0,0.0,17
+1674,Desktop,Reino Unido,2024-06-01 17:56:00,Nível 0,0,0.0,17
+1116,Smartphone,Austrália,2024-06-01 02:08:00,Nível 0,0,0.0,2
+1057,Desktop,EUA,2024-06-01 17:11:00,Nível 0,0,0.0,17
+739,Desktop,Reino Unido,2024-06-01 20:35:00,Nível 1,0,0.0,20
+712,Tablet,Alemanha,2024-06-01 18:31:00,Nível 0,0,0.0,18
+550,Desktop,Brasil,2024-06-01 13:32:00,Nível 0,1,50.07683156,13
+65,Smartphone,Reino Unido,2024-06-01 07:09:00,Nível 0,0,0.0,7
+934,Desktop,Brasil,2024-06-01 18:36:00,Nível 0,1,4.33964691,18
+172,Desktop,Brasil,2024-06-01 08:51:00,Nível 0,0,0.0,8
+485,Tablet,Canadá,2024-06-01 18:07:00,Nível 0,0,0.0,18
+144,Smartphone,França,2024-06-01 19:15:00,Nível 1,0,0.0,19
+1432,Smartphone,Canadá,2024-06-01 05:15:00,Nível 0,1,19.391579944,5
+447,Smartphone,Índia,2024-06-01 22:58:00,Nível 1,0,0.0,22
+1036,Smartphone,França,2024-06-01 22:42:00,Nível 1,0,0.0,22
+468,Smartphone,França,2024-06-01 18:44:00,Nível 0,0,0.0,18
+418,Tablet,Austrália,2024-06-01 08:35:00,Nível 0,0,0.0,8
+187,Smartphone,Alemanha,2024-06-01 08:05:00,Nível 0,0,0.0,8
+828,Desktop,Canadá,2024-06-01 04:55:00,Nível 1,0,0.0,4
+1070,Tablet,Brasil,2024-06-01 19:30:00,Nível 1,0,0.0,19
+1606,Smartphone,Alemanha,2024-06-01 05:03:00,Nível 0,1,45.59855795,5
+921,Desktop,França,2024-06-01 17:08:00,Nível 0,0,0.0,17
+1400,Smartphone,Reino Unido,2024-06-01 05:49:00,Nível 0,0,0.0,5
+1332,Desktop,Brasil,2024-06-01 13:04:00,Nível 1,0,0.0,13
+1550,Tablet,Brasil,2024-06-01 19:38:00,Nível 0,0,0.0,19
+686,Smartphone,EUA,2024-06-01 06:09:00,Nível 0,1,18.46832275,6
+981,Desktop,Alemanha,2024-06-01 16:27:00,Nível 0,0,0.0,16
+318,Smartphone,Reino Unido,2024-06-01 08:39:00,Nível 0,0,0.0,8
+1285,Tablet,EUA,2024-06-01 07:23:00,Nível 0,0,0.0,7
+1013,Smartphone,Canadá,2024-06-01 10:14:00,Nível 1,0,0.0,10
+601,Tablet,Brasil,2024-06-01 17:28:00,Nível 0,0,0.0,17
+831,Tablet,Brasil,2024-06-01 22:21:00,Nível 0,0,0.0,22
+99,Smartphone,Canadá,2024-06-01 10:27:00,Nível 0,1,3.817423693,10
+958,Smartphone,EUA,2024-06-01 15:18:00,Nível 1,0,0.0,15
+736,Tablet,Canadá,2024-06-01 06:26:00,Nível 1,0,0.0,6
+1144,Tablet,Reino Unido,2024-06-01 15:46:00,Nível 1,0,0.0,15
+327,Smartphone,Austrália,2024-06-01 05:07:00,Nível 1,1,2.109359133,5
+1878,Tablet,Austrália,2024-06-01 21:00:00,Nível 0,0,0.0,21
+1446,Desktop,Índia,2024-06-01 21:26:00,Nível 0,0,0.0,21
+527,Tablet,Canadá,2024-06-01 11:31:00,Nível 0,1,18.606713954,11
+254,Desktop,Canadá,2024-06-01 18:37:00,Nível 0,1,48.56197358,18
+388,Smartphone,Canadá,2024-06-01 08:20:00,Nível 1,0,0.0,8
+1867,Desktop,Canadá,2024-06-01 16:58:00,Nível 1,0,0.0,16
+976,Smartphone,EUA,2024-06-01 07:50:00,Nível 1,0,0.0,7
+1200,Smartphone,França,2024-06-01 16:41:00,Nível 1,0,0.0,16
+726,Tablet,Canadá,2024-06-01 15:41:00,Nível 0,0,0.0,15
+610,Smartphone,Reino Unido,2024-06-01 15:20:00,Nível 1,0,0.0,15
+851,Smartphone,Índia,2024-06-01 04:40:00,Nível 0,0,0.0,4
+1320,Smartphone,Austrália,2024-06-01 20:48:00,Nível 1,1,2.105939589,20
+1765,Tablet,Brasil,2024-06-01 08:47:00,Nível 1,0,0.0,8
+1688,Tablet,Reino Unido,2024-06-01 18:33:00,Nível 0,0,0.0,18
+1263,Tablet,Reino Unido,2024-06-01 04:44:00,Nível 0,0,0.0,4
+1214,Tablet,França,2024-06-01 19:26:00,Nível 0,0,0.0,19
+386,Smartphone,Austrália,2024-06-01 06:20:00,Nível 0,1,4.263740417,6
+1821,Desktop,Brasil,2024-06-01 12:01:00,Nível 0,1,36.39215459,12
+1185,Desktop,França,2024-06-01 06:05:00,Nível 0,0,0.0,6
+1253,Smartphone,Índia,2024-06-01 19:09:00,Nível 0,1,31.97647495,19
+656,Desktop,França,2024-06-01 00:04:00,Nível 0,0,0.0,0
+726,Desktop,Índia,2024-06-01 08:42:00,Nível 1,0,0.0,8
+11,Tablet,Índia,2024-06-01 20:48:00,Nível 0,0,0.0,20
+69,Tablet,Austrália,2024-06-01 19:41:00,Nível 1,0,0.0,19
+442,Tablet,Alemanha,2024-06-01 09:34:00,Nível 0,0,0.0,9
+836,Smartphone,Índia,2024-06-01 14:50:00,Nível 0,1,3.760017679,14
+1936,Desktop,Índia,2024-06-01 18:16:00,Nível 0,0,0.0,18
+1977,Tablet,Austrália,2024-06-01 18:27:00,Nível 0,1,0.391579014,18
+482,Smartphone,Austrália,2024-06-01 12:41:00,Nível 1,0,0.0,12
+27,Smartphone,Austrália,2024-06-01 07:03:00,Nível 0,0,0.0,7
+1150,Smartphone,Brasil,2024-06-01 21:56:00,Nível 1,0,0.0,21
+1316,Desktop,Reino Unido,2024-06-01 22:46:00,Nível 0,1,32.2423129,22
+1003,Smartphone,Alemanha,2024-06-01 18:38:00,Nível 0,0,0.0,18
+1251,Desktop,Índia,2024-06-01 03:47:00,Nível 0,0,0.0,3
+467,Smartphone,Austrália,2024-06-01 06:27:00,Nível 1,0,0.0,6
+270,Smartphone,Austrália,2024-06-01 20:31:00,Nível 0,1,19.124804729,20
+654,Smartphone,Canadá,2024-06-01 17:28:00,Nível 1,0,0.0,17
+724,Tablet,Austrália,2024-06-01 20:19:00,Nível 0,0,0.0,20
+521,Tablet,Canadá,2024-06-01 07:13:00,Nível 1,0,0.0,7
+1021,Tablet,EUA,2024-06-01 15:38:00,Nível 1,1,1.987935445,15
+2,Smartphone,Reino Unido,2024-06-01 08:19:00,Nível 1,0,0.0,8
+1849,Smartphone,Reino Unido,2024-06-01 11:00:00,Nível 0,0,0.0,11
+338,Desktop,Brasil,2024-06-01 18:19:00,Nível 0,0,0.0,18
+1915,Smartphone,Índia,2024-06-01 02:58:00,Nível 0,0,0.0,2
+792,Tablet,Austrália,2024-06-01 15:17:00,Nível 1,0,0.0,15
+1337,Smartphone,França,2024-06-01 15:11:00,Nível 0,1,15.512701905,15
+250,Smartphone,Índia,2024-06-01 09:45:00,Nível 1,0,0.0,9
+1082,Tablet,EUA,2024-06-01 01:03:00,Nível 0,0,0.0,1
+762,Smartphone,França,2024-06-01 23:42:00,Nível 0,0,0.0,23
+374,Desktop,Austrália,2024-06-01 07:23:00,Nível 1,0,0.0,7
+1244,Tablet,Canadá,2024-06-01 10:17:00,Nível 0,1,19.329071518,10
+154,Tablet,Brasil,2024-06-01 14:07:00,Nível 0,0,0.0,14
+1338,Desktop,França,2024-06-01 01:43:00,Nível 0,0,0.0,1
+35,Smartphone,Índia,2024-06-01 10:49:00,Nível 1,1,17.46682583,10
+1530,Desktop,Reino Unido,2024-06-01 17:27:00,Nível 0,1,20.025623472,17
+526,Smartphone,EUA,2024-06-01 22:51:00,Nível 1,0,0.0,22
+790,Smartphone,Brasil,2024-06-01 00:07:00,Nível 1,0,0.0,0
+895,Smartphone,Brasil,2024-06-01 04:44:00,Nível 0,0,0.0,4
+1783,Tablet,Índia,2024-06-01 22:20:00,Nível 1,0,0.0,22
+1735,Smartphone,Alemanha,2024-06-01 01:11:00,Nível 1,1,16.79136428,1
+41,Tablet,Índia,2024-06-01 18:37:00,Nível 0,0,0.0,18
+748,Smartphone,Canadá,2024-06-01 21:23:00,Nível 0,0,0.0,21
+504,Desktop,Reino Unido,2024-06-01 14:48:00,Nível 0,1,19.784259493,14
+1796,Smartphone,Reino Unido,2024-06-01 14:14:00,Nível 0,1,3.238832841,14
+525,Smartphone,Reino Unido,2024-06-01 09:29:00,Nível 0,0,0.0,9
+946,Tablet,Austrália,2024-06-01 22:36:00,Nível 0,0,0.0,22
+1499,Smartphone,Austrália,2024-06-01 17:53:00,Nível 1,0,0.0,17
+1773,Tablet,Brasil,2024-06-01 09:52:00,Nível 1,0,0.0,9
+1080,Tablet,França,2024-06-01 04:22:00,Nível 0,0,0.0,4
+670,Tablet,França,2024-06-01 13:07:00,Nível 0,1,4.510981388,13
+1192,Tablet,Índia,2024-06-01 14:17:00,Nível 1,0,0.0,14
+978,Smartphone,Alemanha,2024-06-01 07:26:00,Nível 0,0,0.0,7
+141,Tablet,Brasil,2024-06-01 05:46:00,Nível 0,0,0.0,5
+735,Desktop,Austrália,2024-06-01 14:43:00,Nível 1,0,0.0,14
+1435,Desktop,Reino Unido,2024-06-01 22:05:00,Nível 1,0,0.0,22
+153,Smartphone,Índia,2024-06-01 14:08:00,Nível 1,0,0.0,14
+1934,Smartphone,Reino Unido,2024-06-01 23:44:00,Nível 0,1,19.476588127,23
+897,Smartphone,Índia,2024-06-01 11:56:00,Nível 1,1,21.77669098,11
+816,Desktop,EUA,2024-06-01 18:54:00,Nível 1,0,0.0,18
+682,Smartphone,Reino Unido,2024-06-01 09:23:00,Nível 1,0,0.0,9
+488,Smartphone,Reino Unido,2024-06-01 08:57:00,Nível 0,1,3.616823695,8
+206,Smartphone,Índia,2024-06-01 08:56:00,Nível 1,0,0.0,8
+1844,Tablet,Alemanha,2024-06-01 03:04:00,Nível 0,0,0.0,3
+1241,Tablet,Canadá,2024-06-01 16:44:00,Nível 0,1,18.908377378,16
+1434,Desktop,Austrália,2024-06-01 06:17:00,Nível 1,0,0.0,6
+1385,Tablet,Austrália,2024-06-01 04:40:00,Nível 0,0,0.0,4
+1572,Desktop,Alemanha,2024-06-01 06:15:00,Nível 0,0,0.0,6
+1674,Smartphone,Reino Unido,2024-06-01 09:27:00,Nível 0,1,50.34499144,9
+275,Tablet,Alemanha,2024-06-01 08:55:00,Nível 0,1,0.346205309,8
+864,Tablet,Austrália,2024-06-01 04:06:00,Nível 0,0,0.0,4
+1817,Smartphone,Brasil,2024-06-01 13:35:00,Nível 0,1,4.388114252,13
+1250,Tablet,Austrália,2024-06-01 21:16:00,Nível 0,1,3.258801607,21
+1677,Tablet,Índia,2024-06-01 03:58:00,Nível 1,0,0.0,3
+217,Smartphone,Índia,2024-06-01 07:33:00,Nível 0,0,0.0,7
+662,Desktop,Brasil,2024-06-01 10:16:00,Nível 0,0,0.0,10
+552,Desktop,Alemanha,2024-06-01 21:19:00,Nível 1,0,0.0,21
+1550,Smartphone,Brasil,2024-06-01 10:17:00,Nível 1,1,20.83318948,10
+1452,Desktop,EUA,2024-06-01 20:31:00,Nível 0,1,49.36368104,20
+1543,Smartphone,Reino Unido,2024-06-01 11:32:00,Nível 1,0,0.0,11
+403,Tablet,Canadá,2024-06-01 11:59:00,Nível 0,0,0.0,11
+962,Desktop,Austrália,2024-06-01 21:50:00,Nível 0,0,0.0,21
+1155,Desktop,Brasil,2024-06-01 13:22:00,Nível 1,0,0.0,13
+543,Tablet,Brasil,2024-06-01 07:21:00,Nível 0,0,0.0,7
+1017,Tablet,Reino Unido,2024-06-01 10:38:00,Nível 1,0,0.0,10
+259,Tablet,EUA,2024-06-01 07:12:00,Nível 1,0,0.0,7
+676,Tablet,Canadá,2024-06-01 15:26:00,Nível 0,0,0.0,15
+1293,Desktop,Índia,2024-06-01 13:09:00,Nível 0,1,19.887745425,13
+1944,Tablet,Reino Unido,2024-06-01 10:22:00,Nível 0,0,0.0,10
+1689,Desktop,Alemanha,2024-06-01 08:13:00,Nível 0,1,0.361247752,8
+1991,Desktop,Alemanha,2024-06-01 21:24:00,Nível 0,0,0.0,21
+1329,Desktop,Canadá,2024-06-01 20:06:00,Nível 0,0,0.0,20
+1195,Tablet,Reino Unido,2024-06-01 18:41:00,Nível 0,0,0.0,18
+489,Smartphone,EUA,2024-06-01 11:49:00,Nível 0,0,0.0,11
+396,Desktop,Austrália,2024-06-01 03:43:00,Nível 0,0,0.0,3
+1810,Tablet,Índia,2024-06-01 08:25:00,Nível 1,1,0.020220313,8
+1542,Desktop,Brasil,2024-06-01 03:08:00,Nível 1,0,0.0,3
+296,Desktop,EUA,2024-06-01 15:39:00,Nível 1,0,0.0,15
+1500,Smartphone,Canadá,2024-06-01 04:24:00,Nível 1,0,0.0,4
+704,Tablet,Alemanha,2024-06-01 11:17:00,Nível 0,0,0.0,11
+190,Tablet,França,2024-06-01 18:34:00,Nível 1,0,0.0,18
+878,Tablet,Reino Unido,2024-06-01 20:24:00,Nível 0,0,0.0,20
+1008,Tablet,EUA,2024-06-01 10:28:00,Nível 0,1,19.001530058,10
+604,Desktop,Canadá,2024-06-01 17:00:00,Nível 1,0,0.0,17
+279,Smartphone,Alemanha,2024-06-01 12:05:00,Nível 1,0,0.0,12
+1946,Smartphone,Brasil,2024-06-01 14:12:00,Nível 0,0,0.0,14
+677,Smartphone,Austrália,2024-06-01 09:28:00,Nível 0,1,20.104927833,9
+318,Desktop,Alemanha,2024-06-01 20:13:00,Nível 0,0,0.0,20
+1389,Smartphone,Canadá,2024-06-01 14:51:00,Nível 1,0,0.0,14
+771,Tablet,Índia,2024-06-01 15:40:00,Nível 1,0,0.0,15
+203,Smartphone,EUA,2024-06-01 15:11:00,Nível 0,1,18.958455336,15
+1967,Smartphone,EUA,2024-06-01 06:06:00,Nível 0,1,3.545155106,6
+751,Smartphone,Índia,2024-06-01 13:03:00,Nível 0,0,0.0,13
+1446,Desktop,Alemanha,2024-06-01 10:07:00,Nível 0,0,0.0,10
+1700,Smartphone,Índia,2024-06-01 09:10:00,Nível 1,1,19.53048216,9
+1688,Tablet,França,2024-06-01 13:30:00,Nível 0,1,36.42967441,13
+1715,Tablet,Reino Unido,2024-06-01 02:16:00,Nível 0,0,0.0,2
+1433,Smartphone,Alemanha,2024-06-01 00:44:00,Nível 1,0,0.0,0
+1637,Tablet,Brasil,2024-06-01 16:11:00,Nível 0,1,34.80444416,16
+105,Tablet,Índia,2024-06-01 02:41:00,Nível 1,0,0.0,2
+1016,Desktop,Brasil,2024-06-01 06:58:00,Nível 0,0,0.0,6
+896,Desktop,Alemanha,2024-06-01 22:30:00,Nível 0,0,0.0,22
+1501,Smartphone,Reino Unido,2024-06-01 16:33:00,Nível 0,0,0.0,16
+1328,Tablet,Canadá,2024-06-01 05:36:00,Nível 1,0,0.0,5
+224,Tablet,Canadá,2024-06-01 14:04:00,Nível 0,0,0.0,14
+1706,Tablet,Brasil,2024-06-01 15:15:00,Nível 0,0,0.0,15
+1775,Desktop,Brasil,2024-06-01 11:59:00,Nível 0,1,4.473288502,11
+1255,Desktop,EUA,2024-06-01 08:25:00,Nível 0,0,0.0,8
+1460,Smartphone,Brasil,2024-06-01 11:24:00,Nível 0,0,0.0,11
+1031,Smartphone,Brasil,2024-06-01 13:01:00,Nível 0,1,4.069991048,13
+1257,Smartphone,Brasil,2024-06-01 14:00:00,Nível 0,0,0.0,14
+997,Tablet,Canadá,2024-06-01 14:46:00,Nível 0,0,0.0,14
+823,Smartphone,Brasil,2024-06-01 03:22:00,Nível 0,0,0.0,3
+1203,Smartphone,Canadá,2024-06-01 04:31:00,Nível 0,0,0.0,4
+1866,Desktop,Alemanha,2024-06-01 19:09:00,Nível 0,1,46.22247206,19
+303,Tablet,Canadá,2024-06-01 05:04:00,Nível 0,1,4.361337412,5
+1078,Desktop,EUA,2024-06-01 03:34:00,Nível 0,0,0.0,3
+1187,Smartphone,Austrália,2024-06-01 02:00:00,Nível 0,0,0.0,2
+1632,Desktop,Reino Unido,2024-06-01 18:08:00,Nível 0,1,42.81893938,18
+198,Desktop,Reino Unido,2024-06-01 18:09:00,Nível 0,0,0.0,18
+4,Smartphone,Índia,2024-06-01 22:52:00,Nível 1,0,0.0,22
+442,Tablet,França,2024-06-01 18:25:00,Nível 1,0,0.0,18
+984,Tablet,França,2024-06-01 03:09:00,Nível 0,0,0.0,3
+990,Desktop,Austrália,2024-06-01 13:10:00,Nível 1,0,0.0,13
+1220,Desktop,Reino Unido,2024-06-01 07:02:00,Nível 1,0,0.0,7
+664,Smartphone,Austrália,2024-06-01 03:57:00,Nível 0,0,0.0,3
+1726,Tablet,Índia,2024-06-01 04:36:00,Nível 0,0,0.0,4
+1259,Desktop,Canadá,2024-06-01 05:33:00,Nível 0,0,0.0,5
+847,Desktop,Alemanha,2024-06-01 04:30:00,Nível 0,0,0.0,4
+922,Tablet,Índia,2024-06-01 19:48:00,Nível 0,1,19.156432826,19
+564,Tablet,Alemanha,2024-06-01 03:45:00,Nível 0,1,5.558840565,3
+1295,Desktop,EUA,2024-06-01 15:13:00,Nível 0,1,18.98630784,15
+814,Desktop,Alemanha,2024-06-01 11:59:00,Nível 0,1,3.619029381,11
+707,Desktop,Brasil,2024-06-01 06:22:00,Nível 0,0,0.0,6
+1280,Tablet,Alemanha,2024-06-01 22:58:00,Nível 0,1,0.404558407,22
+203,Desktop,Austrália,2024-06-01 02:27:00,Nível 0,1,37.08969333,2
+1635,Tablet,Índia,2024-06-01 12:04:00,Nível 0,0,0.0,12
+1311,Smartphone,Alemanha,2024-06-01 08:22:00,Nível 1,0,0.0,8
+1708,Tablet,EUA,2024-06-01 17:41:00,Nível 0,0,0.0,17
+748,Tablet,Reino Unido,2024-06-01 21:21:00,Nível 1,1,1.372919507,21
+516,Smartphone,EUA,2024-06-01 06:58:00,Nível 1,0,0.0,6
+1525,Desktop,EUA,2024-06-01 04:07:00,Nível 1,1,13.1694296,4
+624,Tablet,Índia,2024-06-01 08:44:00,Nível 0,0,0.0,8
+182,Desktop,Reino Unido,2024-06-01 22:31:00,Nível 1,0,0.0,22
+1429,Smartphone,Reino Unido,2024-06-01 02:32:00,Nível 1,0,0.0,2
+623,Smartphone,França,2024-06-01 10:43:00,Nível 0,0,0.0,10
+231,Smartphone,Reino Unido,2024-06-01 18:37:00,Nível 0,0,0.0,18
+699,Desktop,Alemanha,2024-06-01 21:34:00,Nível 1,0,0.0,21
+1829,Smartphone,EUA,2024-06-01 00:57:00,Nível 0,0,0.0,0
+289,Tablet,EUA,2024-06-01 10:42:00,Nível 1,0,0.0,10
+1021,Desktop,Canadá,2024-06-01 06:19:00,Nível 1,0,0.0,6
+854,Desktop,França,2024-06-01 15:11:00,Nível 0,0,0.0,15
+1265,Desktop,Austrália,2024-06-01 06:05:00,Nível 0,0,0.0,6
+646,Desktop,Alemanha,2024-06-01 21:59:00,Nível 0,1,4.687305634,21
+909,Smartphone,Brasil,2024-06-01 08:50:00,Nível 1,0,0.0,8
+1137,Smartphone,Brasil,2024-06-01 23:14:00,Nível 0,0,0.0,23
+173,Desktop,França,2024-06-01 03:14:00,Nível 1,0,0.0,3
+1206,Desktop,Canadá,2024-06-01 08:10:00,Nível 0,1,58.23064838,8
+1590,Smartphone,Reino Unido,2024-06-01 06:32:00,Nível 1,0,0.0,6
+798,Desktop,Índia,2024-06-01 05:41:00,Nível 1,1,2.682763231,5
+1099,Smartphone,Brasil,2024-06-01 11:02:00,Nível 1,1,2.72780024,11
+376,Desktop,Brasil,2024-06-01 09:16:00,Nível 0,0,0.0,9
+689,Smartphone,EUA,2024-06-01 08:04:00,Nível 0,0,0.0,8
+453,Desktop,França,2024-06-01 13:41:00,Nível 0,0,0.0,13
+1234,Tablet,França,2024-06-01 07:58:00,Nível 0,0,0.0,7
+263,Smartphone,Alemanha,2024-06-01 12:41:00,Nível 1,0,0.0,12
+1467,Desktop,Austrália,2024-06-01 21:46:00,Nível 0,0,0.0,21
+1509,Tablet,Austrália,2024-06-01 21:57:00,Nível 1,1,19.23572504,21
+825,Smartphone,Alemanha,2024-06-01 03:40:00,Nível 0,1,18.318978315,3
+1943,Tablet,Alemanha,2024-06-01 08:57:00,Nível 0,1,18.975617174,8
+930,Smartphone,Reino Unido,2024-06-01 10:59:00,Nível 1,0,0.0,10
+1797,Desktop,Índia,2024-06-01 20:07:00,Nível 1,0,0.0,20
+750,Smartphone,Canadá,2024-06-01 17:45:00,Nível 1,0,0.0,17
+1960,Tablet,Alemanha,2024-06-01 15:05:00,Nível 1,0,0.0,15
+1699,Tablet,Brasil,2024-06-01 20:45:00,Nível 0,0,0.0,20
+702,Smartphone,Alemanha,2024-06-01 10:11:00,Nível 0,0,0.0,10
+330,Desktop,Austrália,2024-06-01 03:10:00,Nível 1,0,0.0,3
+513,Desktop,Canadá,2024-06-01 05:33:00,Nível 1,0,0.0,5
+1065,Desktop,Brasil,2024-06-01 06:45:00,Nível 0,0,0.0,6
+540,Desktop,Austrália,2024-06-01 05:40:00,Nível 1,1,0.258555099,5
+816,Desktop,Reino Unido,2024-06-01 17:04:00,Nível 1,0,0.0,17
+884,Smartphone,Brasil,2024-06-01 20:52:00,Nível 1,0,0.0,20
+1939,Desktop,EUA,2024-06-01 11:53:00,Nível 0,0,0.0,11
+604,Smartphone,EUA,2024-06-01 02:16:00,Nível 1,0,0.0,2
+1241,Smartphone,Austrália,2024-06-01 21:09:00,Nível 1,0,0.0,21
+1647,Tablet,Brasil,2024-06-01 13:17:00,Nível 1,0,0.0,13
+1075,Smartphone,Reino Unido,2024-06-01 10:26:00,Nível 1,0,0.0,10
+1364,Smartphone,Canadá,2024-06-01 03:11:00,Nível 0,0,0.0,3
+1127,Tablet,EUA,2024-06-01 12:05:00,Nível 0,0,0.0,12
+699,Smartphone,Canadá,2024-06-01 09:58:00,Nível 1,0,0.0,9
+751,Smartphone,França,2024-06-01 02:50:00,Nível 1,0,0.0,2
+833,Desktop,EUA,2024-06-01 16:12:00,Nível 0,0,0.0,16
+853,Tablet,Índia,2024-06-01 05:16:00,Nível 1,0,0.0,5
+720,Tablet,EUA,2024-06-01 09:30:00,Nível 0,0,0.0,9
+824,Smartphone,Índia,2024-06-01 11:41:00,Nível 0,1,4.691597258,11
+12,Smartphone,Austrália,2024-06-01 23:56:00,Nível 0,0,0.0,23
+1782,Desktop,Reino Unido,2024-06-01 21:12:00,Nível 1,0,0.0,21
+1505,Tablet,Reino Unido,2024-06-01 08:18:00,Nível 1,0,0.0,8
+644,Tablet,EUA,2024-06-01 10:41:00,Nível 1,1,1.919720195,10
+1535,Desktop,Brasil,2024-06-01 03:43:00,Nível 1,0,0.0,3
+1590,Desktop,Canadá,2024-06-01 07:57:00,Nível 1,1,17.25420529,7
+336,Desktop,Brasil,2024-06-01 00:43:00,Nível 0,0,0.0,0
+1877,Smartphone,Reino Unido,2024-06-01 20:32:00,Nível 0,1,0.339804318,20
+162,Smartphone,Índia,2024-06-01 15:00:00,Nível 0,0,0.0,15
+991,Tablet,França,2024-06-01 11:48:00,Nível 0,1,19.03286883,11
+1720,Desktop,Reino Unido,2024-06-01 02:50:00,Nível 0,0,0.0,2
+564,Desktop,Alemanha,2024-06-01 04:35:00,Nível 1,0,0.0,4
+1292,Tablet,Brasil,2024-06-01 12:11:00,Nível 1,0,0.0,12
+624,Smartphone,Brasil,2024-06-01 17:42:00,Nível 0,0,0.0,17
+685,Desktop,Austrália,2024-06-01 01:44:00,Nível 1,0,0.0,1
+1343,Smartphone,Reino Unido,2024-06-01 22:42:00,Nível 0,1,19.194092898,22
+1920,Tablet,França,2024-06-01 02:22:00,Nível 1,1,21.53067277,2
+1827,Smartphone,Brasil,2024-06-01 13:35:00,Nível 0,1,4.388114252,13
+1634,Desktop,Alemanha,2024-06-01 23:33:00,Nível 1,0,0.0,23
+1096,Smartphone,França,2024-06-01 14:27:00,Nível 0,1,18.665772545,14
+476,Tablet,França,2024-06-01 10:52:00,Nível 0,1,4.876145955,10
+1900,Desktop,França,2024-06-01 14:18:00,Nível 0,0,0.0,14
+247,Smartphone,Índia,2024-06-01 08:48:00,Nível 0,1,19.198183478,8
+1370,Tablet,EUA,2024-06-01 07:08:00,Nível 0,0,0.0,7
+144,Desktop,Índia,2024-06-01 23:49:00,Nível 1,0,0.0,23
+956,Desktop,Austrália,2024-06-01 22:58:00,Nível 1,0,0.0,22
+296,Desktop,Reino Unido,2024-06-01 09:41:00,Nível 1,0,0.0,9
+1791,Desktop,EUA,2024-06-01 08:37:00,Nível 0,0,0.0,8
+672,Tablet,Alemanha,2024-06-01 17:46:00,Nível 0,1,19.169487947,17
+1674,Smartphone,Reino Unido,2024-06-01 09:27:00,Nível 0,1,35.34499144,9
+1169,Tablet,Austrália,2024-06-01 16:31:00,Nível 0,1,4.304133583,16
+910,Smartphone,Brasil,2024-06-01 11:24:00,Nível 0,1,4.207392231,11
+342,Desktop,EUA,2024-06-01 06:15:00,Nível 0,1,18.289325027,6
+238,Smartphone,França,2024-06-01 15:48:00,Nível 0,1,4.272312287,15
+1935,Smartphone,Canadá,2024-06-01 08:00:00,Nível 0,1,3.782461379,8
+1144,Desktop,Canadá,2024-06-01 14:46:00,Nível 1,0,0.0,14
+915,Desktop,Austrália,2024-06-01 10:15:00,Nível 0,0,0.0,10
+373,Smartphone,Canadá,2024-06-01 00:15:00,Nível 1,0,0.0,0
+294,Desktop,Alemanha,2024-06-01 08:07:00,Nível 0,0,0.0,8
+494,Desktop,Reino Unido,2024-06-01 14:48:00,Nível 0,1,19.784259493,14
+1647,Smartphone,Brasil,2024-06-01 12:57:00,Nível 0,1,18.514864337,12
+1689,Desktop,Alemanha,2024-06-01 08:13:00,Nível 0,1,15.361247752,8
+1699,Desktop,França,2024-06-01 19:24:00,Nível 0,0,0.0,19
+1769,Tablet,EUA,2024-06-01 23:14:00,Nível 0,0,0.0,23
+1025,Tablet,Canadá,2024-06-01 13:50:00,Nível 0,1,4.180113019,13
+1604,Smartphone,Índia,2024-06-01 06:56:00,Nível 1,0,0.0,6
+1383,Tablet,Alemanha,2024-06-01 00:30:00,Nível 0,1,32.60401991,0
+190,Smartphone,Canadá,2024-06-01 10:36:00,Nível 0,0,0.0,10
+1449,Desktop,França,2024-06-01 09:39:00,Nível 0,1,3.402906674,9
+763,Tablet,Canadá,2024-06-01 16:04:00,Nível 0,0,0.0,16
+1729,Tablet,Índia,2024-06-01 08:49:00,Nível 0,0,0.0,8
+538,Desktop,Reino Unido,2024-06-01 17:13:00,Nível 1,0,0.0,17
+524,Tablet,Austrália,2024-06-01 23:12:00,Nível 1,0,0.0,23
+1401,Tablet,França,2024-06-01 01:40:00,Nível 0,0,0.0,1
+76,Smartphone,Índia,2024-06-01 18:26:00,Nível 0,0,0.0,18
+445,Smartphone,Alemanha,2024-06-01 19:58:00,Nível 0,0,0.0,19
+1630,Tablet,Alemanha,2024-06-01 21:09:00,Nível 0,0,0.0,21
+806,Desktop,EUA,2024-06-01 10:15:00,Nível 1,0,0.0,10
+1501,Desktop,Austrália,2024-06-01 21:45:00,Nível 0,0,0.0,21
+642,Desktop,Índia,2024-06-01 14:08:00,Nível 1,0,0.0,14
+1219,Desktop,França,2024-06-01 00:51:00,Nível 1,0,0.0,0
+89,Smartphone,Brasil,2024-06-01 10:57:00,Nível 0,0,0.0,10
+1040,Desktop,França,2024-06-01 02:01:00,Nível 1,1,2.717785497,2
+1429,Tablet,Brasil,2024-06-01 12:31:00,Nível 0,0,0.0,12
+1425,Desktop,Austrália,2024-06-01 13:38:00,Nível 0,1,4.342809687,13
+676,Desktop,EUA,2024-06-01 00:58:00,Nível 0,1,18.325175165,0
+526,Desktop,Brasil,2024-06-01 16:23:00,Nível 1,0,0.0,16
+1620,Smartphone,Índia,2024-06-01 02:02:00,Nível 0,1,4.356240882,2
+1647,Smartphone,Brasil,2024-06-01 00:34:00,Nível 0,1,50.47101393,0
+869,Tablet,Canadá,2024-06-01 22:30:00,Nível 1,0,0.0,22
+1253,Desktop,EUA,2024-06-01 04:25:00,Nível 1,0,0.0,4
+1982,Tablet,EUA,2024-06-01 20:46:00,Nível 0,0,0.0,20
+1204,Tablet,EUA,2024-06-01 06:23:00,Nível 0,0,0.0,6
+625,Tablet,Canadá,2024-06-01 06:20:00,Nível 1,0,0.0,6
+913,Desktop,Alemanha,2024-06-01 04:21:00,Nível 1,0,0.0,4
+1873,Desktop,EUA,2024-06-01 10:57:00,Nível 0,0,0.0,10
+682,Tablet,França,2024-06-01 17:23:00,Nível 0,0,0.0,17
+286,Desktop,Reino Unido,2024-06-01 19:13:00,Nível 0,0,0.0,19
+1536,Smartphone,Reino Unido,2024-06-01 21:46:00,Nível 0,0,0.0,21
+1405,Desktop,EUA,2024-06-01 03:56:00,Nível 0,0,0.0,3
+1068,Tablet,Canadá,2024-06-01 01:22:00,Nível 0,1,20.022827274,1
+253,Tablet,Índia,2024-06-01 11:39:00,Nível 1,0,0.0,11
+1863,Tablet,Austrália,2024-06-01 04:35:00,Nível 1,0,0.0,4
+296,Tablet,Austrália,2024-06-01 22:22:00,Nível 1,0,0.0,22
+1668,Tablet,França,2024-06-01 02:23:00,Nível 1,0,0.0,2
+1672,Smartphone,EUA,2024-06-01 09:34:00,Nível 1,0,0.0,9
+1491,Smartphone,Brasil,2024-06-01 03:08:00,Nível 0,0,0.0,3
+697,Smartphone,Alemanha,2024-06-01 09:32:00,Nível 0,1,15.373630547,9
+1687,Smartphone,Canadá,2024-06-01 03:07:00,Nível 1,0,0.0,3
+1336,Desktop,Reino Unido,2024-06-01 14:24:00,Nível 0,0,0.0,14
+90,Smartphone,Brasil,2024-06-01 02:13:00,Nível 0,1,15.354867282,2
+1571,Tablet,Canadá,2024-06-01 21:59:00,Nível 0,1,30.13955487,21
+104,Tablet,Índia,2024-06-01 19:01:00,Nível 0,1,19.130383409,19
+1585,Smartphone,Alemanha,2024-06-01 05:30:00,Nível 1,1,12.98815358,5
+1105,Tablet,Alemanha,2024-06-01 01:45:00,Nível 0,1,58.63397023,1
+315,Desktop,Alemanha,2024-06-01 17:28:00,Nível 0,1,3.411386791,17
+1182,Smartphone,Austrália,2024-06-01 17:30:00,Nível 1,1,24.40531094,17
+956,Tablet,Canadá,2024-06-01 20:40:00,Nível 0,0,0.0,20
+585,Smartphone,Alemanha,2024-06-01 17:13:00,Nível 0,1,43.5479974,17
+688,Smartphone,Alemanha,2024-06-01 15:03:00,Nível 1,0,0.0,15
+1370,Desktop,Canadá,2024-06-01 01:47:00,Nível 1,0,0.0,1
+98,Desktop,Índia,2024-06-01 03:25:00,Nível 1,0,0.0,3
+1077,Tablet,Alemanha,2024-06-01 07:26:00,Nível 1,0,0.0,7
+1636,Desktop,Alemanha,2024-06-01 16:25:00,Nível 1,0,0.0,16
+438,Smartphone,Canadá,2024-06-01 12:08:00,Nível 1,0,0.0,12
+1391,Tablet,Índia,2024-06-01 21:00:00,Nível 1,0,0.0,21
+1725,Tablet,Alemanha,2024-06-01 15:02:00,Nível 0,0,0.0,15
+1956,Tablet,França,2024-06-01 01:03:00,Nível 0,0,0.0,1
+35,Desktop,Canadá,2024-06-01 05:38:00,Nível 0,1,18.734061125,5
+1410,Tablet,França,2024-06-01 06:06:00,Nível 0,1,0.480004892,6
+391,Smartphone,Brasil,2024-06-01 02:50:00,Nível 0,0,0.0,2
+993,Desktop,Brasil,2024-06-01 23:07:00,Nível 0,0,0.0,23
+469,Desktop,Reino Unido,2024-06-01 02:58:00,Nível 0,0,0.0,2
+1165,Desktop,Reino Unido,2024-06-01 09:31:00,Nível 1,0,0.0,9
+1277,Tablet,Austrália,2024-06-01 13:37:00,Nível 0,0,0.0,13
+1891,Smartphone,Índia,2024-06-01 18:38:00,Nível 0,0,0.0,18
+1161,Tablet,Alemanha,2024-06-01 17:19:00,Nível 1,0,0.0,17
+1864,Smartphone,Índia,2024-06-01 15:59:00,Nível 0,1,3.233658015,15
+951,Desktop,Alemanha,2024-06-01 21:38:00,Nível 1,0,0.0,21
+794,Tablet,França,2024-06-01 23:12:00,Nível 0,0,0.0,23
+1534,Tablet,Brasil,2024-06-01 14:51:00,Nível 0,1,15.444242129,14
+233,Smartphone,Alemanha,2024-06-01 12:21:00,Nível 0,0,0.0,12
+1498,Desktop,Canadá,2024-06-01 22:23:00,Nível 1,0,0.0,22
+1305,Smartphone,Brasil,2024-06-01 13:00:00,Nível 0,0,0.0,13
+1304,Tablet,Austrália,2024-06-01 11:57:00,Nível 0,1,3.86378655,11
+662,Tablet,Índia,2024-06-01 17:34:00,Nível 1,0,0.0,17
+1835,Tablet,Brasil,2024-06-01 08:29:00,Nível 0,0,0.0,8
+1023,Desktop,Brasil,2024-06-01 09:43:00,Nível 0,1,4.301822869,9
+1161,Tablet,Índia,2024-06-01 00:44:00,Nível 1,0,0.0,0
+1822,Desktop,Índia,2024-06-01 15:03:00,Nível 0,0,0.0,15
+160,Desktop,Reino Unido,2024-06-01 06:02:00,Nível 1,1,17.23715327,6
+883,Desktop,Austrália,2024-06-01 01:47:00,Nível 0,1,3.900468723,1
+1648,Smartphone,Brasil,2024-06-01 06:26:00,Nível 0,0,0.0,6
+1760,Smartphone,Índia,2024-06-01 19:13:00,Nível 0,1,3.994001328,19
+1461,Desktop,Canadá,2024-06-01 20:10:00,Nível 0,1,20.68869146,20
+134,Smartphone,França,2024-06-01 03:40:00,Nível 1,0,0.0,3
+380,Smartphone,Reino Unido,2024-06-01 13:45:00,Nível 1,0,0.0,13
+883,Desktop,Índia,2024-06-01 19:47:00,Nível 0,0,0.0,19
+1123,Smartphone,Austrália,2024-06-01 10:23:00,Nível 0,0,0.0,10
+947,Tablet,França,2024-06-01 14:03:00,Nível 0,0,0.0,14
+1493,Smartphone,Austrália,2024-06-01 06:14:00,Nível 0,1,3.984868471,6
+1763,Smartphone,Canadá,2024-06-01 07:05:00,Nível 1,0,0.0,7
+329,Desktop,Índia,2024-06-01 05:47:00,Nível 0,0,0.0,5
+398,Desktop,Austrália,2024-06-01 10:48:00,Nível 0,1,48.57067991,10
+800,Desktop,Canadá,2024-06-01 01:50:00,Nível 1,0,0.0,1
+401,Tablet,Índia,2024-06-01 17:57:00,Nível 0,1,4.313438532,17
+843,Desktop,Alemanha,2024-06-01 20:26:00,Nível 1,0,0.0,20
+1350,Smartphone,EUA,2024-06-01 20:14:00,Nível 0,0,0.0,20
+405,Smartphone,Reino Unido,2024-06-01 18:16:00,Nível 0,0,0.0,18
+1922,Tablet,EUA,2024-06-01 02:50:00,Nível 0,0,0.0,2
+814,Desktop,Alemanha,2024-06-01 11:59:00,Nível 0,1,18.619029381,11
+730,Tablet,EUA,2024-06-01 20:14:00,Nível 0,1,3.36422574,20
+1183,Desktop,Austrália,2024-06-01 19:51:00,Nível 0,0,0.0,19
+1524,Tablet,Austrália,2024-06-01 18:54:00,Nível 0,0,0.0,18
+732,Smartphone,Canadá,2024-06-01 00:03:00,Nível 0,0,0.0,0
+752,Smartphone,Alemanha,2024-06-01 23:29:00,Nível 0,1,15.289071502,23
+1486,Tablet,Reino Unido,2024-06-01 11:33:00,Nível 0,1,19.343478316,11
+910,Tablet,EUA,2024-06-01 18:55:00,Nível 1,1,17.06131015,18
+1596,Tablet,Reino Unido,2024-06-01 15:37:00,Nível 0,0,0.0,15
+330,Smartphone,Índia,2024-06-01 04:45:00,Nível 0,0,0.0,4
+1687,Tablet,Reino Unido,2024-06-01 03:03:00,Nível 0,0,0.0,3
+988,Tablet,Índia,2024-06-01 20:15:00,Nível 0,1,18.6147876,20
+593,Desktop,Reino Unido,2024-06-01 22:38:00,Nível 0,0,0.0,22
+1465,Desktop,Brasil,2024-06-01 11:44:00,Nível 0,0,0.0,11
+1404,Desktop,Índia,2024-06-01 07:46:00,Nível 0,0,0.0,7
+1945,Smartphone,Canadá,2024-06-01 08:00:00,Nível 0,1,18.782461379,8
+527,Tablet,Canadá,2024-06-01 11:31:00,Nível 0,1,3.606713954,11
+1854,Smartphone,Índia,2024-06-01 15:59:00,Nível 0,1,3.233658015,15
+1347,Tablet,Brasil,2024-06-01 16:07:00,Nível 0,1,18.770987408,16
+937,Smartphone,Índia,2024-06-01 04:46:00,Nível 0,0,0.0,4
+855,Smartphone,Austrália,2024-06-01 00:39:00,Nível 0,0,0.0,0
+1633,Smartphone,França,2024-06-01 05:30:00,Nível 0,1,18.15636046,5
+1940,Smartphone,Austrália,2024-06-01 17:47:00,Nível 0,1,4.029106364,17
+1364,Tablet,Brasil,2024-06-01 22:59:00,Nível 0,0,0.0,22
+1425,Desktop,Reino Unido,2024-06-01 10:40:00,Nível 1,1,2.667114597,10
+393,Desktop,Reino Unido,2024-06-01 02:58:00,Nível 0,1,18.673735853,2
+1664,Smartphone,Reino Unido,2024-06-01 09:27:00,Nível 0,1,50.34499144,9
+1497,Smartphone,Canadá,2024-06-01 00:38:00,Nível 1,0,0.0,0
+1544,Desktop,Brasil,2024-06-01 04:02:00,Nível 1,0,0.0,4
+1158,Tablet,França,2024-06-01 15:39:00,Nível 0,1,4.285570621,15
+1517,Smartphone,Índia,2024-06-01 02:52:00,Nível 1,0,0.0,2
+1811,Smartphone,Reino Unido,2024-06-01 12:31:00,Nível 1,0,0.0,12
+841,Tablet,EUA,2024-06-01 15:49:00,Nível 0,0,0.0,15
+401,Tablet,Índia,2024-06-01 03:43:00,Nível 0,1,20.226184956,3
+634,Tablet,Austrália,2024-06-01 21:10:00,Nível 0,1,19.588266627,21
+470,Tablet,Canadá,2024-06-01 22:24:00,Nível 0,0,0.0,22
+90,Smartphone,Brasil,2024-06-01 18:50:00,Nível 0,0,0.0,18
+1549,Desktop,EUA,2024-06-01 19:52:00,Nível 1,0,0.0,19
+167,Desktop,Canadá,2024-06-01 08:27:00,Nível 1,0,0.0,8
+821,Tablet,Austrália,2024-06-01 16:38:00,Nível 0,0,0.0,16
+1647,Tablet,Brasil,2024-06-01 16:11:00,Nível 0,1,49.80444416,16
+792,Smartphone,Canadá,2024-06-01 07:11:00,Nível 1,0,0.0,7
+1970,Tablet,França,2024-06-01 22:48:00,Nível 0,1,57.28124744,22
+396,Tablet,EUA,2024-06-01 11:57:00,Nível 0,1,58.56633125,11
+1956,Smartphone,Brasil,2024-06-01 12:17:00,Nível 1,0,0.0,12
+1189,Desktop,Índia,2024-06-01 01:11:00,Nível 1,0,0.0,1
+25,Desktop,Reino Unido,2024-06-01 04:06:00,Nível 1,0,0.0,4
+1769,Desktop,Brasil,2024-06-01 23:19:00,Nível 1,0,0.0,23
+449,Desktop,Canadá,2024-06-01 11:13:00,Nível 0,1,18.855968601,11
+1459,Desktop,França,2024-06-01 08:15:00,Nível 1,0,0.0,8
+497,Smartphone,Alemanha,2024-06-01 02:24:00,Nível 1,0,0.0,2
+519,Desktop,Alemanha,2024-06-01 11:48:00,Nível 0,1,18.421529301,11
+1297,Smartphone,França,2024-06-01 12:38:00,Nível 0,0,0.0,12
+1461,Smartphone,Alemanha,2024-06-01 05:20:00,Nível 0,0,0.0,5
+1216,Tablet,Alemanha,2024-06-01 15:46:00,Nível 0,0,0.0,15
+188,Desktop,Canadá,2024-06-01 21:23:00,Nível 1,1,2.627259351,21
+1225,Desktop,EUA,2024-06-01 05:20:00,Nível 0,1,4.672967504,5
+11,Tablet,Canadá,2024-06-01 18:25:00,Nível 1,0,0.0,18
+96,Tablet,Índia,2024-06-01 18:18:00,Nível 0,0,0.0,18
+1530,Desktop,Austrália,2024-06-01 18:56:00,Nível 0,0,0.0,18
+801,Tablet,Austrália,2024-06-01 05:07:00,Nível 0,0,0.0,5
+885,Desktop,Índia,2024-06-01 06:07:00,Nível 0,0,0.0,6
+154,Tablet,Brasil,2024-06-01 02:45:00,Nível 0,0,0.0,2
+1524,Tablet,Índia,2024-06-01 20:45:00,Nível 0,0,0.0,20
+1758,Desktop,Canadá,2024-06-01 09:30:00,Nível 0,0,0.0,9
+1716,Desktop,França,2024-06-01 16:30:00,Nível 1,0,0.0,16
+1760,Smartphone,Austrália,2024-06-01 10:59:00,Nível 1,0,0.0,10
+1587,Desktop,Índia,2024-06-01 05:25:00,Nível 0,0,0.0,5
+838,Tablet,Brasil,2024-06-01 07:14:00,Nível 1,1,2.292510666,7
+1823,Tablet,Índia,2024-06-01 09:09:00,Nível 1,0,0.0,9
+1853,Desktop,Austrália,2024-06-01 07:19:00,Nível 1,1,1.908919708,7
+800,Smartphone,EUA,2024-06-01 15:50:00,Nível 1,0,0.0,15
